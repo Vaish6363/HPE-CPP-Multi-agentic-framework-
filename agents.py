@@ -5,30 +5,53 @@ from autogen import AssistantAgent, UserProxyAgent
 # --- Configuration ---
 config = {
     "base_url": "https://openrouter.ai/api/v1",
-    "api_key": "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",  # Replace with your actual key
+    "api_key": "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",  # Replace with your actual key
     "model": "deepseek/deepseek-r1-0528-qwen3-8b:free"
 }
 
 # --- Define Agents ---
-user = UserProxyAgent(name="Student", human_input_mode="NEVER", code_execution_config={"use_docker": False})
-
+user = UserProxyAgent(
+    name="Student",
+    human_input_mode="NEVER",
+    code_execution_config={"use_docker": False}
+)
 academic = AssistantAgent(
-    name="AcademicAssistant",
-    llm_config=config,
-    system_message="You are an academic assistant. Answer questions about exams, GPA, study material, and academic performance."
+    name="academic",
+    system_message=(
+        "You are the academic advisor. You help with courses, exams, GPA, and study advice.\n"
+        "If the user's question includes emotions, anxiety, or motivation, invite the 'welfare' agent.\n"
+        "If the user needs job guidance or future planning, suggest involving the 'career' agent.\n"
+        "Always check if another agent might help before answering fully yourself."
+    ),
+    llm_config=config
 )
 career = AssistantAgent(
-    name="CareerCounselor",
-    llm_config=config,
-    system_message="You are a career counselor. Help with resumes, job search, career paths, internships, and placement prep."
+    name="career",
+    system_message=(
+        "You are the career advisor. You help with internships, resumes, job preparation, and skills.\n"
+        "If the user is struggling academically, suggest talking with the 'academic' agent.\n"
+        "If they mention burnout or stress, suggest involving the 'welfare' agent."
+    ),
+    llm_config=config
 )
 welfare = AssistantAgent(
-    name="StudentWelfareAI",
-    llm_config=config,
-    system_message="You are a student welfare advisor. Talk about mental health, stress, sleep, social well-being, and motivation."
+    name="welfare",
+    system_message=(
+        "You are the welfare advisor. You handle mental health, motivation, stress, and well-being.\n"
+        "If the user mentions failing or poor academic performance, suggest involving the 'academic' agent.\n"
+        "If the user expresses hopelessness or uncertainty about the future, involve the 'career' agent."
+    ),
+    llm_config=config
 )
 performance = AssistantAgent(
-    name="PerformanceAnalyzer",
-    llm_config=config,
-    system_message="You are a performance analyzer. Interpret student data, track academic trends, and suggest improvements."
+    name="performance",
+    system_message=(
+        "You are the performance improvement advisor. Your focus is helping users enhance their learning efficiency, "
+        "overcome weaknesses, build habits, and reach their academic or personal development goals.\n\n"
+        "If the user talks about low grades or poor exam results, suggest involving the 'academic' agent.\n"
+        "If the user is feeling demotivated, overwhelmed, or burnt out, consider involving the 'welfare' agent.\n"
+        "If the user is trying to improve job readiness, soft skills, or productivity at work, invite the 'career' agent.\n\n"
+        "Coordinate with other agents when appropriate to provide a complete and personalized support strategy."
+    ),
+    llm_config=config
 )

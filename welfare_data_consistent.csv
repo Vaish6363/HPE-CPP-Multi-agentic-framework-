@@ -1,0 +1,3001 @@
+student_id,name,stress_level,issues_reported,mental_health_support,wellness_sessions
+1001,Ankit R,Low,None,Not required,0
+1002,Priya T,High,Procrastination,Counselling ongoing,3
+1003,Karan K,Low,None,Not required,0
+1004,Rahul K,Moderate,"Depression, Social isolation",Referred to therapist,3
+1005,Rahul K,High,"Anxiety, Burnout",Support suggested,3
+1006,Ankit R,Moderate,"Exam pressure, Overwhelmed",Referred to therapist,1
+1007,Priya S,Low,None,Not required,0
+1008,Aisha M,Low,None,Not required,0
+1009,Priya R,High,Burnout,Support suggested,5
+1010,Priya S,Low,None,Not required,0
+1011,Arjun T,Low,None,Not required,0
+1012,Ravi K,High,"Overwhelmed, Lack of focus",Support suggested,1
+1013,Arjun M,Low,None,Not required,0
+1014,Rahul K,High,"Overwhelmed, Exam pressure",Counselling ongoing,4
+1015,Priya M,Low,None,Not required,0
+1016,Divya M,High,Lack of focus,Counselling ongoing,3
+1017,Arjun R,High,Procrastination,Counselling ongoing,4
+1018,Rahul T,Moderate,Depression,Referred to therapist,5
+1019,Ankit T,Moderate,Depression,Counselling ongoing,2
+1020,Rahul M,Moderate,"Anxiety, Lack of focus",Counselling ongoing,2
+1021,Rahul M,Low,None,Not required,0
+1022,Sneha R,Moderate,"Homesickness, Lack of focus",Referred to therapist,5
+1023,Ravi S,Moderate,Exam pressure,Referred to therapist,1
+1024,Ravi K,Moderate,"Procrastination, Homesickness",Counselling ongoing,1
+1025,Sneha S,Low,None,Not required,0
+1026,Karan K,High,"Lack of focus, Social isolation",Referred to therapist,5
+1027,Ankit R,Low,None,Not required,0
+1028,Arjun T,Low,None,Not required,0
+1029,Rahul S,High,Exam pressure,Referred to therapist,2
+1030,Arjun K,Low,None,Not required,0
+1031,Ankit K,High,Procrastination,Support suggested,1
+1032,Karan S,High,Sleep issues,Referred to therapist,1
+1033,Sneha M,Low,None,Not required,0
+1034,Karan M,Low,None,Not required,0
+1035,Divya T,High,"Burnout, Exam pressure",Counselling ongoing,2
+1036,Ankit K,Moderate,Sleep issues,Referred to therapist,1
+1037,Ankit S,Low,None,Not required,0
+1038,Sneha K,Moderate,"Homesickness, Social isolation",Referred to therapist,3
+1039,Meera M,High,Burnout,Counselling ongoing,5
+1040,Priya S,Moderate,"Overwhelmed, Exam pressure",Referred to therapist,4
+1041,Sneha R,High,"Exam pressure, Social isolation",Support suggested,1
+1042,Priya T,Moderate,Anxiety,Counselling ongoing,2
+1043,Meera T,High,"Sleep issues, Burnout",Support suggested,2
+1044,Aisha K,Low,None,Not required,0
+1045,Karan S,Moderate,Social isolation,Support suggested,1
+1046,Priya K,Moderate,"Procrastination, Anxiety",Support suggested,4
+1047,Karan K,High,"Homesickness, Sleep issues",Counselling ongoing,5
+1048,Ankit R,Low,None,Not required,0
+1049,Ankit R,Moderate,Lack of focus,Counselling ongoing,1
+1050,Rahul T,Low,None,Not required,0
+1051,Karan T,High,"Exam pressure, Social isolation",Referred to therapist,5
+1052,Divya K,High,Homesickness,Referred to therapist,1
+1053,Ankit T,Low,None,Not required,0
+1054,Rahul M,High,"Anxiety, Burnout",Counselling ongoing,1
+1055,Sneha S,Low,None,Not required,0
+1056,Ravi S,Moderate,"Anxiety, Exam pressure",Support suggested,4
+1057,Meera S,Moderate,"Depression, Social isolation",Referred to therapist,1
+1058,Priya R,Low,None,Not required,0
+1059,Ankit S,Low,None,Not required,0
+1060,Rahul T,High,Overwhelmed,Referred to therapist,4
+1061,Priya S,Low,None,Not required,0
+1062,Karan S,High,Homesickness,Counselling ongoing,4
+1063,Aisha R,Low,None,Not required,0
+1064,Ankit S,Moderate,"Depression, Overwhelmed",Support suggested,5
+1065,Ankit R,Moderate,Depression,Counselling ongoing,3
+1066,Arjun K,Moderate,"Anxiety, Social isolation",Counselling ongoing,5
+1067,Karan M,High,"Exam pressure, Sleep issues",Referred to therapist,2
+1068,Aisha K,Moderate,Homesickness,Referred to therapist,3
+1069,Sneha K,Low,None,Not required,0
+1070,Rahul M,Moderate,"Homesickness, Anxiety",Referred to therapist,5
+1071,Ravi R,Low,None,Not required,0
+1072,Karan S,Moderate,"Burnout, Depression",Counselling ongoing,5
+1073,Arjun T,Moderate,"Social isolation, Burnout",Counselling ongoing,1
+1074,Arjun K,Low,None,Not required,0
+1075,Ravi M,High,Sleep issues,Referred to therapist,3
+1076,Arjun R,Low,None,Not required,0
+1077,Arjun T,Moderate,Depression,Counselling ongoing,1
+1078,Rahul S,Moderate,"Sleep issues, Overwhelmed",Counselling ongoing,3
+1079,Divya K,Moderate,"Depression, Lack of focus",Counselling ongoing,5
+1080,Meera R,Moderate,Sleep issues,Support suggested,2
+1081,Divya R,High,"Lack of focus, Sleep issues",Referred to therapist,1
+1082,Ravi R,Low,None,Not required,0
+1083,Ravi K,Low,None,Not required,0
+1084,Rahul S,High,"Procrastination, Overwhelmed",Referred to therapist,3
+1085,Karan K,High,"Procrastination, Depression",Counselling ongoing,5
+1086,Priya T,Moderate,"Anxiety, Exam pressure",Support suggested,4
+1087,Arjun M,Low,None,Not required,0
+1088,Ankit M,Low,None,Not required,0
+1089,Karan M,Moderate,Sleep issues,Support suggested,3
+1090,Karan M,Low,None,Not required,0
+1091,Divya S,High,"Lack of focus, Depression",Support suggested,4
+1092,Sneha T,Low,None,Not required,0
+1093,Rahul T,Low,None,Not required,0
+1094,Meera R,High,Lack of focus,Counselling ongoing,2
+1095,Meera R,Moderate,"Overwhelmed, Procrastination",Counselling ongoing,1
+1096,Meera T,Moderate,"Anxiety, Procrastination",Support suggested,5
+1097,Ravi R,Low,None,Not required,0
+1098,Priya K,Low,None,Not required,0
+1099,Meera S,Moderate,"Anxiety, Social isolation",Counselling ongoing,4
+1100,Karan T,Low,None,Not required,0
+1101,Sneha T,Low,None,Not required,0
+1102,Meera S,Low,None,Not required,0
+1103,Rahul T,Moderate,Sleep issues,Support suggested,2
+1104,Sneha R,Low,None,Not required,0
+1105,Divya T,Low,None,Not required,0
+1106,Priya S,High,Lack of focus,Support suggested,3
+1107,Priya M,Low,None,Not required,0
+1108,Aisha T,Moderate,"Homesickness, Depression",Counselling ongoing,5
+1109,Ankit K,Low,None,Not required,0
+1110,Karan S,Low,None,Not required,0
+1111,Divya K,Moderate,"Procrastination, Social isolation",Support suggested,5
+1112,Arjun R,Low,None,Not required,0
+1113,Arjun K,Low,None,Not required,0
+1114,Ankit R,Moderate,Overwhelmed,Counselling ongoing,3
+1115,Aisha R,Low,None,Not required,0
+1116,Karan K,High,"Exam pressure, Depression",Support suggested,5
+1117,Ankit S,High,"Depression, Social isolation",Counselling ongoing,4
+1118,Priya R,Low,None,Not required,0
+1119,Arjun M,Low,None,Not required,0
+1120,Divya T,Moderate,"Depression, Overwhelmed",Referred to therapist,2
+1121,Ankit S,Low,None,Not required,0
+1122,Meera M,Moderate,"Sleep issues, Burnout",Counselling ongoing,2
+1123,Priya T,Moderate,"Burnout, Lack of focus",Referred to therapist,2
+1124,Sneha R,Low,None,Not required,0
+1125,Arjun T,Low,None,Not required,0
+1126,Meera R,Low,None,Not required,0
+1127,Karan K,Low,None,Not required,0
+1128,Karan K,High,Burnout,Support suggested,4
+1129,Meera S,Low,None,Not required,0
+1130,Arjun T,Moderate,"Depression, Social isolation",Counselling ongoing,3
+1131,Ankit R,Moderate,Exam pressure,Counselling ongoing,1
+1132,Divya M,Moderate,Depression,Counselling ongoing,4
+1133,Priya R,High,Homesickness,Referred to therapist,1
+1134,Priya T,Moderate,"Burnout, Overwhelmed",Referred to therapist,4
+1135,Divya M,Moderate,Procrastination,Support suggested,2
+1136,Priya M,Moderate,Procrastination,Referred to therapist,2
+1137,Meera T,Low,None,Not required,0
+1138,Sneha K,Low,None,Not required,0
+1139,Karan M,Low,None,Not required,0
+1140,Arjun S,Low,None,Not required,0
+1141,Karan M,Low,None,Not required,0
+1142,Rahul K,High,"Social isolation, Homesickness",Referred to therapist,5
+1143,Priya M,Low,None,Not required,0
+1144,Rahul T,Moderate,Homesickness,Support suggested,2
+1145,Priya K,Low,None,Not required,0
+1146,Sneha M,Moderate,Lack of focus,Counselling ongoing,1
+1147,Ankit T,Low,None,Not required,0
+1148,Rahul R,Low,None,Not required,0
+1149,Arjun S,Low,None,Not required,0
+1150,Meera S,Low,None,Not required,0
+1151,Aisha K,Low,None,Not required,0
+1152,Sneha T,Low,None,Not required,0
+1153,Ankit R,Low,None,Not required,0
+1154,Divya M,Low,None,Not required,0
+1155,Sneha S,Low,None,Not required,0
+1156,Ankit K,Low,None,Not required,0
+1157,Arjun K,Low,None,Not required,0
+1158,Arjun S,High,Exam pressure,Support suggested,5
+1159,Priya R,Low,None,Not required,0
+1160,Karan K,Low,None,Not required,0
+1161,Ankit M,Moderate,"Lack of focus, Exam pressure",Support suggested,2
+1162,Aisha T,Low,None,Not required,0
+1163,Arjun T,Low,None,Not required,0
+1164,Divya M,Low,None,Not required,0
+1165,Sneha R,Low,None,Not required,0
+1166,Karan T,Low,None,Not required,0
+1167,Sneha R,Low,None,Not required,0
+1168,Meera R,Moderate,Social isolation,Counselling ongoing,2
+1169,Arjun K,Moderate,"Depression, Lack of focus",Counselling ongoing,1
+1170,Divya T,Moderate,Overwhelmed,Counselling ongoing,3
+1171,Arjun K,Moderate,"Procrastination, Anxiety",Referred to therapist,4
+1172,Rahul S,High,"Depression, Lack of focus",Counselling ongoing,1
+1173,Aisha R,Low,None,Not required,0
+1174,Arjun S,Low,None,Not required,0
+1175,Ankit T,Moderate,Exam pressure,Support suggested,4
+1176,Karan S,Low,None,Not required,0
+1177,Arjun R,Low,None,Not required,0
+1178,Meera K,Low,None,Not required,0
+1179,Rahul M,Low,None,Not required,0
+1180,Rahul S,High,"Homesickness, Anxiety",Counselling ongoing,1
+1181,Ravi K,Low,None,Not required,0
+1182,Meera T,Low,None,Not required,0
+1183,Priya R,Low,None,Not required,0
+1184,Aisha K,Moderate,"Depression, Social isolation",Support suggested,2
+1185,Rahul M,Moderate,Social isolation,Referred to therapist,1
+1186,Arjun R,Moderate,"Overwhelmed, Social isolation",Referred to therapist,4
+1187,Divya M,High,"Burnout, Procrastination",Counselling ongoing,3
+1188,Rahul K,Moderate,"Anxiety, Overwhelmed",Counselling ongoing,1
+1189,Sneha S,Moderate,Homesickness,Support suggested,1
+1190,Ravi R,Moderate,Procrastination,Support suggested,4
+1191,Ravi K,High,Depression,Counselling ongoing,5
+1192,Priya R,Low,None,Not required,0
+1193,Karan S,Moderate,Homesickness,Referred to therapist,2
+1194,Priya S,Low,None,Not required,0
+1195,Karan S,Moderate,Anxiety,Counselling ongoing,2
+1196,Divya M,Low,None,Not required,0
+1197,Priya K,High,Homesickness,Referred to therapist,3
+1198,Ankit M,High,Anxiety,Support suggested,1
+1199,Rahul M,Low,None,Not required,0
+1200,Sneha M,Low,None,Not required,0
+1201,Sneha T,High,Depression,Counselling ongoing,2
+1202,Meera R,Moderate,Social isolation,Counselling ongoing,1
+1203,Meera M,High,Burnout,Support suggested,2
+1204,Divya M,Moderate,Burnout,Counselling ongoing,5
+1205,Meera K,Low,None,Not required,0
+1206,Rahul M,Low,None,Not required,0
+1207,Priya T,Low,None,Not required,0
+1208,Rahul R,High,Overwhelmed,Support suggested,1
+1209,Ravi R,Moderate,Sleep issues,Counselling ongoing,1
+1210,Rahul R,Low,None,Not required,0
+1211,Aisha R,Low,None,Not required,0
+1212,Aisha K,Moderate,"Homesickness, Overwhelmed",Referred to therapist,2
+1213,Divya S,Moderate,Exam pressure,Referred to therapist,5
+1214,Priya T,Moderate,"Homesickness, Anxiety",Counselling ongoing,1
+1215,Ravi K,High,Procrastination,Support suggested,1
+1216,Ravi S,Low,None,Not required,0
+1217,Priya S,High,"Sleep issues, Exam pressure",Support suggested,3
+1218,Meera S,Low,None,Not required,0
+1219,Karan R,Low,None,Not required,0
+1220,Ankit T,Low,None,Not required,0
+1221,Karan K,High,"Burnout, Social isolation",Referred to therapist,1
+1222,Ravi M,Low,None,Not required,0
+1223,Sneha T,Low,None,Not required,0
+1224,Priya T,High,"Anxiety, Social isolation",Referred to therapist,2
+1225,Rahul R,Low,None,Not required,0
+1226,Priya R,Low,None,Not required,0
+1227,Ravi M,High,Homesickness,Referred to therapist,3
+1228,Rahul S,Low,None,Not required,0
+1229,Sneha R,High,"Sleep issues, Burnout",Support suggested,1
+1230,Ravi M,Low,None,Not required,0
+1231,Meera S,High,"Depression, Homesickness",Counselling ongoing,5
+1232,Sneha M,Low,None,Not required,0
+1233,Meera K,Low,None,Not required,0
+1234,Meera T,Low,None,Not required,0
+1235,Divya S,Low,None,Not required,0
+1236,Aisha K,Moderate,"Social isolation, Anxiety",Counselling ongoing,3
+1237,Sneha S,Low,None,Not required,0
+1238,Divya S,Moderate,"Depression, Lack of focus",Referred to therapist,3
+1239,Ravi K,Low,None,Not required,0
+1240,Arjun T,Low,None,Not required,0
+1241,Ankit M,Moderate,Overwhelmed,Referred to therapist,3
+1242,Aisha K,Low,None,Not required,0
+1243,Priya K,Low,None,Not required,0
+1244,Karan T,High,Social isolation,Referred to therapist,5
+1245,Priya S,Low,None,Not required,0
+1246,Aisha K,Low,None,Not required,0
+1247,Divya K,Moderate,Overwhelmed,Support suggested,1
+1248,Priya S,Low,None,Not required,0
+1249,Ankit R,Low,None,Not required,0
+1250,Divya K,Low,None,Not required,0
+1251,Ankit S,Low,None,Not required,0
+1252,Rahul M,Low,None,Not required,0
+1253,Rahul R,Low,None,Not required,0
+1254,Arjun S,Moderate,Procrastination,Counselling ongoing,2
+1255,Ravi T,Low,None,Not required,0
+1256,Sneha S,Low,None,Not required,0
+1257,Priya R,Moderate,"Social isolation, Depression",Counselling ongoing,4
+1258,Priya K,Moderate,Overwhelmed,Support suggested,2
+1259,Aisha M,Low,None,Not required,0
+1260,Rahul S,High,Anxiety,Support suggested,1
+1261,Karan M,Low,None,Not required,0
+1262,Ravi T,High,Lack of focus,Support suggested,3
+1263,Ravi K,High,Overwhelmed,Referred to therapist,1
+1264,Arjun S,Low,None,Not required,0
+1265,Sneha M,High,"Sleep issues, Lack of focus",Counselling ongoing,2
+1266,Rahul M,High,"Exam pressure, Anxiety",Referred to therapist,3
+1267,Rahul T,High,"Sleep issues, Overwhelmed",Support suggested,3
+1268,Priya R,Moderate,Anxiety,Support suggested,3
+1269,Karan S,Low,None,Not required,0
+1270,Sneha R,Low,None,Not required,0
+1271,Ankit S,Low,None,Not required,0
+1272,Ravi R,High,Anxiety,Support suggested,5
+1273,Ankit R,Low,None,Not required,0
+1274,Aisha R,Low,None,Not required,0
+1275,Aisha M,Low,None,Not required,0
+1276,Meera S,Moderate,Anxiety,Referred to therapist,2
+1277,Divya T,Low,None,Not required,0
+1278,Meera M,Moderate,Burnout,Support suggested,4
+1279,Divya S,High,Lack of focus,Support suggested,3
+1280,Rahul M,Low,None,Not required,0
+1281,Sneha R,Low,None,Not required,0
+1282,Rahul M,Moderate,"Lack of focus, Overwhelmed",Support suggested,3
+1283,Ankit M,High,Depression,Support suggested,1
+1284,Aisha M,Low,None,Not required,0
+1285,Arjun T,High,"Homesickness, Social isolation",Counselling ongoing,2
+1286,Arjun T,Low,None,Not required,0
+1287,Ravi S,Moderate,"Exam pressure, Sleep issues",Support suggested,2
+1288,Sneha R,High,"Social isolation, Lack of focus",Counselling ongoing,2
+1289,Rahul R,Low,None,Not required,0
+1290,Aisha S,Moderate,"Depression, Burnout",Counselling ongoing,2
+1291,Ankit M,Low,None,Not required,0
+1292,Divya R,Low,None,Not required,0
+1293,Priya T,Low,None,Not required,0
+1294,Divya R,Moderate,"Sleep issues, Burnout",Support suggested,5
+1295,Divya T,Moderate,"Procrastination, Exam pressure",Counselling ongoing,2
+1296,Karan R,High,Lack of focus,Referred to therapist,3
+1297,Meera M,Low,None,Not required,0
+1298,Divya M,Moderate,Burnout,Counselling ongoing,4
+1299,Ravi M,Low,None,Not required,0
+1300,Sneha T,Low,None,Not required,0
+1301,Rahul M,High,Anxiety,Referred to therapist,3
+1302,Divya R,Low,None,Not required,0
+1303,Ravi S,Low,None,Not required,0
+1304,Ravi S,Low,None,Not required,0
+1305,Arjun M,High,Homesickness,Support suggested,4
+1306,Rahul K,High,Homesickness,Referred to therapist,5
+1307,Karan R,High,Homesickness,Referred to therapist,3
+1308,Karan T,Low,None,Not required,0
+1309,Ravi T,High,"Lack of focus, Exam pressure",Counselling ongoing,3
+1310,Ravi R,Low,None,Not required,0
+1311,Ravi M,Moderate,"Depression, Lack of focus",Referred to therapist,3
+1312,Arjun R,Low,None,Not required,0
+1313,Sneha R,Low,None,Not required,0
+1314,Arjun R,Low,None,Not required,0
+1315,Divya K,Low,None,Not required,0
+1316,Rahul K,Moderate,Procrastination,Counselling ongoing,3
+1317,Arjun K,Moderate,Social isolation,Referred to therapist,2
+1318,Meera R,Moderate,"Procrastination, Depression",Support suggested,5
+1319,Karan K,High,"Exam pressure, Procrastination",Counselling ongoing,3
+1320,Ankit M,Low,None,Not required,0
+1321,Ankit K,High,Social isolation,Counselling ongoing,1
+1322,Arjun R,Moderate,Depression,Referred to therapist,1
+1323,Rahul S,High,Exam pressure,Support suggested,4
+1324,Aisha T,Moderate,"Exam pressure, Procrastination",Support suggested,1
+1325,Karan M,Moderate,"Sleep issues, Procrastination",Support suggested,5
+1326,Rahul T,High,"Social isolation, Sleep issues",Referred to therapist,3
+1327,Divya R,Moderate,Social isolation,Referred to therapist,4
+1328,Meera M,Moderate,"Lack of focus, Depression",Support suggested,1
+1329,Priya M,High,"Lack of focus, Exam pressure",Support suggested,2
+1330,Priya S,Low,None,Not required,0
+1331,Aisha R,High,Procrastination,Support suggested,4
+1332,Meera K,Moderate,"Homesickness, Lack of focus",Support suggested,5
+1333,Meera M,Low,None,Not required,0
+1334,Karan T,High,"Homesickness, Procrastination",Support suggested,2
+1335,Ankit M,Low,None,Not required,0
+1336,Divya T,Low,None,Not required,0
+1337,Rahul T,Moderate,"Burnout, Anxiety",Counselling ongoing,4
+1338,Ravi T,Moderate,"Social isolation, Overwhelmed",Counselling ongoing,4
+1339,Meera M,Low,None,Not required,0
+1340,Arjun R,Low,None,Not required,0
+1341,Aisha K,Moderate,Exam pressure,Counselling ongoing,5
+1342,Aisha K,Moderate,"Overwhelmed, Sleep issues",Counselling ongoing,5
+1343,Ankit M,Low,None,Not required,0
+1344,Aisha T,Moderate,"Homesickness, Lack of focus",Counselling ongoing,1
+1345,Divya K,Low,None,Not required,0
+1346,Divya T,Low,None,Not required,0
+1347,Rahul R,Moderate,"Social isolation, Sleep issues",Support suggested,5
+1348,Arjun M,Low,None,Not required,0
+1349,Arjun S,Low,None,Not required,0
+1350,Priya T,High,"Lack of focus, Sleep issues",Support suggested,3
+1351,Aisha M,Low,None,Not required,0
+1352,Sneha T,Low,None,Not required,0
+1353,Ravi M,Moderate,Lack of focus,Counselling ongoing,2
+1354,Ravi M,Moderate,"Procrastination, Anxiety",Referred to therapist,2
+1355,Meera K,Low,None,Not required,0
+1356,Divya S,Low,None,Not required,0
+1357,Priya T,High,"Overwhelmed, Procrastination",Referred to therapist,1
+1358,Karan T,Low,None,Not required,0
+1359,Priya S,Low,None,Not required,0
+1360,Meera R,High,Burnout,Support suggested,5
+1361,Priya T,High,"Anxiety, Lack of focus",Support suggested,1
+1362,Sneha S,Low,None,Not required,0
+1363,Karan S,Low,None,Not required,0
+1364,Rahul R,Low,None,Not required,0
+1365,Meera R,Low,None,Not required,0
+1366,Ankit K,Low,None,Not required,0
+1367,Arjun R,Low,None,Not required,0
+1368,Ravi M,High,Procrastination,Referred to therapist,1
+1369,Ravi K,Moderate,"Exam pressure, Homesickness",Support suggested,4
+1370,Meera R,Moderate,Burnout,Counselling ongoing,3
+1371,Sneha R,Moderate,"Lack of focus, Burnout",Referred to therapist,3
+1372,Ankit R,Moderate,"Social isolation, Exam pressure",Counselling ongoing,1
+1373,Meera K,Low,None,Not required,0
+1374,Meera R,Moderate,Social isolation,Counselling ongoing,1
+1375,Arjun T,Low,None,Not required,0
+1376,Ankit R,High,"Overwhelmed, Exam pressure",Support suggested,3
+1377,Sneha T,Low,None,Not required,0
+1378,Priya S,Low,None,Not required,0
+1379,Ravi S,High,"Burnout, Social isolation",Support suggested,5
+1380,Meera K,Low,None,Not required,0
+1381,Divya R,High,"Procrastination, Exam pressure",Support suggested,2
+1382,Ankit R,High,Social isolation,Counselling ongoing,3
+1383,Karan R,Low,None,Not required,0
+1384,Karan M,Low,None,Not required,0
+1385,Divya T,Moderate,Anxiety,Support suggested,3
+1386,Divya M,Low,None,Not required,0
+1387,Aisha R,Moderate,Social isolation,Referred to therapist,2
+1388,Rahul T,Low,None,Not required,0
+1389,Ankit S,Low,None,Not required,0
+1390,Sneha M,High,Depression,Support suggested,1
+1391,Rahul M,Low,None,Not required,0
+1392,Rahul R,High,Sleep issues,Support suggested,5
+1393,Divya S,Low,None,Not required,0
+1394,Aisha K,Low,None,Not required,0
+1395,Priya K,Moderate,"Homesickness, Overwhelmed",Referred to therapist,1
+1396,Priya R,Low,None,Not required,0
+1397,Arjun M,High,"Anxiety, Procrastination",Support suggested,4
+1398,Divya T,Low,None,Not required,0
+1399,Priya S,Moderate,"Sleep issues, Depression",Referred to therapist,1
+1400,Arjun K,Low,None,Not required,0
+1401,Sneha R,High,"Overwhelmed, Sleep issues",Counselling ongoing,1
+1402,Karan K,Low,None,Not required,0
+1403,Meera K,High,Procrastination,Support suggested,4
+1404,Sneha K,Low,None,Not required,0
+1405,Meera T,Low,None,Not required,0
+1406,Priya K,Low,None,Not required,0
+1407,Divya T,Low,None,Not required,0
+1408,Divya T,Low,None,Not required,0
+1409,Priya S,Low,None,Not required,0
+1410,Ankit K,Low,None,Not required,0
+1411,Rahul M,High,"Depression, Sleep issues",Counselling ongoing,2
+1412,Karan S,High,"Burnout, Procrastination",Referred to therapist,4
+1413,Karan R,Low,None,Not required,0
+1414,Sneha R,Moderate,Lack of focus,Support suggested,1
+1415,Divya R,High,"Anxiety, Social isolation",Support suggested,4
+1416,Ankit K,Low,None,Not required,0
+1417,Sneha T,Low,None,Not required,0
+1418,Ravi R,Moderate,Social isolation,Counselling ongoing,5
+1419,Arjun M,High,Homesickness,Counselling ongoing,4
+1420,Ravi K,Moderate,Sleep issues,Referred to therapist,5
+1421,Divya K,Moderate,"Burnout, Exam pressure",Counselling ongoing,3
+1422,Sneha S,High,"Burnout, Lack of focus",Support suggested,2
+1423,Rahul K,Moderate,Procrastination,Referred to therapist,5
+1424,Rahul R,Low,None,Not required,0
+1425,Sneha R,Low,None,Not required,0
+1426,Rahul M,Low,None,Not required,0
+1427,Priya S,Low,None,Not required,0
+1428,Arjun R,Low,None,Not required,0
+1429,Arjun K,Moderate,Overwhelmed,Referred to therapist,2
+1430,Arjun R,Moderate,Homesickness,Counselling ongoing,4
+1431,Divya R,Low,None,Not required,0
+1432,Meera S,High,"Lack of focus, Depression",Referred to therapist,1
+1433,Aisha M,Low,None,Not required,0
+1434,Divya R,High,"Homesickness, Social isolation",Referred to therapist,5
+1435,Karan R,Low,None,Not required,0
+1436,Divya S,Low,None,Not required,0
+1437,Ankit M,Low,None,Not required,0
+1438,Meera R,Low,None,Not required,0
+1439,Arjun R,Moderate,"Lack of focus, Anxiety",Referred to therapist,5
+1440,Priya M,Low,None,Not required,0
+1441,Arjun T,Low,None,Not required,0
+1442,Rahul S,Low,None,Not required,0
+1443,Rahul T,Low,None,Not required,0
+1444,Karan R,Moderate,Burnout,Counselling ongoing,5
+1445,Ankit S,Low,None,Not required,0
+1446,Aisha R,Low,None,Not required,0
+1447,Arjun S,Low,None,Not required,0
+1448,Rahul M,Low,None,Not required,0
+1449,Meera R,Low,None,Not required,0
+1450,Ravi R,Moderate,Overwhelmed,Referred to therapist,1
+1451,Priya K,High,Exam pressure,Support suggested,4
+1452,Rahul M,Low,None,Not required,0
+1453,Rahul T,High,"Homesickness, Exam pressure",Referred to therapist,5
+1454,Priya S,Low,None,Not required,0
+1455,Priya S,Low,None,Not required,0
+1456,Rahul K,Low,None,Not required,0
+1457,Rahul M,High,Anxiety,Counselling ongoing,4
+1458,Arjun S,High,Homesickness,Counselling ongoing,2
+1459,Meera M,Low,None,Not required,0
+1460,Sneha K,High,"Lack of focus, Sleep issues",Counselling ongoing,3
+1461,Divya R,Low,None,Not required,0
+1462,Karan M,Low,None,Not required,0
+1463,Ravi K,Low,None,Not required,0
+1464,Karan K,Low,None,Not required,0
+1465,Ravi S,Moderate,"Overwhelmed, Burnout",Referred to therapist,5
+1466,Rahul S,High,Social isolation,Support suggested,4
+1467,Karan S,Moderate,"Depression, Exam pressure",Support suggested,2
+1468,Divya K,Low,None,Not required,0
+1469,Aisha M,Moderate,"Depression, Exam pressure",Support suggested,2
+1470,Aisha T,Moderate,"Social isolation, Homesickness",Referred to therapist,2
+1471,Rahul M,Low,None,Not required,0
+1472,Priya M,Moderate,Homesickness,Support suggested,5
+1473,Divya M,Low,None,Not required,0
+1474,Meera S,Moderate,Lack of focus,Referred to therapist,1
+1475,Ravi M,Low,None,Not required,0
+1476,Ravi K,Moderate,Overwhelmed,Referred to therapist,3
+1477,Meera S,Moderate,"Anxiety, Depression",Referred to therapist,4
+1478,Meera T,Low,None,Not required,0
+1479,Priya T,Moderate,"Overwhelmed, Homesickness",Referred to therapist,3
+1480,Arjun R,Low,None,Not required,0
+1481,Priya K,Moderate,Homesickness,Support suggested,3
+1482,Aisha R,Moderate,Overwhelmed,Counselling ongoing,3
+1483,Sneha T,Moderate,Lack of focus,Support suggested,2
+1484,Meera T,Moderate,"Overwhelmed, Anxiety",Support suggested,4
+1485,Karan M,High,"Depression, Anxiety",Support suggested,1
+1486,Karan S,Low,None,Not required,0
+1487,Sneha T,Low,None,Not required,0
+1488,Rahul M,Low,None,Not required,0
+1489,Rahul T,Low,None,Not required,0
+1490,Divya T,High,"Sleep issues, Social isolation",Support suggested,2
+1491,Priya K,High,Overwhelmed,Counselling ongoing,4
+1492,Meera M,Low,None,Not required,0
+1493,Sneha T,Low,None,Not required,0
+1494,Ankit R,Low,None,Not required,0
+1495,Ravi S,High,"Procrastination, Lack of focus",Referred to therapist,4
+1496,Ravi R,Low,None,Not required,0
+1497,Sneha K,High,"Anxiety, Homesickness",Counselling ongoing,5
+1498,Aisha T,Low,None,Not required,0
+1499,Ravi K,Low,None,Not required,0
+1500,Sneha K,High,"Overwhelmed, Burnout",Referred to therapist,1
+1501,Priya T,Moderate,"Procrastination, Sleep issues",Support suggested,1
+1502,Sneha T,Moderate,Anxiety,Support suggested,2
+1503,Aisha R,Low,None,Not required,0
+1504,Aisha R,Moderate,"Lack of focus, Depression",Counselling ongoing,4
+1505,Meera K,Low,None,Not required,0
+1506,Priya K,High,Social isolation,Support suggested,1
+1507,Aisha T,Low,None,Not required,0
+1508,Aisha R,Low,None,Not required,0
+1509,Ankit K,Moderate,"Burnout, Social isolation",Counselling ongoing,1
+1510,Divya S,High,Procrastination,Referred to therapist,3
+1511,Arjun M,Moderate,"Social isolation, Anxiety",Counselling ongoing,2
+1512,Ankit S,Moderate,"Sleep issues, Exam pressure",Counselling ongoing,1
+1513,Ravi R,Low,None,Not required,0
+1514,Karan S,Moderate,Exam pressure,Counselling ongoing,2
+1515,Ravi M,Moderate,Depression,Support suggested,3
+1516,Ravi S,Moderate,"Burnout, Homesickness",Counselling ongoing,5
+1517,Ankit K,Moderate,"Anxiety, Overwhelmed",Referred to therapist,5
+1518,Ravi S,Low,None,Not required,0
+1519,Sneha K,Low,None,Not required,0
+1520,Rahul K,Low,None,Not required,0
+1521,Ankit T,Moderate,"Exam pressure, Sleep issues",Counselling ongoing,4
+1522,Divya S,Low,None,Not required,0
+1523,Sneha M,High,Lack of focus,Support suggested,2
+1524,Arjun T,High,"Burnout, Homesickness",Support suggested,1
+1525,Priya M,Moderate,Sleep issues,Support suggested,3
+1526,Ravi T,Low,None,Not required,0
+1527,Meera S,Low,None,Not required,0
+1528,Rahul S,High,"Anxiety, Burnout",Support suggested,3
+1529,Aisha M,Moderate,Burnout,Referred to therapist,4
+1530,Rahul R,Low,None,Not required,0
+1531,Priya T,Low,None,Not required,0
+1532,Aisha R,Low,None,Not required,0
+1533,Arjun S,Moderate,"Social isolation, Lack of focus",Counselling ongoing,3
+1534,Ankit K,High,Burnout,Referred to therapist,4
+1535,Sneha S,High,"Social isolation, Homesickness",Counselling ongoing,1
+1536,Ankit S,Low,None,Not required,0
+1537,Aisha M,High,Anxiety,Counselling ongoing,4
+1538,Meera M,Low,None,Not required,0
+1539,Divya T,Low,None,Not required,0
+1540,Karan K,Low,None,Not required,0
+1541,Karan M,Low,None,Not required,0
+1542,Rahul M,Low,None,Not required,0
+1543,Aisha M,Low,None,Not required,0
+1544,Ankit S,Moderate,Anxiety,Support suggested,4
+1545,Priya K,Moderate,"Depression, Social isolation",Referred to therapist,3
+1546,Sneha T,Moderate,"Depression, Lack of focus",Support suggested,4
+1547,Sneha T,Low,None,Not required,0
+1548,Ankit M,Moderate,Homesickness,Counselling ongoing,3
+1549,Divya R,Low,None,Not required,0
+1550,Ankit R,Low,None,Not required,0
+1551,Ravi T,Low,None,Not required,0
+1552,Ravi S,High,Depression,Counselling ongoing,3
+1553,Karan M,Low,None,Not required,0
+1554,Sneha K,Low,None,Not required,0
+1555,Karan R,Low,None,Not required,0
+1556,Divya S,Low,None,Not required,0
+1557,Arjun R,Low,None,Not required,0
+1558,Karan K,Low,None,Not required,0
+1559,Karan T,Low,None,Not required,0
+1560,Karan M,Low,None,Not required,0
+1561,Ankit R,High,Burnout,Support suggested,1
+1562,Sneha K,Low,None,Not required,0
+1563,Ankit K,Low,None,Not required,0
+1564,Ravi M,Low,None,Not required,0
+1565,Aisha T,Low,None,Not required,0
+1566,Rahul T,High,"Exam pressure, Social isolation",Referred to therapist,3
+1567,Ravi T,Low,None,Not required,0
+1568,Priya K,Moderate,"Burnout, Overwhelmed",Referred to therapist,5
+1569,Aisha T,Low,None,Not required,0
+1570,Ankit K,Moderate,Exam pressure,Support suggested,2
+1571,Ankit K,Moderate,"Overwhelmed, Homesickness",Referred to therapist,5
+1572,Arjun S,Low,None,Not required,0
+1573,Divya K,Low,None,Not required,0
+1574,Aisha S,Low,None,Not required,0
+1575,Ankit M,Moderate,Sleep issues,Counselling ongoing,5
+1576,Rahul S,High,"Burnout, Homesickness",Referred to therapist,4
+1577,Rahul M,Moderate,Lack of focus,Referred to therapist,4
+1578,Priya R,Low,None,Not required,0
+1579,Meera M,Moderate,Anxiety,Counselling ongoing,4
+1580,Aisha R,Low,None,Not required,0
+1581,Arjun T,Low,None,Not required,0
+1582,Meera M,Low,None,Not required,0
+1583,Rahul K,Low,None,Not required,0
+1584,Karan S,Low,None,Not required,0
+1585,Divya M,Low,None,Not required,0
+1586,Karan K,Moderate,"Lack of focus, Sleep issues",Support suggested,2
+1587,Ankit M,High,"Burnout, Anxiety",Support suggested,1
+1588,Ravi K,Moderate,"Overwhelmed, Burnout",Referred to therapist,1
+1589,Ankit S,Moderate,"Anxiety, Overwhelmed",Counselling ongoing,5
+1590,Meera S,Moderate,"Exam pressure, Burnout",Counselling ongoing,1
+1591,Rahul T,Low,None,Not required,0
+1592,Aisha R,Low,None,Not required,0
+1593,Karan K,Moderate,"Depression, Procrastination",Referred to therapist,1
+1594,Sneha M,Moderate,Overwhelmed,Counselling ongoing,3
+1595,Aisha R,High,Overwhelmed,Counselling ongoing,5
+1596,Divya T,Low,None,Not required,0
+1597,Karan T,Moderate,Homesickness,Support suggested,1
+1598,Ankit T,Low,None,Not required,0
+1599,Rahul R,Low,None,Not required,0
+1600,Rahul S,High,Anxiety,Support suggested,4
+1601,Karan T,Moderate,"Anxiety, Overwhelmed",Referred to therapist,2
+1602,Aisha R,High,Depression,Counselling ongoing,4
+1603,Aisha R,Moderate,"Procrastination, Lack of focus",Counselling ongoing,4
+1604,Arjun R,Low,None,Not required,0
+1605,Ankit M,Moderate,"Lack of focus, Burnout",Referred to therapist,3
+1606,Arjun S,Moderate,"Lack of focus, Social isolation",Counselling ongoing,5
+1607,Aisha R,Low,None,Not required,0
+1608,Ankit K,Moderate,"Depression, Homesickness",Referred to therapist,4
+1609,Aisha M,High,"Overwhelmed, Sleep issues",Support suggested,3
+1610,Ankit K,Low,None,Not required,0
+1611,Aisha R,High,Homesickness,Referred to therapist,2
+1612,Priya M,Low,None,Not required,0
+1613,Priya M,High,"Burnout, Overwhelmed",Referred to therapist,1
+1614,Sneha T,High,"Lack of focus, Sleep issues",Referred to therapist,5
+1615,Ankit M,Low,None,Not required,0
+1616,Arjun R,Low,None,Not required,0
+1617,Ankit S,Moderate,"Procrastination, Exam pressure",Referred to therapist,3
+1618,Arjun R,High,Lack of focus,Support suggested,1
+1619,Arjun S,Moderate,Sleep issues,Counselling ongoing,5
+1620,Rahul M,Moderate,"Burnout, Anxiety",Counselling ongoing,4
+1621,Karan T,Low,None,Not required,0
+1622,Karan T,Moderate,Lack of focus,Support suggested,4
+1623,Arjun K,Moderate,"Exam pressure, Sleep issues",Support suggested,5
+1624,Sneha K,Moderate,Lack of focus,Counselling ongoing,5
+1625,Karan M,Low,None,Not required,0
+1626,Priya T,Low,None,Not required,0
+1627,Ankit S,Moderate,"Depression, Sleep issues",Referred to therapist,4
+1628,Ravi S,Low,None,Not required,0
+1629,Ankit T,Low,None,Not required,0
+1630,Ravi T,Low,None,Not required,0
+1631,Meera T,Low,None,Not required,0
+1632,Arjun M,High,Overwhelmed,Referred to therapist,2
+1633,Sneha R,Low,None,Not required,0
+1634,Meera T,Low,None,Not required,0
+1635,Aisha K,High,Procrastination,Support suggested,4
+1636,Sneha M,Low,None,Not required,0
+1637,Aisha K,Moderate,"Procrastination, Depression",Counselling ongoing,1
+1638,Ankit K,Moderate,"Anxiety, Procrastination",Counselling ongoing,5
+1639,Rahul S,High,"Exam pressure, Overwhelmed",Support suggested,2
+1640,Rahul R,Low,None,Not required,0
+1641,Ravi M,Low,None,Not required,0
+1642,Rahul M,High,"Procrastination, Burnout",Support suggested,3
+1643,Ravi T,Low,None,Not required,0
+1644,Priya K,Low,None,Not required,0
+1645,Divya S,Low,None,Not required,0
+1646,Aisha R,Low,None,Not required,0
+1647,Meera S,High,"Homesickness, Anxiety",Referred to therapist,4
+1648,Arjun K,Low,None,Not required,0
+1649,Ankit T,High,Burnout,Referred to therapist,4
+1650,Priya S,Moderate,Anxiety,Referred to therapist,2
+1651,Karan T,High,Exam pressure,Support suggested,3
+1652,Sneha S,Low,None,Not required,0
+1653,Meera R,High,Social isolation,Counselling ongoing,1
+1654,Arjun K,Low,None,Not required,0
+1655,Ravi M,Low,None,Not required,0
+1656,Rahul M,Low,None,Not required,0
+1657,Arjun R,Low,None,Not required,0
+1658,Ankit K,High,"Exam pressure, Procrastination",Support suggested,2
+1659,Sneha T,Low,None,Not required,0
+1660,Priya T,High,Depression,Counselling ongoing,4
+1661,Karan R,Low,None,Not required,0
+1662,Sneha M,Low,None,Not required,0
+1663,Ravi M,Moderate,"Social isolation, Depression",Support suggested,4
+1664,Ankit S,Low,None,Not required,0
+1665,Ankit K,Moderate,"Lack of focus, Sleep issues",Referred to therapist,5
+1666,Arjun S,Moderate,Lack of focus,Referred to therapist,3
+1667,Divya M,Moderate,"Anxiety, Depression",Referred to therapist,3
+1668,Ravi T,High,"Social isolation, Homesickness",Counselling ongoing,1
+1669,Priya K,Low,None,Not required,0
+1670,Priya T,Low,None,Not required,0
+1671,Karan R,High,Burnout,Support suggested,1
+1672,Aisha R,High,"Overwhelmed, Anxiety",Referred to therapist,5
+1673,Priya K,Moderate,"Depression, Homesickness",Counselling ongoing,3
+1674,Aisha K,Low,None,Not required,0
+1675,Arjun M,Moderate,"Sleep issues, Procrastination",Counselling ongoing,1
+1676,Divya M,Low,None,Not required,0
+1677,Priya K,Moderate,"Lack of focus, Depression",Support suggested,4
+1678,Ravi T,High,Procrastination,Referred to therapist,3
+1679,Rahul T,Moderate,"Procrastination, Burnout",Referred to therapist,5
+1680,Karan K,Low,None,Not required,0
+1681,Karan S,Moderate,"Social isolation, Homesickness",Referred to therapist,1
+1682,Arjun K,Low,None,Not required,0
+1683,Ankit K,Low,None,Not required,0
+1684,Sneha R,Low,None,Not required,0
+1685,Ravi K,Low,None,Not required,0
+1686,Aisha R,High,"Burnout, Social isolation",Referred to therapist,4
+1687,Ravi K,Moderate,"Anxiety, Lack of focus",Referred to therapist,1
+1688,Divya T,Low,None,Not required,0
+1689,Ravi K,Low,None,Not required,0
+1690,Sneha K,Low,None,Not required,0
+1691,Rahul S,Moderate,"Lack of focus, Procrastination",Referred to therapist,1
+1692,Karan M,Moderate,Homesickness,Support suggested,5
+1693,Ravi R,High,Social isolation,Referred to therapist,3
+1694,Aisha S,High,Burnout,Counselling ongoing,3
+1695,Arjun T,Low,None,Not required,0
+1696,Aisha R,Low,None,Not required,0
+1697,Rahul M,Low,None,Not required,0
+1698,Karan M,High,"Sleep issues, Social isolation",Support suggested,4
+1699,Karan K,Low,None,Not required,0
+1700,Karan M,High,"Exam pressure, Depression",Counselling ongoing,2
+1701,Sneha S,Moderate,Overwhelmed,Counselling ongoing,2
+1702,Arjun S,Moderate,Overwhelmed,Referred to therapist,5
+1703,Aisha R,High,"Social isolation, Procrastination",Referred to therapist,1
+1704,Rahul S,Low,None,Not required,0
+1705,Rahul R,High,Burnout,Counselling ongoing,1
+1706,Priya T,High,"Depression, Sleep issues",Support suggested,4
+1707,Divya K,High,"Anxiety, Social isolation",Support suggested,3
+1708,Ravi R,Low,None,Not required,0
+1709,Meera R,Low,None,Not required,0
+1710,Ankit M,Moderate,Exam pressure,Referred to therapist,1
+1711,Sneha S,Moderate,Procrastination,Counselling ongoing,5
+1712,Divya K,Low,None,Not required,0
+1713,Aisha M,Moderate,"Exam pressure, Social isolation",Referred to therapist,3
+1714,Sneha K,Low,None,Not required,0
+1715,Priya R,High,Anxiety,Counselling ongoing,4
+1716,Karan M,Low,None,Not required,0
+1717,Divya M,High,Anxiety,Referred to therapist,2
+1718,Arjun K,Low,None,Not required,0
+1719,Aisha T,Low,None,Not required,0
+1720,Meera K,Low,None,Not required,0
+1721,Ravi M,Moderate,Homesickness,Referred to therapist,5
+1722,Aisha R,High,"Lack of focus, Anxiety",Support suggested,3
+1723,Sneha K,High,Procrastination,Referred to therapist,2
+1724,Sneha R,Low,None,Not required,0
+1725,Ankit R,High,"Sleep issues, Burnout",Referred to therapist,3
+1726,Ravi T,Moderate,Lack of focus,Support suggested,3
+1727,Ankit S,Moderate,"Burnout, Sleep issues",Support suggested,4
+1728,Ravi T,High,"Sleep issues, Homesickness",Referred to therapist,4
+1729,Priya K,Low,None,Not required,0
+1730,Meera T,Moderate,"Sleep issues, Homesickness",Support suggested,1
+1731,Rahul M,Moderate,"Exam pressure, Procrastination",Referred to therapist,5
+1732,Divya M,High,Social isolation,Support suggested,1
+1733,Aisha M,Moderate,Overwhelmed,Counselling ongoing,5
+1734,Divya M,Low,None,Not required,0
+1735,Sneha S,Low,None,Not required,0
+1736,Meera M,Low,None,Not required,0
+1737,Meera M,Low,None,Not required,0
+1738,Ravi R,Moderate,"Burnout, Homesickness",Support suggested,3
+1739,Sneha R,High,Overwhelmed,Referred to therapist,1
+1740,Sneha K,Moderate,Depression,Support suggested,4
+1741,Meera K,Moderate,"Burnout, Lack of focus",Support suggested,2
+1742,Meera S,Moderate,"Homesickness, Anxiety",Referred to therapist,4
+1743,Sneha K,Low,None,Not required,0
+1744,Meera M,Low,None,Not required,0
+1745,Divya R,Low,None,Not required,0
+1746,Ankit S,Low,None,Not required,0
+1747,Sneha K,Low,None,Not required,0
+1748,Karan K,Moderate,"Procrastination, Sleep issues",Referred to therapist,5
+1749,Karan R,Low,None,Not required,0
+1750,Sneha K,Low,None,Not required,0
+1751,Ankit S,Low,None,Not required,0
+1752,Ankit S,Low,None,Not required,0
+1753,Ankit M,High,"Anxiety, Lack of focus",Counselling ongoing,3
+1754,Meera T,Moderate,"Exam pressure, Anxiety",Referred to therapist,2
+1755,Divya T,Moderate,Depression,Support suggested,4
+1756,Priya R,Low,None,Not required,0
+1757,Arjun K,High,Exam pressure,Referred to therapist,5
+1758,Sneha T,High,Homesickness,Support suggested,1
+1759,Divya M,High,"Burnout, Anxiety",Referred to therapist,1
+1760,Karan T,Low,None,Not required,0
+1761,Divya R,Low,None,Not required,0
+1762,Arjun R,Low,None,Not required,0
+1763,Divya M,Low,None,Not required,0
+1764,Ankit T,Low,None,Not required,0
+1765,Ankit T,Low,None,Not required,0
+1766,Rahul K,Low,None,Not required,0
+1767,Ravi R,Low,None,Not required,0
+1768,Meera M,Moderate,Social isolation,Counselling ongoing,5
+1769,Karan R,Low,None,Not required,0
+1770,Arjun R,High,"Sleep issues, Exam pressure",Counselling ongoing,2
+1771,Arjun R,High,"Procrastination, Lack of focus",Counselling ongoing,3
+1772,Sneha T,Low,None,Not required,0
+1773,Aisha T,High,Anxiety,Support suggested,1
+1774,Aisha R,Low,None,Not required,0
+1775,Ankit S,Low,None,Not required,0
+1776,Arjun K,Moderate,"Depression, Exam pressure",Referred to therapist,5
+1777,Karan K,Low,None,Not required,0
+1778,Aisha S,Low,None,Not required,0
+1779,Ravi R,Low,None,Not required,0
+1780,Sneha T,Moderate,Sleep issues,Counselling ongoing,5
+1781,Sneha T,Low,None,Not required,0
+1782,Aisha M,High,"Lack of focus, Homesickness",Counselling ongoing,2
+1783,Karan T,Moderate,Depression,Referred to therapist,2
+1784,Sneha K,Moderate,Lack of focus,Counselling ongoing,4
+1785,Rahul R,Low,None,Not required,0
+1786,Aisha M,Low,None,Not required,0
+1787,Arjun R,High,"Sleep issues, Homesickness",Support suggested,5
+1788,Divya S,High,"Depression, Sleep issues",Counselling ongoing,4
+1789,Ravi S,Low,None,Not required,0
+1790,Meera R,Low,None,Not required,0
+1791,Ravi T,High,"Burnout, Anxiety",Referred to therapist,2
+1792,Sneha R,Moderate,Overwhelmed,Counselling ongoing,3
+1793,Aisha K,Low,None,Not required,0
+1794,Divya M,Low,None,Not required,0
+1795,Aisha R,Low,None,Not required,0
+1796,Meera S,Low,None,Not required,0
+1797,Rahul R,Low,None,Not required,0
+1798,Arjun K,Moderate,"Social isolation, Burnout",Support suggested,3
+1799,Meera R,Low,None,Not required,0
+1800,Aisha R,Moderate,Sleep issues,Support suggested,3
+1801,Aisha S,High,Homesickness,Support suggested,3
+1802,Ankit K,Low,None,Not required,0
+1803,Karan S,Low,None,Not required,0
+1804,Aisha K,Moderate,Overwhelmed,Support suggested,1
+1805,Sneha R,Moderate,Procrastination,Support suggested,1
+1806,Arjun K,Low,None,Not required,0
+1807,Karan K,Low,None,Not required,0
+1808,Karan S,Low,None,Not required,0
+1809,Sneha K,Moderate,Overwhelmed,Counselling ongoing,4
+1810,Ankit K,Moderate,Lack of focus,Counselling ongoing,3
+1811,Aisha S,High,Homesickness,Counselling ongoing,1
+1812,Arjun T,Low,None,Not required,0
+1813,Sneha S,High,"Depression, Sleep issues",Support suggested,5
+1814,Aisha M,Low,None,Not required,0
+1815,Ravi R,Moderate,Procrastination,Support suggested,1
+1816,Arjun K,Moderate,"Homesickness, Lack of focus",Support suggested,4
+1817,Priya R,Low,None,Not required,0
+1818,Arjun K,Low,None,Not required,0
+1819,Arjun M,High,"Social isolation, Overwhelmed",Counselling ongoing,3
+1820,Sneha R,High,"Sleep issues, Burnout",Support suggested,1
+1821,Arjun R,High,Depression,Referred to therapist,1
+1822,Aisha K,Low,None,Not required,0
+1823,Aisha K,Moderate,"Lack of focus, Homesickness",Referred to therapist,2
+1824,Ankit M,Low,None,Not required,0
+1825,Aisha K,Moderate,"Procrastination, Social isolation",Counselling ongoing,5
+1826,Rahul R,Low,None,Not required,0
+1827,Karan M,Low,None,Not required,0
+1828,Meera T,Low,None,Not required,0
+1829,Priya T,Low,None,Not required,0
+1830,Priya T,Moderate,"Burnout, Homesickness",Referred to therapist,5
+1831,Divya M,High,Homesickness,Counselling ongoing,4
+1832,Arjun S,Low,None,Not required,0
+1833,Ankit R,High,Exam pressure,Counselling ongoing,3
+1834,Sneha M,Low,None,Not required,0
+1835,Divya T,Low,None,Not required,0
+1836,Priya K,Moderate,Homesickness,Referred to therapist,2
+1837,Divya R,Low,None,Not required,0
+1838,Aisha S,High,"Social isolation, Overwhelmed",Counselling ongoing,4
+1839,Rahul S,High,"Depression, Procrastination",Support suggested,3
+1840,Aisha M,Low,None,Not required,0
+1841,Meera T,Moderate,"Burnout, Procrastination",Support suggested,2
+1842,Karan R,High,Depression,Referred to therapist,4
+1843,Sneha K,Low,None,Not required,0
+1844,Sneha T,Moderate,"Overwhelmed, Procrastination",Counselling ongoing,4
+1845,Rahul S,High,"Anxiety, Exam pressure",Counselling ongoing,3
+1846,Divya M,Low,None,Not required,0
+1847,Sneha S,Moderate,"Burnout, Anxiety",Referred to therapist,4
+1848,Arjun R,Moderate,"Overwhelmed, Anxiety",Support suggested,4
+1849,Sneha M,High,"Lack of focus, Overwhelmed",Referred to therapist,3
+1850,Rahul R,High,"Lack of focus, Anxiety",Counselling ongoing,4
+1851,Karan K,Moderate,Homesickness,Support suggested,1
+1852,Divya R,Low,None,Not required,0
+1853,Meera M,Low,None,Not required,0
+1854,Ravi T,Low,None,Not required,0
+1855,Arjun K,Moderate,Sleep issues,Counselling ongoing,4
+1856,Rahul K,Low,None,Not required,0
+1857,Aisha R,Moderate,Overwhelmed,Counselling ongoing,3
+1858,Divya T,Low,None,Not required,0
+1859,Divya M,Moderate,Depression,Counselling ongoing,3
+1860,Ankit T,Moderate,Procrastination,Referred to therapist,3
+1861,Ankit M,Low,None,Not required,0
+1862,Ravi R,Low,None,Not required,0
+1863,Meera M,Low,None,Not required,0
+1864,Sneha T,Low,None,Not required,0
+1865,Priya T,Low,None,Not required,0
+1866,Arjun M,Moderate,Procrastination,Referred to therapist,2
+1867,Divya R,Low,None,Not required,0
+1868,Sneha S,Low,None,Not required,0
+1869,Divya R,Moderate,Depression,Referred to therapist,1
+1870,Ankit S,Low,None,Not required,0
+1871,Meera R,Moderate,"Procrastination, Depression",Counselling ongoing,3
+1872,Divya S,Moderate,"Burnout, Overwhelmed",Referred to therapist,4
+1873,Rahul M,Moderate,"Overwhelmed, Procrastination",Referred to therapist,5
+1874,Arjun M,Moderate,Exam pressure,Counselling ongoing,4
+1875,Priya R,Low,None,Not required,0
+1876,Ankit T,Low,None,Not required,0
+1877,Sneha R,Low,None,Not required,0
+1878,Arjun T,Low,None,Not required,0
+1879,Arjun R,Low,None,Not required,0
+1880,Karan M,High,"Overwhelmed, Procrastination",Support suggested,3
+1881,Meera T,Low,None,Not required,0
+1882,Arjun R,Low,None,Not required,0
+1883,Divya T,Low,None,Not required,0
+1884,Sneha K,Moderate,Homesickness,Counselling ongoing,3
+1885,Rahul R,Low,None,Not required,0
+1886,Divya S,Low,None,Not required,0
+1887,Arjun K,Low,None,Not required,0
+1888,Meera K,Moderate,"Lack of focus, Exam pressure",Counselling ongoing,2
+1889,Meera T,High,Sleep issues,Support suggested,4
+1890,Ankit S,High,"Depression, Sleep issues",Counselling ongoing,4
+1891,Sneha K,Low,None,Not required,0
+1892,Sneha S,Low,None,Not required,0
+1893,Rahul S,Low,None,Not required,0
+1894,Sneha S,High,"Homesickness, Anxiety",Counselling ongoing,4
+1895,Ankit T,High,"Social isolation, Homesickness",Counselling ongoing,5
+1896,Sneha K,Low,None,Not required,0
+1897,Meera M,Low,None,Not required,0
+1898,Arjun T,Moderate,"Procrastination, Depression",Support suggested,2
+1899,Karan K,Low,None,Not required,0
+1900,Divya K,Moderate,Exam pressure,Referred to therapist,5
+1901,Karan S,Low,None,Not required,0
+1902,Meera R,Moderate,Sleep issues,Support suggested,4
+1903,Divya T,High,Procrastination,Support suggested,5
+1904,Meera K,Low,None,Not required,0
+1905,Aisha K,Moderate,"Lack of focus, Depression",Referred to therapist,1
+1906,Rahul T,Low,None,Not required,0
+1907,Aisha T,Moderate,Depression,Counselling ongoing,1
+1908,Divya M,Low,None,Not required,0
+1909,Divya T,Low,None,Not required,0
+1910,Meera R,Moderate,"Burnout, Procrastination",Counselling ongoing,3
+1911,Rahul S,Low,None,Not required,0
+1912,Ravi S,Low,None,Not required,0
+1913,Meera S,Moderate,Procrastination,Referred to therapist,2
+1914,Priya S,Moderate,"Anxiety, Depression",Counselling ongoing,1
+1915,Aisha S,Low,None,Not required,0
+1916,Ankit T,Low,None,Not required,0
+1917,Ravi T,Low,None,Not required,0
+1918,Priya T,Moderate,Lack of focus,Referred to therapist,3
+1919,Ankit K,Low,None,Not required,0
+1920,Divya R,Low,None,Not required,0
+1921,Priya M,Low,None,Not required,0
+1922,Rahul T,Low,None,Not required,0
+1923,Ankit R,Moderate,Burnout,Counselling ongoing,3
+1924,Divya S,Low,None,Not required,0
+1925,Priya K,Moderate,"Overwhelmed, Depression",Support suggested,2
+1926,Divya R,Moderate,"Lack of focus, Sleep issues",Referred to therapist,4
+1927,Priya R,Low,None,Not required,0
+1928,Meera K,High,"Homesickness, Depression",Referred to therapist,3
+1929,Karan M,Low,None,Not required,0
+1930,Arjun M,Moderate,Anxiety,Support suggested,2
+1931,Ankit T,High,"Burnout, Anxiety",Counselling ongoing,5
+1932,Sneha R,Low,None,Not required,0
+1933,Priya K,Low,None,Not required,0
+1934,Aisha K,Moderate,"Exam pressure, Homesickness",Referred to therapist,4
+1935,Karan K,Low,None,Not required,0
+1936,Ankit T,High,"Overwhelmed, Burnout",Support suggested,2
+1937,Ravi K,Low,None,Not required,0
+1938,Ankit M,Low,None,Not required,0
+1939,Aisha R,Low,None,Not required,0
+1940,Rahul T,Moderate,Burnout,Counselling ongoing,1
+1941,Meera K,Low,None,Not required,0
+1942,Ravi T,Moderate,Sleep issues,Support suggested,3
+1943,Priya K,Low,None,Not required,0
+1944,Ravi K,Low,None,Not required,0
+1945,Aisha R,Low,None,Not required,0
+1946,Priya T,Moderate,"Exam pressure, Procrastination",Referred to therapist,1
+1947,Arjun K,Low,None,Not required,0
+1948,Karan S,Low,None,Not required,0
+1949,Divya R,High,"Sleep issues, Overwhelmed",Referred to therapist,3
+1950,Ankit R,Low,None,Not required,0
+1951,Sneha S,Low,None,Not required,0
+1952,Ankit R,Low,None,Not required,0
+1953,Priya T,Low,None,Not required,0
+1954,Ankit K,Low,None,Not required,0
+1955,Priya M,Moderate,"Lack of focus, Overwhelmed",Counselling ongoing,3
+1956,Karan S,High,Anxiety,Referred to therapist,1
+1957,Aisha R,Low,None,Not required,0
+1958,Ankit T,Moderate,"Depression, Sleep issues",Counselling ongoing,4
+1959,Rahul S,Moderate,Depression,Referred to therapist,4
+1960,Divya T,High,"Depression, Lack of focus",Support suggested,4
+1961,Divya T,Moderate,"Anxiety, Depression",Support suggested,5
+1962,Arjun S,Moderate,Burnout,Referred to therapist,3
+1963,Divya M,High,"Anxiety, Procrastination",Counselling ongoing,5
+1964,Karan S,Moderate,Procrastination,Counselling ongoing,4
+1965,Arjun M,Moderate,"Sleep issues, Procrastination",Support suggested,3
+1966,Ravi K,Moderate,"Exam pressure, Lack of focus",Referred to therapist,2
+1967,Karan S,Low,None,Not required,0
+1968,Priya M,High,Overwhelmed,Support suggested,2
+1969,Meera S,Low,None,Not required,0
+1970,Rahul K,Low,None,Not required,0
+1971,Aisha S,Low,None,Not required,0
+1972,Arjun R,Low,None,Not required,0
+1973,Karan T,Low,None,Not required,0
+1974,Ravi M,Low,None,Not required,0
+1975,Aisha T,Low,None,Not required,0
+1976,Aisha S,High,Homesickness,Counselling ongoing,4
+1977,Ravi M,High,Depression,Referred to therapist,1
+1978,Sneha S,Low,None,Not required,0
+1979,Karan R,Low,None,Not required,0
+1980,Divya S,Low,None,Not required,0
+1981,Ravi T,Low,None,Not required,0
+1982,Rahul M,Moderate,Homesickness,Referred to therapist,4
+1983,Arjun S,Low,None,Not required,0
+1984,Aisha K,Low,None,Not required,0
+1985,Divya K,Moderate,Procrastination,Referred to therapist,1
+1986,Rahul S,Low,None,Not required,0
+1987,Arjun K,High,Social isolation,Referred to therapist,3
+1988,Sneha T,Low,None,Not required,0
+1989,Priya S,High,"Anxiety, Lack of focus",Referred to therapist,1
+1990,Arjun K,Low,None,Not required,0
+1991,Meera T,Moderate,Exam pressure,Support suggested,1
+1992,Rahul S,Moderate,"Sleep issues, Lack of focus",Support suggested,2
+1993,Arjun R,Low,None,Not required,0
+1994,Priya K,Moderate,"Burnout, Procrastination",Support suggested,3
+1995,Ankit S,Moderate,"Depression, Anxiety",Referred to therapist,4
+1996,Priya K,Low,None,Not required,0
+1997,Karan K,Low,None,Not required,0
+1998,Sneha K,Moderate,Homesickness,Referred to therapist,4
+1999,Ankit T,Moderate,"Lack of focus, Anxiety",Counselling ongoing,4
+2000,Arjun M,Low,None,Not required,0
+2001,Karan R,Low,None,Not required,0
+2002,Rahul T,Low,None,Not required,0
+2003,Arjun T,Moderate,"Sleep issues, Homesickness",Referred to therapist,5
+2004,Rahul S,Moderate,"Burnout, Procrastination",Support suggested,4
+2005,Karan R,Moderate,"Depression, Anxiety",Support suggested,3
+2006,Ankit S,Low,None,Not required,0
+2007,Divya R,Moderate,Depression,Referred to therapist,3
+2008,Sneha T,Low,None,Not required,0
+2009,Divya T,High,"Social isolation, Anxiety",Counselling ongoing,1
+2010,Karan S,Low,None,Not required,0
+2011,Karan K,Low,None,Not required,0
+2012,Rahul T,Moderate,Overwhelmed,Referred to therapist,5
+2013,Sneha R,Moderate,"Social isolation, Depression",Referred to therapist,3
+2014,Karan M,High,"Sleep issues, Exam pressure",Counselling ongoing,4
+2015,Sneha M,High,Lack of focus,Referred to therapist,5
+2016,Karan T,Moderate,"Anxiety, Overwhelmed",Counselling ongoing,2
+2017,Arjun S,High,"Lack of focus, Sleep issues",Counselling ongoing,2
+2018,Sneha M,High,Burnout,Counselling ongoing,1
+2019,Divya S,Low,None,Not required,0
+2020,Aisha T,Low,None,Not required,0
+2021,Ankit R,Low,None,Not required,0
+2022,Arjun S,Low,None,Not required,0
+2023,Priya M,Low,None,Not required,0
+2024,Ravi S,Low,None,Not required,0
+2025,Meera K,High,"Exam pressure, Social isolation",Counselling ongoing,1
+2026,Divya R,Low,None,Not required,0
+2027,Rahul M,High,"Lack of focus, Social isolation",Referred to therapist,2
+2028,Ravi S,High,"Social isolation, Exam pressure",Referred to therapist,2
+2029,Meera T,High,Burnout,Referred to therapist,1
+2030,Priya M,Moderate,"Exam pressure, Social isolation",Support suggested,3
+2031,Divya R,Moderate,"Lack of focus, Procrastination",Support suggested,3
+2032,Rahul T,Low,None,Not required,0
+2033,Divya K,Low,None,Not required,0
+2034,Karan T,Low,None,Not required,0
+2035,Rahul K,Low,None,Not required,0
+2036,Aisha T,Moderate,"Homesickness, Procrastination",Counselling ongoing,3
+2037,Sneha M,Low,None,Not required,0
+2038,Aisha M,Moderate,"Overwhelmed, Social isolation",Counselling ongoing,5
+2039,Sneha S,Low,None,Not required,0
+2040,Aisha K,Low,None,Not required,0
+2041,Rahul S,Moderate,Social isolation,Referred to therapist,4
+2042,Aisha K,Low,None,Not required,0
+2043,Ankit R,Low,None,Not required,0
+2044,Aisha K,High,"Burnout, Anxiety",Counselling ongoing,5
+2045,Ankit K,Low,None,Not required,0
+2046,Meera T,High,"Sleep issues, Anxiety",Support suggested,1
+2047,Divya R,Low,None,Not required,0
+2048,Priya R,Low,None,Not required,0
+2049,Ankit M,Low,None,Not required,0
+2050,Divya T,Low,None,Not required,0
+2051,Rahul T,Low,None,Not required,0
+2052,Aisha M,Low,None,Not required,0
+2053,Sneha S,Moderate,"Social isolation, Exam pressure",Counselling ongoing,2
+2054,Rahul T,Low,None,Not required,0
+2055,Ankit M,Moderate,"Exam pressure, Burnout",Referred to therapist,2
+2056,Arjun M,High,"Homesickness, Social isolation",Referred to therapist,4
+2057,Aisha T,Moderate,Homesickness,Counselling ongoing,1
+2058,Meera R,Moderate,"Anxiety, Overwhelmed",Referred to therapist,5
+2059,Aisha T,Low,None,Not required,0
+2060,Rahul M,Moderate,"Lack of focus, Procrastination",Counselling ongoing,1
+2061,Ravi T,Low,None,Not required,0
+2062,Karan M,Low,None,Not required,0
+2063,Rahul S,Low,None,Not required,0
+2064,Divya T,High,Overwhelmed,Counselling ongoing,2
+2065,Rahul S,Low,None,Not required,0
+2066,Rahul R,Moderate,"Procrastination, Overwhelmed",Counselling ongoing,4
+2067,Meera T,Low,None,Not required,0
+2068,Ankit K,Low,None,Not required,0
+2069,Ravi R,Low,None,Not required,0
+2070,Rahul M,High,"Overwhelmed, Homesickness",Counselling ongoing,2
+2071,Sneha R,Low,None,Not required,0
+2072,Aisha M,Moderate,"Burnout, Social isolation",Counselling ongoing,4
+2073,Ankit K,Moderate,Exam pressure,Support suggested,3
+2074,Meera R,Low,None,Not required,0
+2075,Ankit S,Low,None,Not required,0
+2076,Rahul S,Low,None,Not required,0
+2077,Aisha K,Low,None,Not required,0
+2078,Meera K,Low,None,Not required,0
+2079,Ravi S,Moderate,"Sleep issues, Depression",Referred to therapist,5
+2080,Sneha M,Low,None,Not required,0
+2081,Priya R,High,"Procrastination, Social isolation",Counselling ongoing,1
+2082,Arjun S,Low,None,Not required,0
+2083,Sneha R,Low,None,Not required,0
+2084,Divya R,Low,None,Not required,0
+2085,Aisha R,Moderate,Overwhelmed,Counselling ongoing,4
+2086,Aisha S,Low,None,Not required,0
+2087,Sneha T,Low,None,Not required,0
+2088,Aisha M,Moderate,Anxiety,Referred to therapist,3
+2089,Rahul T,Low,None,Not required,0
+2090,Arjun M,Low,None,Not required,0
+2091,Meera M,High,Homesickness,Referred to therapist,5
+2092,Meera S,Low,None,Not required,0
+2093,Divya K,Moderate,"Burnout, Homesickness",Referred to therapist,2
+2094,Aisha K,Low,None,Not required,0
+2095,Ravi R,Low,None,Not required,0
+2096,Ravi K,Moderate,"Exam pressure, Social isolation",Counselling ongoing,4
+2097,Karan R,Low,None,Not required,0
+2098,Arjun S,Low,None,Not required,0
+2099,Ankit M,Low,None,Not required,0
+2100,Divya T,High,"Procrastination, Lack of focus",Referred to therapist,3
+2101,Aisha R,Low,None,Not required,0
+2102,Rahul S,High,Sleep issues,Referred to therapist,5
+2103,Arjun M,Low,None,Not required,0
+2104,Divya K,Moderate,"Burnout, Exam pressure",Referred to therapist,3
+2105,Ankit S,Low,None,Not required,0
+2106,Sneha T,Moderate,"Sleep issues, Lack of focus",Referred to therapist,2
+2107,Priya M,Low,None,Not required,0
+2108,Ravi K,Low,None,Not required,0
+2109,Meera K,Low,None,Not required,0
+2110,Aisha T,Low,None,Not required,0
+2111,Priya M,Low,None,Not required,0
+2112,Ravi M,Low,None,Not required,0
+2113,Divya M,Moderate,"Depression, Burnout",Referred to therapist,2
+2114,Ankit M,Low,None,Not required,0
+2115,Aisha M,Low,None,Not required,0
+2116,Karan T,Low,None,Not required,0
+2117,Ravi R,Low,None,Not required,0
+2118,Karan T,High,Burnout,Referred to therapist,1
+2119,Meera K,Low,None,Not required,0
+2120,Sneha T,Low,None,Not required,0
+2121,Aisha M,Low,None,Not required,0
+2122,Ravi R,Low,None,Not required,0
+2123,Divya R,Moderate,Depression,Referred to therapist,2
+2124,Ravi S,High,"Lack of focus, Social isolation",Referred to therapist,3
+2125,Rahul R,Moderate,"Exam pressure, Burnout",Support suggested,1
+2126,Divya T,Moderate,"Overwhelmed, Exam pressure",Counselling ongoing,2
+2127,Ravi R,Low,None,Not required,0
+2128,Ravi M,High,"Burnout, Procrastination",Support suggested,2
+2129,Priya K,Low,None,Not required,0
+2130,Arjun S,High,Homesickness,Counselling ongoing,3
+2131,Divya K,Low,None,Not required,0
+2132,Karan K,High,"Anxiety, Social isolation",Counselling ongoing,3
+2133,Ravi K,High,"Overwhelmed, Procrastination",Counselling ongoing,5
+2134,Divya M,Low,None,Not required,0
+2135,Sneha M,Low,None,Not required,0
+2136,Priya R,High,Procrastination,Referred to therapist,3
+2137,Sneha R,Moderate,Depression,Support suggested,1
+2138,Divya T,High,"Burnout, Homesickness",Referred to therapist,5
+2139,Divya M,Low,None,Not required,0
+2140,Aisha M,High,"Burnout, Social isolation",Support suggested,4
+2141,Ravi S,High,Social isolation,Counselling ongoing,4
+2142,Priya K,Moderate,Overwhelmed,Support suggested,2
+2143,Karan S,Moderate,"Depression, Social isolation",Support suggested,3
+2144,Rahul R,Low,None,Not required,0
+2145,Ravi M,Low,None,Not required,0
+2146,Arjun S,Low,None,Not required,0
+2147,Divya M,Moderate,"Exam pressure, Sleep issues",Support suggested,4
+2148,Ankit R,Low,None,Not required,0
+2149,Ravi S,Low,None,Not required,0
+2150,Rahul T,Moderate,Lack of focus,Support suggested,3
+2151,Rahul M,Moderate,Lack of focus,Counselling ongoing,5
+2152,Ankit S,Low,None,Not required,0
+2153,Rahul T,Low,None,Not required,0
+2154,Priya S,Low,None,Not required,0
+2155,Ankit M,High,Sleep issues,Support suggested,5
+2156,Ankit T,High,"Anxiety, Depression",Support suggested,5
+2157,Meera T,Moderate,Anxiety,Support suggested,5
+2158,Arjun K,Low,None,Not required,0
+2159,Arjun M,Low,None,Not required,0
+2160,Arjun K,High,Overwhelmed,Support suggested,3
+2161,Ankit S,Low,None,Not required,0
+2162,Rahul K,Moderate,"Anxiety, Procrastination",Counselling ongoing,3
+2163,Aisha T,High,"Exam pressure, Overwhelmed",Counselling ongoing,1
+2164,Karan R,Low,None,Not required,0
+2165,Ankit M,Low,None,Not required,0
+2166,Arjun S,Low,None,Not required,0
+2167,Ravi T,Low,None,Not required,0
+2168,Rahul M,High,"Exam pressure, Burnout",Referred to therapist,1
+2169,Divya M,Low,None,Not required,0
+2170,Meera S,Low,None,Not required,0
+2171,Meera R,Low,None,Not required,0
+2172,Meera M,Moderate,"Exam pressure, Depression",Support suggested,5
+2173,Arjun M,Low,None,Not required,0
+2174,Ravi R,Low,None,Not required,0
+2175,Arjun K,Moderate,"Procrastination, Lack of focus",Support suggested,3
+2176,Karan M,Low,None,Not required,0
+2177,Arjun K,Low,None,Not required,0
+2178,Ravi K,Low,None,Not required,0
+2179,Divya T,Moderate,Social isolation,Counselling ongoing,1
+2180,Arjun S,High,Burnout,Support suggested,5
+2181,Aisha K,Low,None,Not required,0
+2182,Meera M,Low,None,Not required,0
+2183,Ravi R,Low,None,Not required,0
+2184,Sneha S,Moderate,Depression,Support suggested,4
+2185,Aisha M,Low,None,Not required,0
+2186,Meera S,High,Overwhelmed,Support suggested,5
+2187,Priya M,Moderate,"Procrastination, Lack of focus",Referred to therapist,1
+2188,Sneha K,Moderate,Homesickness,Counselling ongoing,1
+2189,Karan K,Low,None,Not required,0
+2190,Ankit K,Low,None,Not required,0
+2191,Ankit M,Moderate,"Homesickness, Exam pressure",Referred to therapist,5
+2192,Meera S,High,Overwhelmed,Referred to therapist,1
+2193,Meera S,Moderate,Homesickness,Referred to therapist,2
+2194,Arjun K,Low,None,Not required,0
+2195,Divya R,Low,None,Not required,0
+2196,Priya T,Moderate,"Social isolation, Depression",Support suggested,4
+2197,Meera R,Low,None,Not required,0
+2198,Meera M,Low,None,Not required,0
+2199,Aisha S,Low,None,Not required,0
+2200,Priya M,Low,None,Not required,0
+2201,Ankit R,Moderate,"Homesickness, Anxiety",Referred to therapist,4
+2202,Meera K,Low,None,Not required,0
+2203,Priya R,Moderate,Social isolation,Counselling ongoing,3
+2204,Rahul S,Low,None,Not required,0
+2205,Arjun M,Moderate,"Lack of focus, Homesickness",Counselling ongoing,5
+2206,Arjun S,Low,None,Not required,0
+2207,Ankit S,Moderate,"Overwhelmed, Homesickness",Referred to therapist,1
+2208,Arjun S,High,Overwhelmed,Support suggested,3
+2209,Ravi T,High,"Anxiety, Sleep issues",Counselling ongoing,2
+2210,Ravi R,High,"Lack of focus, Sleep issues",Counselling ongoing,2
+2211,Sneha M,Moderate,Burnout,Counselling ongoing,2
+2212,Priya M,High,"Overwhelmed, Lack of focus",Referred to therapist,3
+2213,Ravi S,High,Depression,Support suggested,1
+2214,Arjun K,Low,None,Not required,0
+2215,Arjun S,Moderate,"Depression, Lack of focus",Counselling ongoing,2
+2216,Aisha M,High,"Burnout, Exam pressure",Counselling ongoing,2
+2217,Priya S,High,Exam pressure,Counselling ongoing,1
+2218,Karan M,Low,None,Not required,0
+2219,Ankit M,Low,None,Not required,0
+2220,Priya M,Low,None,Not required,0
+2221,Arjun S,Low,None,Not required,0
+2222,Aisha K,Moderate,"Lack of focus, Depression",Support suggested,1
+2223,Karan S,Moderate,"Burnout, Anxiety",Counselling ongoing,4
+2224,Priya K,Low,None,Not required,0
+2225,Priya T,High,Burnout,Support suggested,1
+2226,Karan T,Moderate,"Procrastination, Depression",Counselling ongoing,4
+2227,Meera T,Low,None,Not required,0
+2228,Arjun M,Moderate,Lack of focus,Support suggested,1
+2229,Karan K,Moderate,"Social isolation, Homesickness",Counselling ongoing,2
+2230,Rahul M,Low,None,Not required,0
+2231,Aisha K,Moderate,"Sleep issues, Overwhelmed",Support suggested,3
+2232,Arjun R,High,Sleep issues,Counselling ongoing,1
+2233,Ankit S,High,Procrastination,Support suggested,5
+2234,Divya T,Low,None,Not required,0
+2235,Divya R,Low,None,Not required,0
+2236,Arjun S,Moderate,Homesickness,Support suggested,3
+2237,Rahul R,Moderate,Depression,Support suggested,2
+2238,Ankit M,Moderate,"Depression, Homesickness",Counselling ongoing,3
+2239,Priya T,Moderate,"Lack of focus, Overwhelmed",Counselling ongoing,1
+2240,Aisha T,Low,None,Not required,0
+2241,Arjun S,Moderate,Burnout,Referred to therapist,5
+2242,Ankit S,Low,None,Not required,0
+2243,Rahul M,Moderate,Sleep issues,Counselling ongoing,5
+2244,Ankit R,Moderate,"Homesickness, Anxiety",Counselling ongoing,5
+2245,Divya K,Low,None,Not required,0
+2246,Ravi S,High,Overwhelmed,Counselling ongoing,2
+2247,Ankit K,High,"Anxiety, Sleep issues",Referred to therapist,3
+2248,Karan K,Low,None,Not required,0
+2249,Sneha S,Low,None,Not required,0
+2250,Divya R,Low,None,Not required,0
+2251,Sneha S,Low,None,Not required,0
+2252,Arjun K,Moderate,"Anxiety, Overwhelmed",Support suggested,3
+2253,Priya T,Low,None,Not required,0
+2254,Sneha T,Low,None,Not required,0
+2255,Ankit S,Low,None,Not required,0
+2256,Ankit K,High,"Social isolation, Depression",Referred to therapist,2
+2257,Ankit K,Low,None,Not required,0
+2258,Divya S,Moderate,"Depression, Sleep issues",Counselling ongoing,1
+2259,Divya T,Moderate,"Lack of focus, Homesickness",Support suggested,2
+2260,Aisha S,High,Burnout,Referred to therapist,1
+2261,Priya T,Low,None,Not required,0
+2262,Ravi M,High,"Exam pressure, Homesickness",Referred to therapist,2
+2263,Arjun M,Moderate,Overwhelmed,Counselling ongoing,3
+2264,Karan M,Low,None,Not required,0
+2265,Ravi K,Moderate,"Anxiety, Burnout",Referred to therapist,5
+2266,Meera S,Low,None,Not required,0
+2267,Rahul S,High,Overwhelmed,Support suggested,3
+2268,Aisha R,Low,None,Not required,0
+2269,Ravi T,Low,None,Not required,0
+2270,Aisha T,Moderate,"Social isolation, Exam pressure",Support suggested,5
+2271,Aisha S,High,"Burnout, Lack of focus",Counselling ongoing,4
+2272,Sneha S,Low,None,Not required,0
+2273,Aisha K,Low,None,Not required,0
+2274,Karan S,Moderate,"Depression, Procrastination",Support suggested,2
+2275,Ankit R,Moderate,Homesickness,Support suggested,3
+2276,Priya T,Low,None,Not required,0
+2277,Ankit S,Moderate,Homesickness,Counselling ongoing,4
+2278,Aisha M,High,Burnout,Support suggested,3
+2279,Priya S,Low,None,Not required,0
+2280,Divya M,Low,None,Not required,0
+2281,Divya T,Low,None,Not required,0
+2282,Ankit R,High,Exam pressure,Referred to therapist,1
+2283,Ravi M,Low,None,Not required,0
+2284,Divya S,Moderate,"Homesickness, Depression",Referred to therapist,1
+2285,Rahul K,Low,None,Not required,0
+2286,Ankit T,Low,None,Not required,0
+2287,Priya K,Moderate,Overwhelmed,Counselling ongoing,5
+2288,Ravi T,Moderate,"Social isolation, Overwhelmed",Referred to therapist,5
+2289,Karan K,Moderate,Social isolation,Support suggested,5
+2290,Meera T,Moderate,"Lack of focus, Burnout",Support suggested,3
+2291,Ankit S,Low,None,Not required,0
+2292,Ankit S,Low,None,Not required,0
+2293,Aisha M,Low,None,Not required,0
+2294,Priya S,High,Sleep issues,Counselling ongoing,1
+2295,Meera S,Low,None,Not required,0
+2296,Sneha R,Moderate,Homesickness,Counselling ongoing,4
+2297,Ankit T,Low,None,Not required,0
+2298,Meera K,Low,None,Not required,0
+2299,Priya S,Low,None,Not required,0
+2300,Divya R,Low,None,Not required,0
+2301,Arjun M,Low,None,Not required,0
+2302,Karan M,Moderate,"Depression, Burnout",Referred to therapist,2
+2303,Aisha T,Moderate,"Overwhelmed, Exam pressure",Counselling ongoing,2
+2304,Aisha R,Low,None,Not required,0
+2305,Meera S,Low,None,Not required,0
+2306,Rahul K,Low,None,Not required,0
+2307,Karan S,Low,None,Not required,0
+2308,Priya R,Low,None,Not required,0
+2309,Priya K,Moderate,"Social isolation, Lack of focus",Support suggested,3
+2310,Divya M,Low,None,Not required,0
+2311,Aisha K,High,"Burnout, Anxiety",Referred to therapist,2
+2312,Meera K,High,Sleep issues,Referred to therapist,1
+2313,Rahul R,Moderate,"Social isolation, Homesickness",Counselling ongoing,3
+2314,Karan T,High,Depression,Counselling ongoing,4
+2315,Aisha S,Low,None,Not required,0
+2316,Priya M,Moderate,Homesickness,Support suggested,1
+2317,Priya T,Low,None,Not required,0
+2318,Priya T,Low,None,Not required,0
+2319,Priya T,Low,None,Not required,0
+2320,Meera R,High,"Exam pressure, Overwhelmed",Referred to therapist,1
+2321,Ravi T,Low,None,Not required,0
+2322,Arjun S,Moderate,Anxiety,Counselling ongoing,2
+2323,Rahul T,Moderate,"Depression, Lack of focus",Support suggested,3
+2324,Divya T,Low,None,Not required,0
+2325,Rahul T,High,"Social isolation, Anxiety",Support suggested,4
+2326,Karan M,Low,None,Not required,0
+2327,Priya M,Low,None,Not required,0
+2328,Ravi K,Low,None,Not required,0
+2329,Ravi T,Low,None,Not required,0
+2330,Ravi R,Low,None,Not required,0
+2331,Rahul R,Low,None,Not required,0
+2332,Aisha K,Low,None,Not required,0
+2333,Arjun S,Low,None,Not required,0
+2334,Meera M,Low,None,Not required,0
+2335,Arjun T,Low,None,Not required,0
+2336,Arjun M,Low,None,Not required,0
+2337,Arjun K,Low,None,Not required,0
+2338,Ankit S,Low,None,Not required,0
+2339,Priya T,Moderate,"Lack of focus, Procrastination",Counselling ongoing,1
+2340,Meera R,Low,None,Not required,0
+2341,Divya M,High,"Burnout, Anxiety",Referred to therapist,5
+2342,Sneha T,High,"Anxiety, Sleep issues",Counselling ongoing,1
+2343,Meera S,High,"Anxiety, Depression",Support suggested,1
+2344,Aisha M,Low,None,Not required,0
+2345,Aisha T,Moderate,"Sleep issues, Procrastination",Counselling ongoing,1
+2346,Divya R,Low,None,Not required,0
+2347,Sneha T,Moderate,"Homesickness, Procrastination",Referred to therapist,2
+2348,Ankit S,High,"Anxiety, Sleep issues",Referred to therapist,3
+2349,Meera T,High,"Overwhelmed, Depression",Counselling ongoing,4
+2350,Arjun T,High,"Exam pressure, Lack of focus",Counselling ongoing,4
+2351,Meera M,High,Homesickness,Counselling ongoing,1
+2352,Arjun S,Moderate,"Sleep issues, Social isolation",Support suggested,1
+2353,Karan M,High,"Burnout, Exam pressure",Referred to therapist,1
+2354,Priya S,Low,None,Not required,0
+2355,Ankit K,Low,None,Not required,0
+2356,Rahul M,Low,None,Not required,0
+2357,Priya S,Moderate,Overwhelmed,Support suggested,3
+2358,Aisha T,Low,None,Not required,0
+2359,Aisha S,Moderate,"Procrastination, Depression",Counselling ongoing,2
+2360,Divya T,Low,None,Not required,0
+2361,Sneha K,Low,None,Not required,0
+2362,Ravi K,Low,None,Not required,0
+2363,Karan M,Moderate,Depression,Counselling ongoing,3
+2364,Ankit K,Low,None,Not required,0
+2365,Ravi K,High,Depression,Referred to therapist,5
+2366,Divya S,Moderate,"Overwhelmed, Lack of focus",Support suggested,4
+2367,Ankit K,Moderate,Anxiety,Support suggested,3
+2368,Priya S,Low,None,Not required,0
+2369,Rahul R,Low,None,Not required,0
+2370,Ravi T,Low,None,Not required,0
+2371,Ankit R,High,"Social isolation, Lack of focus",Support suggested,2
+2372,Ravi R,Low,None,Not required,0
+2373,Karan M,Moderate,Sleep issues,Support suggested,1
+2374,Priya M,Moderate,"Procrastination, Homesickness",Referred to therapist,1
+2375,Ankit T,Moderate,Burnout,Support suggested,1
+2376,Ankit T,Low,None,Not required,0
+2377,Ankit T,Low,None,Not required,0
+2378,Karan R,Low,None,Not required,0
+2379,Rahul T,Low,None,Not required,0
+2380,Ankit M,High,"Anxiety, Exam pressure",Referred to therapist,1
+2381,Aisha M,Low,None,Not required,0
+2382,Rahul K,Low,None,Not required,0
+2383,Ravi K,Low,None,Not required,0
+2384,Rahul K,Moderate,"Exam pressure, Anxiety",Referred to therapist,2
+2385,Rahul T,High,"Anxiety, Lack of focus",Support suggested,3
+2386,Meera K,Moderate,Lack of focus,Counselling ongoing,1
+2387,Meera R,Moderate,Overwhelmed,Counselling ongoing,3
+2388,Arjun K,Low,None,Not required,0
+2389,Ravi K,Moderate,Social isolation,Support suggested,3
+2390,Arjun M,Low,None,Not required,0
+2391,Rahul T,Low,None,Not required,0
+2392,Sneha S,Moderate,Exam pressure,Counselling ongoing,2
+2393,Rahul K,Low,None,Not required,0
+2394,Aisha S,High,Lack of focus,Support suggested,5
+2395,Arjun T,Low,None,Not required,0
+2396,Priya K,High,"Lack of focus, Anxiety",Counselling ongoing,2
+2397,Ravi R,Low,None,Not required,0
+2398,Ankit R,Moderate,"Procrastination, Lack of focus",Referred to therapist,1
+2399,Arjun T,Moderate,"Burnout, Exam pressure",Referred to therapist,1
+2400,Priya R,Low,None,Not required,0
+2401,Rahul M,Low,None,Not required,0
+2402,Rahul S,Low,None,Not required,0
+2403,Sneha S,Low,None,Not required,0
+2404,Meera K,Low,None,Not required,0
+2405,Arjun K,Moderate,Overwhelmed,Support suggested,2
+2406,Ravi T,Low,None,Not required,0
+2407,Priya M,High,Social isolation,Support suggested,1
+2408,Divya K,Low,None,Not required,0
+2409,Priya S,High,"Depression, Overwhelmed",Support suggested,2
+2410,Ankit M,Low,None,Not required,0
+2411,Meera M,Low,None,Not required,0
+2412,Ankit S,Moderate,Overwhelmed,Counselling ongoing,2
+2413,Meera T,Low,None,Not required,0
+2414,Aisha T,High,"Anxiety, Lack of focus",Referred to therapist,3
+2415,Ankit K,Low,None,Not required,0
+2416,Meera K,High,"Homesickness, Anxiety",Referred to therapist,4
+2417,Rahul K,High,"Social isolation, Lack of focus",Support suggested,3
+2418,Sneha K,High,"Overwhelmed, Anxiety",Support suggested,3
+2419,Divya R,Moderate,"Depression, Anxiety",Support suggested,1
+2420,Meera M,Moderate,Depression,Support suggested,5
+2421,Rahul K,Moderate,"Depression, Burnout",Support suggested,2
+2422,Ankit M,Moderate,"Depression, Overwhelmed",Support suggested,1
+2423,Priya M,Moderate,Anxiety,Support suggested,2
+2424,Meera T,Low,None,Not required,0
+2425,Priya R,Low,None,Not required,0
+2426,Karan R,Moderate,"Exam pressure, Social isolation",Counselling ongoing,3
+2427,Karan R,Moderate,"Sleep issues, Depression",Referred to therapist,1
+2428,Ravi R,Moderate,Burnout,Counselling ongoing,2
+2429,Meera S,High,"Homesickness, Depression",Referred to therapist,5
+2430,Karan M,High,Homesickness,Counselling ongoing,2
+2431,Rahul K,Low,None,Not required,0
+2432,Meera M,Moderate,"Burnout, Overwhelmed",Support suggested,5
+2433,Arjun S,Low,None,Not required,0
+2434,Rahul T,Low,None,Not required,0
+2435,Ankit M,Low,None,Not required,0
+2436,Arjun S,Moderate,"Social isolation, Procrastination",Support suggested,4
+2437,Aisha R,Low,None,Not required,0
+2438,Arjun S,Moderate,Lack of focus,Counselling ongoing,1
+2439,Arjun S,Moderate,Overwhelmed,Counselling ongoing,4
+2440,Priya K,Low,None,Not required,0
+2441,Ankit T,Low,None,Not required,0
+2442,Karan T,Moderate,"Social isolation, Anxiety",Referred to therapist,2
+2443,Rahul T,Moderate,"Depression, Sleep issues",Counselling ongoing,5
+2444,Meera M,Moderate,Social isolation,Counselling ongoing,1
+2445,Aisha T,Low,None,Not required,0
+2446,Ravi M,Low,None,Not required,0
+2447,Arjun S,Low,None,Not required,0
+2448,Sneha T,Moderate,Anxiety,Referred to therapist,1
+2449,Sneha M,High,"Depression, Anxiety",Referred to therapist,4
+2450,Sneha K,Moderate,Lack of focus,Referred to therapist,1
+2451,Priya T,Moderate,"Social isolation, Burnout",Referred to therapist,4
+2452,Rahul S,Low,None,Not required,0
+2453,Divya R,Low,None,Not required,0
+2454,Meera T,Low,None,Not required,0
+2455,Rahul T,Low,None,Not required,0
+2456,Meera M,High,Exam pressure,Support suggested,1
+2457,Divya K,High,Lack of focus,Referred to therapist,4
+2458,Priya M,High,Sleep issues,Counselling ongoing,4
+2459,Rahul M,Low,None,Not required,0
+2460,Meera K,High,Lack of focus,Referred to therapist,4
+2461,Rahul R,High,"Overwhelmed, Burnout",Referred to therapist,3
+2462,Ravi M,Moderate,"Depression, Lack of focus",Counselling ongoing,3
+2463,Aisha T,Low,None,Not required,0
+2464,Priya T,Moderate,Homesickness,Support suggested,1
+2465,Arjun K,Low,None,Not required,0
+2466,Priya T,Low,None,Not required,0
+2467,Sneha M,Moderate,"Homesickness, Overwhelmed",Support suggested,4
+2468,Ankit R,Moderate,"Sleep issues, Exam pressure",Referred to therapist,1
+2469,Aisha R,Low,None,Not required,0
+2470,Sneha R,Moderate,Social isolation,Support suggested,4
+2471,Ravi T,Moderate,Lack of focus,Referred to therapist,5
+2472,Meera R,High,Overwhelmed,Referred to therapist,2
+2473,Divya S,Low,None,Not required,0
+2474,Sneha T,Moderate,Overwhelmed,Referred to therapist,5
+2475,Karan M,Low,None,Not required,0
+2476,Arjun T,High,Anxiety,Counselling ongoing,2
+2477,Priya M,Low,None,Not required,0
+2478,Ankit R,Low,None,Not required,0
+2479,Sneha K,High,"Homesickness, Overwhelmed",Referred to therapist,3
+2480,Aisha K,Moderate,Depression,Referred to therapist,4
+2481,Priya M,Moderate,Burnout,Support suggested,1
+2482,Ankit M,Low,None,Not required,0
+2483,Priya S,Low,None,Not required,0
+2484,Meera M,Low,None,Not required,0
+2485,Meera T,Low,None,Not required,0
+2486,Aisha T,Moderate,Sleep issues,Support suggested,1
+2487,Aisha R,Moderate,Procrastination,Referred to therapist,4
+2488,Ankit S,Moderate,"Homesickness, Exam pressure",Support suggested,5
+2489,Rahul T,High,"Sleep issues, Burnout",Referred to therapist,2
+2490,Karan R,Moderate,Homesickness,Counselling ongoing,1
+2491,Meera S,Low,None,Not required,0
+2492,Sneha R,Low,None,Not required,0
+2493,Arjun K,Low,None,Not required,0
+2494,Ravi S,High,"Burnout, Anxiety",Referred to therapist,4
+2495,Ankit S,Low,None,Not required,0
+2496,Rahul R,Low,None,Not required,0
+2497,Ravi T,Low,None,Not required,0
+2498,Rahul R,Low,None,Not required,0
+2499,Meera M,Low,None,Not required,0
+2500,Ravi M,Low,None,Not required,0
+2501,Aisha S,Low,None,Not required,0
+2502,Karan K,Low,None,Not required,0
+2503,Meera T,Moderate,"Anxiety, Homesickness",Support suggested,5
+2504,Divya S,Low,None,Not required,0
+2505,Sneha T,Moderate,"Anxiety, Burnout",Counselling ongoing,1
+2506,Karan K,Moderate,Social isolation,Support suggested,2
+2507,Ravi M,Low,None,Not required,0
+2508,Priya T,Moderate,Depression,Referred to therapist,2
+2509,Ravi S,Low,None,Not required,0
+2510,Karan M,Moderate,Exam pressure,Referred to therapist,4
+2511,Arjun S,High,"Burnout, Overwhelmed",Support suggested,4
+2512,Divya S,Low,None,Not required,0
+2513,Karan T,Moderate,Lack of focus,Support suggested,4
+2514,Priya T,Moderate,"Lack of focus, Sleep issues",Counselling ongoing,2
+2515,Karan K,Moderate,Anxiety,Referred to therapist,2
+2516,Priya M,Moderate,Homesickness,Support suggested,5
+2517,Meera T,Low,None,Not required,0
+2518,Rahul K,Moderate,Homesickness,Support suggested,1
+2519,Sneha S,Moderate,"Lack of focus, Homesickness",Referred to therapist,3
+2520,Divya R,Low,None,Not required,0
+2521,Meera R,High,Sleep issues,Support suggested,4
+2522,Ankit M,Low,None,Not required,0
+2523,Arjun R,Low,None,Not required,0
+2524,Aisha K,High,Burnout,Referred to therapist,1
+2525,Meera T,Moderate,"Social isolation, Homesickness",Referred to therapist,2
+2526,Sneha K,Low,None,Not required,0
+2527,Rahul K,Moderate,Depression,Support suggested,5
+2528,Meera K,Low,None,Not required,0
+2529,Arjun S,High,"Lack of focus, Social isolation",Counselling ongoing,2
+2530,Rahul M,High,Anxiety,Counselling ongoing,3
+2531,Karan T,High,"Exam pressure, Sleep issues",Support suggested,2
+2532,Meera M,Moderate,"Anxiety, Lack of focus",Support suggested,4
+2533,Karan M,Low,None,Not required,0
+2534,Ravi T,High,Sleep issues,Support suggested,5
+2535,Ravi T,Low,None,Not required,0
+2536,Divya S,High,"Anxiety, Overwhelmed",Counselling ongoing,5
+2537,Priya T,Low,None,Not required,0
+2538,Ravi T,Moderate,"Procrastination, Lack of focus",Counselling ongoing,1
+2539,Aisha S,Low,None,Not required,0
+2540,Arjun T,High,"Anxiety, Homesickness",Referred to therapist,4
+2541,Karan R,Low,None,Not required,0
+2542,Divya M,Low,None,Not required,0
+2543,Karan K,Moderate,Procrastination,Support suggested,3
+2544,Meera M,Moderate,"Homesickness, Anxiety",Referred to therapist,2
+2545,Karan T,Low,None,Not required,0
+2546,Rahul T,Moderate,Sleep issues,Counselling ongoing,2
+2547,Ravi T,High,Lack of focus,Referred to therapist,3
+2548,Rahul T,Moderate,"Sleep issues, Depression",Counselling ongoing,2
+2549,Ankit K,High,Lack of focus,Support suggested,1
+2550,Ankit S,Low,None,Not required,0
+2551,Divya M,High,Overwhelmed,Referred to therapist,2
+2552,Aisha M,Low,None,Not required,0
+2553,Meera R,Low,None,Not required,0
+2554,Arjun M,Low,None,Not required,0
+2555,Ankit M,Low,None,Not required,0
+2556,Ravi M,Low,None,Not required,0
+2557,Meera S,Low,None,Not required,0
+2558,Arjun S,Moderate,"Overwhelmed, Social isolation",Support suggested,4
+2559,Priya R,Moderate,Social isolation,Support suggested,2
+2560,Arjun M,Low,None,Not required,0
+2561,Ankit S,Low,None,Not required,0
+2562,Ravi T,Low,None,Not required,0
+2563,Ankit T,Moderate,"Lack of focus, Procrastination",Counselling ongoing,3
+2564,Aisha M,High,Anxiety,Counselling ongoing,3
+2565,Meera S,Low,None,Not required,0
+2566,Arjun M,Moderate,"Procrastination, Homesickness",Referred to therapist,4
+2567,Karan T,Moderate,Homesickness,Support suggested,4
+2568,Rahul K,Low,None,Not required,0
+2569,Meera R,Low,None,Not required,0
+2570,Karan T,High,"Burnout, Social isolation",Counselling ongoing,4
+2571,Meera K,High,"Procrastination, Homesickness",Counselling ongoing,3
+2572,Sneha R,Low,None,Not required,0
+2573,Divya M,Low,None,Not required,0
+2574,Divya K,Moderate,Burnout,Referred to therapist,2
+2575,Sneha S,Low,None,Not required,0
+2576,Ravi R,High,"Depression, Sleep issues",Support suggested,5
+2577,Sneha R,Moderate,"Exam pressure, Burnout",Referred to therapist,1
+2578,Meera T,High,Sleep issues,Counselling ongoing,2
+2579,Arjun K,High,"Anxiety, Depression",Counselling ongoing,2
+2580,Arjun K,Low,None,Not required,0
+2581,Meera T,High,"Social isolation, Anxiety",Referred to therapist,5
+2582,Divya S,Low,None,Not required,0
+2583,Aisha S,Low,None,Not required,0
+2584,Rahul S,Low,None,Not required,0
+2585,Ravi T,High,Sleep issues,Support suggested,1
+2586,Meera R,High,"Procrastination, Sleep issues",Referred to therapist,4
+2587,Karan R,Low,None,Not required,0
+2588,Meera R,Low,None,Not required,0
+2589,Aisha T,Moderate,"Overwhelmed, Lack of focus",Referred to therapist,2
+2590,Sneha T,Low,None,Not required,0
+2591,Meera K,Moderate,"Lack of focus, Overwhelmed",Referred to therapist,3
+2592,Arjun S,Low,None,Not required,0
+2593,Arjun M,Moderate,Anxiety,Counselling ongoing,3
+2594,Arjun M,Low,None,Not required,0
+2595,Rahul M,Moderate,"Anxiety, Sleep issues",Referred to therapist,2
+2596,Karan K,High,Social isolation,Counselling ongoing,2
+2597,Ravi M,Low,None,Not required,0
+2598,Rahul R,High,Homesickness,Referred to therapist,5
+2599,Ravi M,Moderate,Homesickness,Referred to therapist,5
+2600,Rahul R,Low,None,Not required,0
+2601,Ankit K,Moderate,Exam pressure,Counselling ongoing,1
+2602,Divya T,High,Social isolation,Counselling ongoing,4
+2603,Rahul S,Low,None,Not required,0
+2604,Rahul M,Low,None,Not required,0
+2605,Priya S,Low,None,Not required,0
+2606,Meera S,High,"Burnout, Lack of focus",Support suggested,2
+2607,Karan K,Low,None,Not required,0
+2608,Priya T,Moderate,Depression,Support suggested,1
+2609,Ravi R,Moderate,Social isolation,Referred to therapist,2
+2610,Ravi T,Moderate,"Depression, Sleep issues",Counselling ongoing,3
+2611,Sneha T,Low,None,Not required,0
+2612,Arjun S,High,Overwhelmed,Counselling ongoing,3
+2613,Meera M,High,Anxiety,Support suggested,2
+2614,Arjun R,Low,None,Not required,0
+2615,Ankit K,High,"Burnout, Homesickness",Referred to therapist,4
+2616,Ravi K,Low,None,Not required,0
+2617,Priya M,Low,None,Not required,0
+2618,Divya S,High,Social isolation,Support suggested,3
+2619,Priya S,Low,None,Not required,0
+2620,Arjun K,High,"Burnout, Procrastination",Support suggested,1
+2621,Karan R,Moderate,"Procrastination, Burnout",Support suggested,5
+2622,Divya T,Moderate,Sleep issues,Counselling ongoing,5
+2623,Aisha M,Low,None,Not required,0
+2624,Ravi M,Low,None,Not required,0
+2625,Ankit K,Low,None,Not required,0
+2626,Aisha S,High,Depression,Counselling ongoing,3
+2627,Ravi M,Moderate,Depression,Counselling ongoing,1
+2628,Aisha K,High,"Homesickness, Anxiety",Counselling ongoing,3
+2629,Rahul K,Low,None,Not required,0
+2630,Aisha K,Low,None,Not required,0
+2631,Arjun T,Low,None,Not required,0
+2632,Sneha K,Moderate,"Depression, Anxiety",Counselling ongoing,2
+2633,Arjun M,High,"Anxiety, Procrastination",Counselling ongoing,2
+2634,Priya R,Low,None,Not required,0
+2635,Divya R,Moderate,Social isolation,Referred to therapist,5
+2636,Ravi T,Moderate,"Lack of focus, Overwhelmed",Support suggested,3
+2637,Divya K,Low,None,Not required,0
+2638,Priya M,Moderate,Overwhelmed,Support suggested,4
+2639,Sneha T,Moderate,Social isolation,Counselling ongoing,1
+2640,Sneha T,Low,None,Not required,0
+2641,Priya T,Moderate,"Burnout, Sleep issues",Support suggested,3
+2642,Priya R,Low,None,Not required,0
+2643,Arjun K,Low,None,Not required,0
+2644,Aisha R,High,Social isolation,Support suggested,3
+2645,Sneha S,Low,None,Not required,0
+2646,Arjun K,Low,None,Not required,0
+2647,Priya T,Moderate,Homesickness,Support suggested,5
+2648,Arjun T,Low,None,Not required,0
+2649,Rahul R,Moderate,"Exam pressure, Social isolation",Support suggested,2
+2650,Meera R,Low,None,Not required,0
+2651,Aisha K,Moderate,"Burnout, Procrastination",Counselling ongoing,3
+2652,Ravi M,Moderate,"Lack of focus, Depression",Referred to therapist,1
+2653,Arjun S,High,"Burnout, Procrastination",Referred to therapist,3
+2654,Priya S,High,"Anxiety, Social isolation",Counselling ongoing,4
+2655,Ravi M,Low,None,Not required,0
+2656,Rahul R,Low,None,Not required,0
+2657,Arjun R,Moderate,Overwhelmed,Referred to therapist,4
+2658,Rahul R,Low,None,Not required,0
+2659,Ankit K,Low,None,Not required,0
+2660,Aisha S,High,"Depression, Procrastination",Support suggested,4
+2661,Ankit R,Low,None,Not required,0
+2662,Ravi K,Moderate,Lack of focus,Support suggested,5
+2663,Rahul R,Moderate,"Social isolation, Procrastination",Counselling ongoing,5
+2664,Arjun T,Low,None,Not required,0
+2665,Aisha R,High,Homesickness,Referred to therapist,2
+2666,Aisha T,Low,None,Not required,0
+2667,Priya S,Low,None,Not required,0
+2668,Arjun K,Low,None,Not required,0
+2669,Meera M,Low,None,Not required,0
+2670,Aisha S,Low,None,Not required,0
+2671,Karan R,High,"Lack of focus, Social isolation",Referred to therapist,4
+2672,Meera R,High,"Overwhelmed, Lack of focus",Counselling ongoing,4
+2673,Aisha K,Low,None,Not required,0
+2674,Aisha R,Low,None,Not required,0
+2675,Divya T,Moderate,"Lack of focus, Depression",Counselling ongoing,1
+2676,Rahul K,Low,None,Not required,0
+2677,Sneha S,Moderate,"Homesickness, Burnout",Support suggested,3
+2678,Ravi T,Low,None,Not required,0
+2679,Ankit K,Low,None,Not required,0
+2680,Rahul R,High,"Procrastination, Depression",Support suggested,3
+2681,Divya K,Low,None,Not required,0
+2682,Ankit R,Moderate,Procrastination,Support suggested,5
+2683,Arjun K,Low,None,Not required,0
+2684,Arjun M,Moderate,Anxiety,Support suggested,3
+2685,Sneha K,Low,None,Not required,0
+2686,Ravi S,Low,None,Not required,0
+2687,Meera S,Low,None,Not required,0
+2688,Ravi K,Low,None,Not required,0
+2689,Ankit T,Low,None,Not required,0
+2690,Ravi R,Low,None,Not required,0
+2691,Rahul R,Low,None,Not required,0
+2692,Arjun T,Low,None,Not required,0
+2693,Aisha K,High,Anxiety,Referred to therapist,4
+2694,Divya T,High,"Burnout, Procrastination",Support suggested,4
+2695,Meera M,High,"Homesickness, Exam pressure",Counselling ongoing,5
+2696,Ravi K,Low,None,Not required,0
+2697,Sneha R,Moderate,Homesickness,Referred to therapist,2
+2698,Priya M,Low,None,Not required,0
+2699,Priya R,Low,None,Not required,0
+2700,Ravi K,Moderate,"Depression, Social isolation",Referred to therapist,1
+2701,Ankit T,Low,None,Not required,0
+2702,Karan R,High,Burnout,Counselling ongoing,5
+2703,Ravi S,Moderate,Depression,Support suggested,1
+2704,Sneha K,Moderate,Exam pressure,Referred to therapist,5
+2705,Ravi S,Moderate,Social isolation,Counselling ongoing,1
+2706,Ravi K,Low,None,Not required,0
+2707,Ankit R,High,Procrastination,Support suggested,2
+2708,Rahul S,Low,None,Not required,0
+2709,Ravi K,Low,None,Not required,0
+2710,Ravi S,Low,None,Not required,0
+2711,Arjun S,Low,None,Not required,0
+2712,Karan M,Low,None,Not required,0
+2713,Sneha T,Low,None,Not required,0
+2714,Ravi M,High,"Depression, Burnout",Support suggested,4
+2715,Meera S,High,"Burnout, Procrastination",Counselling ongoing,1
+2716,Ankit T,High,Anxiety,Counselling ongoing,5
+2717,Ravi S,Moderate,Exam pressure,Support suggested,2
+2718,Divya M,High,Sleep issues,Referred to therapist,5
+2719,Karan S,Moderate,Exam pressure,Referred to therapist,4
+2720,Priya K,Low,None,Not required,0
+2721,Aisha R,Low,None,Not required,0
+2722,Divya T,Low,None,Not required,0
+2723,Karan K,Moderate,"Procrastination, Overwhelmed",Support suggested,5
+2724,Rahul R,Low,None,Not required,0
+2725,Priya R,Moderate,"Sleep issues, Burnout",Counselling ongoing,4
+2726,Divya T,High,Depression,Counselling ongoing,3
+2727,Aisha S,High,Overwhelmed,Support suggested,5
+2728,Arjun K,Moderate,"Burnout, Exam pressure",Support suggested,5
+2729,Ankit T,Low,None,Not required,0
+2730,Meera R,Low,None,Not required,0
+2731,Ravi R,Low,None,Not required,0
+2732,Priya S,Moderate,Social isolation,Referred to therapist,5
+2733,Arjun R,High,Social isolation,Referred to therapist,1
+2734,Karan T,Moderate,"Sleep issues, Burnout",Referred to therapist,5
+2735,Divya T,Low,None,Not required,0
+2736,Arjun K,Low,None,Not required,0
+2737,Rahul R,High,"Anxiety, Burnout",Referred to therapist,3
+2738,Ravi S,High,"Burnout, Depression",Referred to therapist,2
+2739,Sneha K,High,"Lack of focus, Social isolation",Counselling ongoing,2
+2740,Arjun T,Low,None,Not required,0
+2741,Meera S,Low,None,Not required,0
+2742,Aisha R,Low,None,Not required,0
+2743,Priya M,High,"Procrastination, Burnout",Referred to therapist,4
+2744,Arjun S,High,"Procrastination, Homesickness",Referred to therapist,4
+2745,Karan K,Low,None,Not required,0
+2746,Divya T,Moderate,Burnout,Referred to therapist,4
+2747,Arjun R,Low,None,Not required,0
+2748,Ankit R,High,Homesickness,Referred to therapist,5
+2749,Priya T,High,"Sleep issues, Procrastination",Support suggested,1
+2750,Divya K,High,"Social isolation, Exam pressure",Counselling ongoing,4
+2751,Rahul M,Low,None,Not required,0
+2752,Aisha M,High,"Homesickness, Lack of focus",Referred to therapist,3
+2753,Priya S,Moderate,"Social isolation, Procrastination",Support suggested,2
+2754,Karan K,Low,None,Not required,0
+2755,Ravi R,High,Burnout,Referred to therapist,3
+2756,Ankit T,High,"Sleep issues, Anxiety",Support suggested,3
+2757,Ankit M,High,Homesickness,Counselling ongoing,1
+2758,Karan M,Moderate,Anxiety,Counselling ongoing,2
+2759,Aisha T,Low,None,Not required,0
+2760,Rahul K,Low,None,Not required,0
+2761,Karan K,Low,None,Not required,0
+2762,Meera S,Low,None,Not required,0
+2763,Priya M,Low,None,Not required,0
+2764,Priya K,High,Burnout,Referred to therapist,3
+2765,Meera T,Low,None,Not required,0
+2766,Arjun M,Low,None,Not required,0
+2767,Divya R,Low,None,Not required,0
+2768,Divya S,Moderate,"Sleep issues, Depression",Support suggested,4
+2769,Rahul M,High,Burnout,Counselling ongoing,1
+2770,Priya R,High,"Sleep issues, Overwhelmed",Support suggested,1
+2771,Divya S,Low,None,Not required,0
+2772,Ravi K,Moderate,"Sleep issues, Depression",Support suggested,3
+2773,Priya K,High,"Social isolation, Lack of focus",Support suggested,1
+2774,Divya T,Low,None,Not required,0
+2775,Arjun R,Moderate,"Burnout, Lack of focus",Support suggested,1
+2776,Sneha T,Low,None,Not required,0
+2777,Sneha S,Moderate,Homesickness,Referred to therapist,3
+2778,Karan R,Low,None,Not required,0
+2779,Karan S,Low,None,Not required,0
+2780,Karan R,Low,None,Not required,0
+2781,Arjun S,Moderate,Exam pressure,Counselling ongoing,5
+2782,Sneha R,Moderate,"Burnout, Depression",Support suggested,5
+2783,Karan R,Low,None,Not required,0
+2784,Ravi T,High,Homesickness,Referred to therapist,1
+2785,Ankit T,Low,None,Not required,0
+2786,Arjun T,Low,None,Not required,0
+2787,Rahul T,Low,None,Not required,0
+2788,Rahul T,Moderate,"Depression, Sleep issues",Counselling ongoing,1
+2789,Aisha S,Moderate,Overwhelmed,Support suggested,3
+2790,Aisha R,Moderate,Depression,Counselling ongoing,5
+2791,Aisha S,Low,None,Not required,0
+2792,Sneha R,Low,None,Not required,0
+2793,Ravi R,Low,None,Not required,0
+2794,Arjun T,Moderate,Exam pressure,Counselling ongoing,3
+2795,Meera T,Moderate,"Depression, Procrastination",Support suggested,1
+2796,Priya R,Moderate,Overwhelmed,Counselling ongoing,4
+2797,Ravi M,Moderate,Overwhelmed,Referred to therapist,3
+2798,Sneha T,High,"Anxiety, Procrastination",Referred to therapist,5
+2799,Arjun M,Moderate,"Exam pressure, Depression",Referred to therapist,3
+2800,Arjun T,Low,None,Not required,0
+2801,Priya T,Moderate,"Overwhelmed, Sleep issues",Support suggested,1
+2802,Ravi S,Low,None,Not required,0
+2803,Sneha M,Low,None,Not required,0
+2804,Rahul M,Low,None,Not required,0
+2805,Priya T,High,"Depression, Sleep issues",Support suggested,5
+2806,Ravi S,Low,None,Not required,0
+2807,Meera T,Low,None,Not required,0
+2808,Aisha S,Low,None,Not required,0
+2809,Meera M,Moderate,"Social isolation, Anxiety",Counselling ongoing,1
+2810,Meera M,Moderate,Lack of focus,Support suggested,4
+2811,Karan S,Moderate,"Social isolation, Homesickness",Referred to therapist,5
+2812,Ankit S,Low,None,Not required,0
+2813,Karan M,Moderate,Social isolation,Counselling ongoing,1
+2814,Ravi M,Low,None,Not required,0
+2815,Divya M,High,Social isolation,Referred to therapist,4
+2816,Priya M,Low,None,Not required,0
+2817,Sneha T,Moderate,"Procrastination, Depression",Counselling ongoing,1
+2818,Rahul K,Moderate,Exam pressure,Support suggested,4
+2819,Ankit T,Low,None,Not required,0
+2820,Ankit T,High,"Anxiety, Overwhelmed",Support suggested,2
+2821,Rahul T,High,Overwhelmed,Support suggested,1
+2822,Arjun S,High,Exam pressure,Referred to therapist,5
+2823,Divya S,Low,None,Not required,0
+2824,Ravi S,Low,None,Not required,0
+2825,Meera S,Low,None,Not required,0
+2826,Ankit M,High,Overwhelmed,Referred to therapist,5
+2827,Meera M,Low,None,Not required,0
+2828,Rahul K,High,Sleep issues,Support suggested,5
+2829,Ankit K,Low,None,Not required,0
+2830,Priya R,Low,None,Not required,0
+2831,Rahul R,Low,None,Not required,0
+2832,Meera R,Low,None,Not required,0
+2833,Arjun S,Low,None,Not required,0
+2834,Rahul K,Low,None,Not required,0
+2835,Rahul R,Low,None,Not required,0
+2836,Meera R,Moderate,Burnout,Counselling ongoing,2
+2837,Aisha R,Low,None,Not required,0
+2838,Meera M,Low,None,Not required,0
+2839,Divya M,Moderate,Exam pressure,Support suggested,5
+2840,Divya T,Low,None,Not required,0
+2841,Meera R,Low,None,Not required,0
+2842,Rahul T,Moderate,"Exam pressure, Burnout",Support suggested,1
+2843,Ankit K,Low,None,Not required,0
+2844,Karan K,High,"Lack of focus, Sleep issues",Referred to therapist,4
+2845,Priya K,Moderate,Anxiety,Support suggested,3
+2846,Arjun T,Low,None,Not required,0
+2847,Divya T,Low,None,Not required,0
+2848,Priya S,Moderate,Depression,Counselling ongoing,5
+2849,Meera K,Low,None,Not required,0
+2850,Divya T,Low,None,Not required,0
+2851,Meera S,Low,None,Not required,0
+2852,Ravi R,Low,None,Not required,0
+2853,Arjun R,Low,None,Not required,0
+2854,Ravi R,Moderate,"Exam pressure, Burnout",Counselling ongoing,1
+2855,Ravi M,Moderate,Burnout,Referred to therapist,1
+2856,Rahul R,Low,None,Not required,0
+2857,Aisha M,High,Lack of focus,Support suggested,1
+2858,Ravi S,Low,None,Not required,0
+2859,Sneha K,Low,None,Not required,0
+2860,Arjun R,Low,None,Not required,0
+2861,Priya T,Moderate,"Social isolation, Sleep issues",Counselling ongoing,3
+2862,Rahul K,Low,None,Not required,0
+2863,Divya M,Moderate,"Overwhelmed, Lack of focus",Referred to therapist,4
+2864,Sneha S,High,"Sleep issues, Homesickness",Referred to therapist,4
+2865,Sneha S,Low,None,Not required,0
+2866,Karan R,High,"Sleep issues, Homesickness",Referred to therapist,1
+2867,Karan K,Low,None,Not required,0
+2868,Ravi M,Low,None,Not required,0
+2869,Priya K,Moderate,"Depression, Overwhelmed",Referred to therapist,5
+2870,Rahul R,Low,None,Not required,0
+2871,Ankit K,High,Homesickness,Support suggested,5
+2872,Meera R,Low,None,Not required,0
+2873,Karan R,Low,None,Not required,0
+2874,Sneha R,Low,None,Not required,0
+2875,Priya K,Low,None,Not required,0
+2876,Arjun K,Moderate,Depression,Referred to therapist,5
+2877,Karan R,High,Overwhelmed,Support suggested,4
+2878,Ravi R,Low,None,Not required,0
+2879,Ravi S,Low,None,Not required,0
+2880,Aisha S,Moderate,Depression,Support suggested,4
+2881,Priya T,Low,None,Not required,0
+2882,Priya R,Low,None,Not required,0
+2883,Meera T,High,Burnout,Referred to therapist,3
+2884,Priya R,High,Social isolation,Counselling ongoing,5
+2885,Priya K,Moderate,"Overwhelmed, Depression",Counselling ongoing,4
+2886,Sneha M,Moderate,Sleep issues,Support suggested,5
+2887,Rahul R,Moderate,Procrastination,Support suggested,1
+2888,Ankit T,High,Burnout,Support suggested,1
+2889,Divya K,Moderate,Social isolation,Support suggested,1
+2890,Ankit K,Moderate,Homesickness,Support suggested,3
+2891,Karan M,High,Sleep issues,Support suggested,1
+2892,Arjun M,Moderate,"Overwhelmed, Burnout",Referred to therapist,2
+2893,Aisha M,High,"Depression, Procrastination",Referred to therapist,3
+2894,Rahul M,Low,None,Not required,0
+2895,Arjun M,High,Sleep issues,Support suggested,1
+2896,Karan R,Low,None,Not required,0
+2897,Divya K,Low,None,Not required,0
+2898,Ankit M,Moderate,"Lack of focus, Social isolation",Counselling ongoing,3
+2899,Priya K,Low,None,Not required,0
+2900,Rahul K,Moderate,Depression,Counselling ongoing,3
+2901,Ankit K,Low,None,Not required,0
+2902,Aisha R,Low,None,Not required,0
+2903,Aisha K,High,"Sleep issues, Burnout",Support suggested,5
+2904,Priya M,High,Sleep issues,Counselling ongoing,5
+2905,Aisha S,Low,None,Not required,0
+2906,Arjun T,High,"Homesickness, Procrastination",Counselling ongoing,4
+2907,Divya T,Low,None,Not required,0
+2908,Aisha T,Low,None,Not required,0
+2909,Ankit M,Low,None,Not required,0
+2910,Arjun R,Low,None,Not required,0
+2911,Priya K,Moderate,"Lack of focus, Exam pressure",Referred to therapist,3
+2912,Karan K,Moderate,"Burnout, Overwhelmed",Referred to therapist,5
+2913,Rahul M,Low,None,Not required,0
+2914,Ankit T,Moderate,Procrastination,Support suggested,2
+2915,Arjun S,Moderate,Depression,Referred to therapist,1
+2916,Divya S,Low,None,Not required,0
+2917,Sneha T,Moderate,Social isolation,Support suggested,3
+2918,Karan T,Moderate,"Burnout, Homesickness",Counselling ongoing,1
+2919,Arjun R,Low,None,Not required,0
+2920,Divya M,High,"Sleep issues, Anxiety",Referred to therapist,3
+2921,Ravi S,Low,None,Not required,0
+2922,Rahul S,Moderate,"Burnout, Lack of focus",Referred to therapist,3
+2923,Divya R,High,"Overwhelmed, Sleep issues",Referred to therapist,4
+2924,Meera K,High,Burnout,Referred to therapist,4
+2925,Ankit M,Low,None,Not required,0
+2926,Priya M,Moderate,Burnout,Referred to therapist,5
+2927,Sneha K,Low,None,Not required,0
+2928,Karan K,High,"Homesickness, Depression",Counselling ongoing,1
+2929,Divya R,Low,None,Not required,0
+2930,Meera R,Low,None,Not required,0
+2931,Sneha K,High,Homesickness,Support suggested,1
+2932,Divya R,Moderate,Social isolation,Support suggested,3
+2933,Priya R,High,"Overwhelmed, Exam pressure",Referred to therapist,1
+2934,Meera T,Low,None,Not required,0
+2935,Arjun K,High,"Sleep issues, Procrastination",Referred to therapist,3
+2936,Meera S,Low,None,Not required,0
+2937,Rahul M,Moderate,Procrastination,Support suggested,1
+2938,Priya S,Low,None,Not required,0
+2939,Priya S,High,"Homesickness, Anxiety",Support suggested,5
+2940,Meera S,Low,None,Not required,0
+2941,Sneha S,Moderate,Anxiety,Counselling ongoing,3
+2942,Karan S,Low,None,Not required,0
+2943,Arjun K,High,Burnout,Support suggested,3
+2944,Aisha S,Low,None,Not required,0
+2945,Ravi T,High,Depression,Referred to therapist,1
+2946,Priya S,Moderate,Sleep issues,Referred to therapist,2
+2947,Aisha K,Moderate,Overwhelmed,Support suggested,4
+2948,Divya T,Low,None,Not required,0
+2949,Rahul M,Moderate,Sleep issues,Counselling ongoing,3
+2950,Ravi K,High,Procrastination,Counselling ongoing,3
+2951,Divya S,Low,None,Not required,0
+2952,Ravi T,Low,None,Not required,0
+2953,Arjun S,High,Homesickness,Counselling ongoing,3
+2954,Meera M,Low,None,Not required,0
+2955,Divya T,Low,None,Not required,0
+2956,Ankit S,Low,None,Not required,0
+2957,Rahul M,Moderate,"Overwhelmed, Anxiety",Support suggested,1
+2958,Rahul T,Moderate,Homesickness,Counselling ongoing,1
+2959,Meera M,High,Burnout,Referred to therapist,5
+2960,Ravi K,Low,None,Not required,0
+2961,Priya K,Low,None,Not required,0
+2962,Arjun R,Moderate,Burnout,Referred to therapist,5
+2963,Ravi R,Low,None,Not required,0
+2964,Aisha K,Low,None,Not required,0
+2965,Meera M,Low,None,Not required,0
+2966,Priya S,Moderate,Burnout,Referred to therapist,2
+2967,Sneha S,Moderate,"Sleep issues, Anxiety",Support suggested,2
+2968,Divya T,High,"Sleep issues, Lack of focus",Support suggested,1
+2969,Rahul R,High,Sleep issues,Counselling ongoing,4
+2970,Arjun S,High,"Depression, Overwhelmed",Referred to therapist,5
+2971,Arjun K,Low,None,Not required,0
+2972,Ravi T,Moderate,"Burnout, Depression",Counselling ongoing,5
+2973,Ravi S,High,"Social isolation, Procrastination",Referred to therapist,2
+2974,Aisha S,Low,None,Not required,0
+2975,Karan T,High,Depression,Counselling ongoing,2
+2976,Arjun S,Low,None,Not required,0
+2977,Ankit T,Low,None,Not required,0
+2978,Aisha T,Moderate,Exam pressure,Support suggested,1
+2979,Ankit S,High,"Lack of focus, Burnout",Counselling ongoing,3
+2980,Arjun R,Moderate,"Depression, Exam pressure",Support suggested,1
+2981,Ankit R,Low,None,Not required,0
+2982,Ravi M,Low,None,Not required,0
+2983,Divya S,Moderate,Sleep issues,Support suggested,4
+2984,Priya S,Low,None,Not required,0
+2985,Ravi M,Low,None,Not required,0
+2986,Ravi K,Moderate,"Procrastination, Depression",Counselling ongoing,3
+2987,Rahul R,Low,None,Not required,0
+2988,Ravi S,Moderate,"Overwhelmed, Social isolation",Support suggested,2
+2989,Rahul T,Moderate,"Social isolation, Procrastination",Support suggested,3
+2990,Priya T,Moderate,Burnout,Support suggested,4
+2991,Arjun S,Low,None,Not required,0
+2992,Divya M,Low,None,Not required,0
+2993,Aisha M,Moderate,Anxiety,Counselling ongoing,5
+2994,Priya T,High,"Procrastination, Homesickness",Support suggested,5
+2995,Ravi K,Moderate,"Depression, Sleep issues",Referred to therapist,2
+2996,Arjun R,Low,None,Not required,0
+2997,Aisha M,Moderate,Anxiety,Counselling ongoing,1
+2998,Divya T,Moderate,Social isolation,Counselling ongoing,1
+2999,Arjun M,Moderate,"Sleep issues, Exam pressure",Counselling ongoing,4
+3000,Priya R,High,"Lack of focus, Exam pressure",Referred to therapist,2
+3001,Ravi T,High,"Depression, Anxiety",Support suggested,5
+3002,Ankit R,Low,None,Not required,0
+3003,Ravi T,Low,None,Not required,0
+3004,Rahul R,Moderate,Sleep issues,Counselling ongoing,5
+3005,Rahul K,Low,None,Not required,0
+3006,Rahul K,Moderate,Lack of focus,Referred to therapist,2
+3007,Aisha R,Moderate,Homesickness,Support suggested,2
+3008,Meera T,Moderate,Anxiety,Counselling ongoing,1
+3009,Divya S,Moderate,"Sleep issues, Depression",Referred to therapist,4
+3010,Sneha K,Moderate,Burnout,Support suggested,4
+3011,Priya S,High,"Overwhelmed, Sleep issues",Referred to therapist,3
+3012,Aisha T,Low,None,Not required,0
+3013,Divya K,Low,None,Not required,0
+3014,Arjun M,High,"Burnout, Anxiety",Counselling ongoing,1
+3015,Priya S,Low,None,Not required,0
+3016,Arjun R,Low,None,Not required,0
+3017,Divya M,Low,None,Not required,0
+3018,Aisha T,High,"Exam pressure, Homesickness",Referred to therapist,3
+3019,Meera R,Moderate,"Procrastination, Anxiety",Referred to therapist,5
+3020,Ravi K,Moderate,"Social isolation, Overwhelmed",Counselling ongoing,1
+3021,Karan T,Moderate,Social isolation,Referred to therapist,3
+3022,Arjun M,Low,None,Not required,0
+3023,Ravi R,High,"Anxiety, Overwhelmed",Support suggested,3
+3024,Ankit T,Low,None,Not required,0
+3025,Divya K,Moderate,Exam pressure,Counselling ongoing,1
+3026,Ankit T,Low,None,Not required,0
+3027,Sneha K,Moderate,Homesickness,Referred to therapist,4
+3028,Priya M,Low,None,Not required,0
+3029,Priya T,Low,None,Not required,0
+3030,Rahul M,Moderate,Homesickness,Counselling ongoing,3
+3031,Aisha M,Low,None,Not required,0
+3032,Aisha R,Low,None,Not required,0
+3033,Rahul M,High,Procrastination,Counselling ongoing,2
+3034,Priya K,Low,None,Not required,0
+3035,Meera T,Low,None,Not required,0
+3036,Priya S,Low,None,Not required,0
+3037,Ankit T,Low,None,Not required,0
+3038,Ankit K,Moderate,Procrastination,Support suggested,3
+3039,Sneha T,Low,None,Not required,0
+3040,Sneha M,Low,None,Not required,0
+3041,Ankit T,Moderate,Sleep issues,Support suggested,3
+3042,Ravi K,Low,None,Not required,0
+3043,Sneha S,Low,None,Not required,0
+3044,Rahul T,Low,None,Not required,0
+3045,Karan M,High,"Lack of focus, Social isolation",Counselling ongoing,3
+3046,Arjun R,Low,None,Not required,0
+3047,Aisha R,High,Overwhelmed,Referred to therapist,3
+3048,Priya M,High,Procrastination,Referred to therapist,1
+3049,Arjun T,Low,None,Not required,0
+3050,Priya R,Low,None,Not required,0
+3051,Rahul T,Low,None,Not required,0
+3052,Ravi T,Low,None,Not required,0
+3053,Aisha S,Low,None,Not required,0
+3054,Sneha M,Low,None,Not required,0
+3055,Ravi S,Low,None,Not required,0
+3056,Rahul K,Low,None,Not required,0
+3057,Aisha M,High,"Lack of focus, Homesickness",Support suggested,2
+3058,Sneha T,Moderate,"Anxiety, Social isolation",Counselling ongoing,3
+3059,Ravi S,Moderate,Social isolation,Support suggested,4
+3060,Arjun T,Low,None,Not required,0
+3061,Ankit S,Low,None,Not required,0
+3062,Divya T,Low,None,Not required,0
+3063,Priya R,Low,None,Not required,0
+3064,Ankit T,Low,None,Not required,0
+3065,Sneha S,Low,None,Not required,0
+3066,Priya S,Moderate,Social isolation,Counselling ongoing,5
+3067,Ankit K,Moderate,"Social isolation, Depression",Counselling ongoing,2
+3068,Divya T,Low,None,Not required,0
+3069,Sneha S,Low,None,Not required,0
+3070,Ravi K,Low,None,Not required,0
+3071,Divya M,Moderate,Anxiety,Support suggested,1
+3072,Priya S,Moderate,Depression,Support suggested,2
+3073,Ankit M,Low,None,Not required,0
+3074,Aisha M,Low,None,Not required,0
+3075,Karan S,Moderate,Procrastination,Counselling ongoing,1
+3076,Sneha T,Low,None,Not required,0
+3077,Divya S,Low,None,Not required,0
+3078,Arjun R,Low,None,Not required,0
+3079,Sneha K,High,"Overwhelmed, Depression",Support suggested,5
+3080,Meera M,Moderate,"Exam pressure, Anxiety",Support suggested,1
+3081,Ravi R,Moderate,Sleep issues,Support suggested,1
+3082,Rahul T,Low,None,Not required,0
+3083,Ankit M,Low,None,Not required,0
+3084,Rahul S,Low,None,Not required,0
+3085,Meera M,Low,None,Not required,0
+3086,Meera S,High,"Anxiety, Overwhelmed",Counselling ongoing,2
+3087,Divya K,Moderate,Lack of focus,Support suggested,3
+3088,Karan M,Low,None,Not required,0
+3089,Arjun K,High,"Exam pressure, Sleep issues",Support suggested,1
+3090,Meera M,Moderate,"Burnout, Homesickness",Support suggested,1
+3091,Sneha M,Low,None,Not required,0
+3092,Priya M,Moderate,"Homesickness, Depression",Counselling ongoing,4
+3093,Rahul R,Moderate,"Depression, Procrastination",Support suggested,3
+3094,Arjun S,Low,None,Not required,0
+3095,Meera T,Low,None,Not required,0
+3096,Sneha T,Moderate,Depression,Referred to therapist,2
+3097,Rahul R,Low,None,Not required,0
+3098,Ankit T,Moderate,Lack of focus,Support suggested,1
+3099,Sneha M,Moderate,Homesickness,Counselling ongoing,1
+3100,Rahul S,Moderate,Depression,Counselling ongoing,2
+3101,Rahul T,Low,None,Not required,0
+3102,Arjun S,Low,None,Not required,0
+3103,Meera T,High,Anxiety,Counselling ongoing,4
+3104,Priya S,High,"Social isolation, Lack of focus",Support suggested,4
+3105,Aisha M,Low,None,Not required,0
+3106,Divya R,Low,None,Not required,0
+3107,Aisha S,Low,None,Not required,0
+3108,Divya R,Low,None,Not required,0
+3109,Meera K,Low,None,Not required,0
+3110,Meera S,Low,None,Not required,0
+3111,Karan T,Low,None,Not required,0
+3112,Aisha R,Low,None,Not required,0
+3113,Divya K,Low,None,Not required,0
+3114,Priya T,High,"Overwhelmed, Procrastination",Referred to therapist,1
+3115,Ankit M,Low,None,Not required,0
+3116,Arjun T,Low,None,Not required,0
+3117,Priya T,High,Overwhelmed,Counselling ongoing,3
+3118,Ankit K,High,Burnout,Support suggested,5
+3119,Aisha S,Low,None,Not required,0
+3120,Aisha M,Low,None,Not required,0
+3121,Divya T,Low,None,Not required,0
+3122,Karan R,Low,None,Not required,0
+3123,Ankit K,High,"Anxiety, Social isolation",Support suggested,3
+3124,Meera K,Low,None,Not required,0
+3125,Arjun M,Low,None,Not required,0
+3126,Aisha K,High,Burnout,Counselling ongoing,5
+3127,Rahul T,Low,None,Not required,0
+3128,Karan T,Low,None,Not required,0
+3129,Aisha K,Low,None,Not required,0
+3130,Ravi K,High,"Overwhelmed, Lack of focus",Counselling ongoing,4
+3131,Priya R,Low,None,Not required,0
+3132,Ankit T,Moderate,Lack of focus,Referred to therapist,1
+3133,Divya S,Low,None,Not required,0
+3134,Ankit K,Low,None,Not required,0
+3135,Karan T,Low,None,Not required,0
+3136,Aisha M,Moderate,"Procrastination, Burnout",Referred to therapist,5
+3137,Priya T,Low,None,Not required,0
+3138,Karan S,Low,None,Not required,0
+3139,Karan M,Moderate,Depression,Counselling ongoing,2
+3140,Divya S,High,"Overwhelmed, Lack of focus",Referred to therapist,1
+3141,Ravi T,High,Exam pressure,Counselling ongoing,5
+3142,Rahul T,Moderate,"Depression, Anxiety",Support suggested,1
+3143,Arjun T,Low,None,Not required,0
+3144,Ravi R,Moderate,Overwhelmed,Referred to therapist,2
+3145,Ankit K,Low,None,Not required,0
+3146,Meera M,Low,None,Not required,0
+3147,Ravi R,Low,None,Not required,0
+3148,Ankit S,Moderate,Anxiety,Referred to therapist,5
+3149,Rahul T,High,"Anxiety, Social isolation",Referred to therapist,5
+3150,Arjun R,Low,None,Not required,0
+3151,Meera M,Low,None,Not required,0
+3152,Ankit R,Low,None,Not required,0
+3153,Rahul K,Low,None,Not required,0
+3154,Karan R,Moderate,Anxiety,Support suggested,3
+3155,Ravi M,Low,None,Not required,0
+3156,Ankit R,Low,None,Not required,0
+3157,Ravi T,High,Social isolation,Referred to therapist,3
+3158,Priya S,Moderate,Anxiety,Referred to therapist,1
+3159,Rahul M,Low,None,Not required,0
+3160,Ravi M,Low,None,Not required,0
+3161,Divya M,High,"Sleep issues, Depression",Support suggested,2
+3162,Ankit T,Low,None,Not required,0
+3163,Priya T,Low,None,Not required,0
+3164,Priya R,Low,None,Not required,0
+3165,Sneha K,Low,None,Not required,0
+3166,Sneha M,Moderate,"Sleep issues, Exam pressure",Referred to therapist,1
+3167,Arjun K,Moderate,"Homesickness, Lack of focus",Support suggested,2
+3168,Divya M,Low,None,Not required,0
+3169,Karan K,High,Sleep issues,Support suggested,4
+3170,Priya K,Moderate,"Sleep issues, Exam pressure",Referred to therapist,5
+3171,Arjun S,Low,None,Not required,0
+3172,Divya K,Moderate,"Overwhelmed, Homesickness",Support suggested,1
+3173,Ravi S,Low,None,Not required,0
+3174,Rahul T,Low,None,Not required,0
+3175,Sneha T,Low,None,Not required,0
+3176,Arjun R,Moderate,"Sleep issues, Lack of focus",Counselling ongoing,4
+3177,Aisha R,Low,None,Not required,0
+3178,Ravi S,Low,None,Not required,0
+3179,Ankit R,High,Depression,Counselling ongoing,4
+3180,Divya T,Low,None,Not required,0
+3181,Priya S,Low,None,Not required,0
+3182,Ankit S,Low,None,Not required,0
+3183,Aisha K,Low,None,Not required,0
+3184,Karan M,Low,None,Not required,0
+3185,Rahul S,Moderate,"Anxiety, Sleep issues",Counselling ongoing,3
+3186,Divya S,Low,None,Not required,0
+3187,Meera T,High,Exam pressure,Support suggested,3
+3188,Aisha M,High,"Procrastination, Exam pressure",Referred to therapist,2
+3189,Sneha M,Low,None,Not required,0
+3190,Ankit R,Low,None,Not required,0
+3191,Priya S,Moderate,"Overwhelmed, Homesickness",Support suggested,5
+3192,Arjun T,Low,None,Not required,0
+3193,Priya K,Low,None,Not required,0
+3194,Divya M,High,"Anxiety, Social isolation",Referred to therapist,4
+3195,Ankit T,High,Burnout,Referred to therapist,2
+3196,Aisha S,Low,None,Not required,0
+3197,Karan T,Low,None,Not required,0
+3198,Meera M,Moderate,Procrastination,Referred to therapist,3
+3199,Karan M,Moderate,Burnout,Support suggested,4
+3200,Karan K,High,"Procrastination, Anxiety",Support suggested,3
+3201,Priya M,High,Social isolation,Referred to therapist,5
+3202,Ravi K,Low,None,Not required,0
+3203,Karan T,Low,None,Not required,0
+3204,Rahul R,Low,None,Not required,0
+3205,Ankit R,High,"Procrastination, Homesickness",Counselling ongoing,4
+3206,Aisha R,High,Overwhelmed,Support suggested,5
+3207,Ravi M,Moderate,"Exam pressure, Procrastination",Support suggested,1
+3208,Karan S,Low,None,Not required,0
+3209,Divya K,Moderate,Burnout,Counselling ongoing,2
+3210,Sneha T,Moderate,Burnout,Support suggested,2
+3211,Priya K,Low,None,Not required,0
+3212,Priya T,Low,None,Not required,0
+3213,Divya T,Moderate,Depression,Support suggested,2
+3214,Divya T,High,"Overwhelmed, Lack of focus",Support suggested,4
+3215,Rahul T,High,Burnout,Referred to therapist,3
+3216,Ravi S,Moderate,"Sleep issues, Exam pressure",Counselling ongoing,5
+3217,Ankit S,Moderate,"Depression, Homesickness",Support suggested,2
+3218,Divya M,Low,None,Not required,0
+3219,Aisha R,Low,None,Not required,0
+3220,Karan S,Moderate,"Burnout, Exam pressure",Referred to therapist,5
+3221,Aisha R,Moderate,Procrastination,Support suggested,1
+3222,Meera K,High,"Social isolation, Overwhelmed",Counselling ongoing,4
+3223,Karan R,Moderate,"Procrastination, Exam pressure",Referred to therapist,2
+3224,Meera T,Moderate,"Sleep issues, Social isolation",Support suggested,1
+3225,Priya R,Low,None,Not required,0
+3226,Ankit R,High,Sleep issues,Support suggested,4
+3227,Divya R,Moderate,"Sleep issues, Procrastination",Support suggested,1
+3228,Arjun S,High,Homesickness,Counselling ongoing,4
+3229,Arjun T,High,"Sleep issues, Lack of focus",Support suggested,3
+3230,Priya S,High,"Overwhelmed, Lack of focus",Referred to therapist,1
+3231,Arjun S,Low,None,Not required,0
+3232,Ravi T,Moderate,Overwhelmed,Counselling ongoing,5
+3233,Meera T,High,Exam pressure,Counselling ongoing,1
+3234,Ankit R,Low,None,Not required,0
+3235,Priya S,Moderate,"Social isolation, Exam pressure",Support suggested,1
+3236,Karan T,Low,None,Not required,0
+3237,Divya R,Low,None,Not required,0
+3238,Divya R,High,"Lack of focus, Homesickness",Counselling ongoing,5
+3239,Karan M,Moderate,Lack of focus,Support suggested,2
+3240,Meera R,Moderate,Homesickness,Support suggested,4
+3241,Arjun T,Low,None,Not required,0
+3242,Arjun K,Low,None,Not required,0
+3243,Aisha S,Low,None,Not required,0
+3244,Ankit S,Low,None,Not required,0
+3245,Rahul R,Low,None,Not required,0
+3246,Karan T,Low,None,Not required,0
+3247,Karan T,Low,None,Not required,0
+3248,Rahul M,Low,None,Not required,0
+3249,Aisha M,Low,None,Not required,0
+3250,Arjun M,High,"Sleep issues, Overwhelmed",Counselling ongoing,2
+3251,Priya T,Low,None,Not required,0
+3252,Ravi S,Moderate,Depression,Referred to therapist,2
+3253,Arjun R,Low,None,Not required,0
+3254,Ankit S,Low,None,Not required,0
+3255,Sneha S,Low,None,Not required,0
+3256,Sneha M,Low,None,Not required,0
+3257,Arjun T,Low,None,Not required,0
+3258,Rahul M,Low,None,Not required,0
+3259,Aisha K,Moderate,Sleep issues,Referred to therapist,2
+3260,Arjun S,Low,None,Not required,0
+3261,Aisha S,Moderate,Homesickness,Referred to therapist,2
+3262,Meera T,Moderate,Social isolation,Referred to therapist,4
+3263,Rahul T,Low,None,Not required,0
+3264,Ankit M,High,Exam pressure,Referred to therapist,2
+3265,Priya M,Moderate,Lack of focus,Referred to therapist,4
+3266,Rahul M,High,Homesickness,Referred to therapist,1
+3267,Ravi T,Low,None,Not required,0
+3268,Sneha K,Low,None,Not required,0
+3269,Divya R,High,Lack of focus,Counselling ongoing,2
+3270,Meera S,Low,None,Not required,0
+3271,Priya S,Moderate,Anxiety,Counselling ongoing,5
+3272,Ravi R,Moderate,Anxiety,Support suggested,3
+3273,Ravi S,Low,None,Not required,0
+3274,Karan M,Low,None,Not required,0
+3275,Aisha R,High,"Sleep issues, Anxiety",Referred to therapist,5
+3276,Rahul T,Low,None,Not required,0
+3277,Meera K,Low,None,Not required,0
+3278,Meera T,Low,None,Not required,0
+3279,Rahul S,High,Procrastination,Referred to therapist,3
+3280,Divya M,High,"Depression, Procrastination",Counselling ongoing,3
+3281,Karan M,Moderate,Burnout,Counselling ongoing,1
+3282,Rahul R,Low,None,Not required,0
+3283,Ankit T,Low,None,Not required,0
+3284,Meera K,Moderate,"Social isolation, Overwhelmed",Counselling ongoing,1
+3285,Meera T,Low,None,Not required,0
+3286,Divya T,Moderate,"Overwhelmed, Social isolation",Support suggested,2
+3287,Ravi K,High,Depression,Referred to therapist,5
+3288,Ankit K,Moderate,Procrastination,Counselling ongoing,5
+3289,Priya K,Low,None,Not required,0
+3290,Sneha K,Low,None,Not required,0
+3291,Divya K,High,"Lack of focus, Procrastination",Support suggested,4
+3292,Ravi S,Low,None,Not required,0
+3293,Karan M,Moderate,Lack of focus,Counselling ongoing,2
+3294,Arjun K,Low,None,Not required,0
+3295,Rahul R,Moderate,Procrastination,Referred to therapist,5
+3296,Priya M,Moderate,"Overwhelmed, Homesickness",Support suggested,1
+3297,Ravi M,Moderate,Exam pressure,Counselling ongoing,4
+3298,Ravi R,Moderate,Social isolation,Support suggested,1
+3299,Karan M,High,Burnout,Support suggested,2
+3300,Aisha K,Low,None,Not required,0
+3301,Priya K,Low,None,Not required,0
+3302,Rahul T,Low,None,Not required,0
+3303,Sneha T,Moderate,"Anxiety, Depression",Referred to therapist,2
+3304,Aisha T,Moderate,"Exam pressure, Lack of focus",Support suggested,4
+3305,Divya K,Low,None,Not required,0
+3306,Divya T,High,Overwhelmed,Counselling ongoing,4
+3307,Sneha M,Low,None,Not required,0
+3308,Rahul T,High,"Homesickness, Social isolation",Support suggested,2
+3309,Rahul T,Low,None,Not required,0
+3310,Karan S,Low,None,Not required,0
+3311,Meera T,High,"Overwhelmed, Social isolation",Counselling ongoing,2
+3312,Meera R,High,"Overwhelmed, Sleep issues",Referred to therapist,5
+3313,Arjun R,Moderate,"Depression, Anxiety",Counselling ongoing,5
+3314,Arjun S,Low,None,Not required,0
+3315,Arjun M,Moderate,"Depression, Procrastination",Counselling ongoing,4
+3316,Aisha T,Low,None,Not required,0
+3317,Rahul S,Low,None,Not required,0
+3318,Sneha S,High,"Overwhelmed, Lack of focus",Counselling ongoing,1
+3319,Meera T,Low,None,Not required,0
+3320,Sneha R,Low,None,Not required,0
+3321,Ankit R,High,Sleep issues,Referred to therapist,5
+3322,Aisha R,Moderate,"Procrastination, Social isolation",Support suggested,1
+3323,Karan M,Low,None,Not required,0
+3324,Arjun S,Moderate,"Burnout, Exam pressure",Counselling ongoing,4
+3325,Priya M,Moderate,Burnout,Support suggested,1
+3326,Arjun K,Low,None,Not required,0
+3327,Aisha K,Moderate,"Anxiety, Social isolation",Referred to therapist,4
+3328,Sneha S,High,"Sleep issues, Homesickness",Referred to therapist,1
+3329,Arjun K,Low,None,Not required,0
+3330,Ankit K,Low,None,Not required,0
+3331,Ravi T,Low,None,Not required,0
+3332,Ankit S,Moderate,"Homesickness, Sleep issues",Counselling ongoing,2
+3333,Divya T,Moderate,Overwhelmed,Referred to therapist,5
+3334,Meera M,Low,None,Not required,0
+3335,Ankit S,Low,None,Not required,0
+3336,Meera K,Low,None,Not required,0
+3337,Rahul S,Low,None,Not required,0
+3338,Karan S,Moderate,Depression,Counselling ongoing,1
+3339,Sneha T,Moderate,"Homesickness, Depression",Counselling ongoing,4
+3340,Meera T,Low,None,Not required,0
+3341,Meera T,Low,None,Not required,0
+3342,Rahul T,High,Lack of focus,Support suggested,1
+3343,Divya S,High,"Lack of focus, Anxiety",Support suggested,2
+3344,Rahul M,Low,None,Not required,0
+3345,Rahul M,Moderate,Anxiety,Counselling ongoing,4
+3346,Ankit M,High,Depression,Referred to therapist,2
+3347,Divya T,Low,None,Not required,0
+3348,Rahul T,Low,None,Not required,0
+3349,Aisha T,Low,None,Not required,0
+3350,Priya K,High,"Sleep issues, Burnout",Counselling ongoing,3
+3351,Ravi M,Moderate,"Procrastination, Burnout",Support suggested,2
+3352,Rahul M,Low,None,Not required,0
+3353,Rahul M,Low,None,Not required,0
+3354,Arjun R,Moderate,"Sleep issues, Social isolation",Counselling ongoing,4
+3355,Sneha K,Low,None,Not required,0
+3356,Rahul K,Moderate,"Sleep issues, Exam pressure",Support suggested,3
+3357,Sneha T,Low,None,Not required,0
+3358,Priya M,High,"Lack of focus, Sleep issues",Support suggested,4
+3359,Ankit M,Moderate,"Exam pressure, Lack of focus",Support suggested,3
+3360,Meera R,Low,None,Not required,0
+3361,Rahul M,High,Burnout,Counselling ongoing,2
+3362,Divya T,Low,None,Not required,0
+3363,Ravi T,Low,None,Not required,0
+3364,Ankit R,Moderate,Social isolation,Support suggested,2
+3365,Ravi S,High,Lack of focus,Referred to therapist,2
+3366,Aisha S,Moderate,"Social isolation, Procrastination",Counselling ongoing,1
+3367,Divya T,Low,None,Not required,0
+3368,Priya T,Low,None,Not required,0
+3369,Rahul S,Moderate,"Depression, Sleep issues",Counselling ongoing,3
+3370,Divya R,Low,None,Not required,0
+3371,Aisha S,Moderate,"Anxiety, Depression",Counselling ongoing,1
+3372,Arjun R,High,"Procrastination, Exam pressure",Counselling ongoing,3
+3373,Karan T,High,"Exam pressure, Overwhelmed",Counselling ongoing,1
+3374,Priya S,Low,None,Not required,0
+3375,Arjun K,Low,None,Not required,0
+3376,Sneha S,Low,None,Not required,0
+3377,Ankit S,Low,None,Not required,0
+3378,Priya K,Moderate,"Procrastination, Anxiety",Counselling ongoing,2
+3379,Aisha M,Low,None,Not required,0
+3380,Divya T,Moderate,Social isolation,Support suggested,3
+3381,Arjun S,Low,None,Not required,0
+3382,Aisha K,High,"Depression, Burnout",Support suggested,3
+3383,Meera R,High,Social isolation,Referred to therapist,2
+3384,Arjun R,Low,None,Not required,0
+3385,Aisha M,Low,None,Not required,0
+3386,Priya T,Moderate,Overwhelmed,Referred to therapist,4
+3387,Priya R,Moderate,Sleep issues,Support suggested,2
+3388,Ankit K,Moderate,Exam pressure,Counselling ongoing,3
+3389,Aisha T,Low,None,Not required,0
+3390,Aisha M,Low,None,Not required,0
+3391,Priya S,Low,None,Not required,0
+3392,Ankit M,Moderate,Anxiety,Support suggested,4
+3393,Ravi T,Low,None,Not required,0
+3394,Ankit K,Moderate,Social isolation,Referred to therapist,5
+3395,Ankit K,Low,None,Not required,0
+3396,Divya M,Low,None,Not required,0
+3397,Karan R,Low,None,Not required,0
+3398,Ankit R,Moderate,Anxiety,Referred to therapist,1
+3399,Karan R,High,Sleep issues,Support suggested,5
+3400,Ravi T,Low,None,Not required,0
+3401,Karan K,Moderate,"Exam pressure, Social isolation",Support suggested,4
+3402,Meera S,Moderate,Lack of focus,Counselling ongoing,2
+3403,Ankit M,Low,None,Not required,0
+3404,Sneha S,High,Lack of focus,Counselling ongoing,2
+3405,Aisha R,Low,None,Not required,0
+3406,Karan M,Moderate,Social isolation,Support suggested,1
+3407,Meera K,Low,None,Not required,0
+3408,Ankit R,Moderate,Social isolation,Support suggested,2
+3409,Divya M,Low,None,Not required,0
+3410,Meera R,Moderate,Exam pressure,Counselling ongoing,4
+3411,Karan K,Low,None,Not required,0
+3412,Ankit M,Moderate,"Depression, Overwhelmed",Support suggested,1
+3413,Aisha K,High,Overwhelmed,Support suggested,5
+3414,Divya K,Moderate,Exam pressure,Support suggested,2
+3415,Priya S,Low,None,Not required,0
+3416,Rahul S,High,Social isolation,Referred to therapist,1
+3417,Ravi M,High,"Procrastination, Sleep issues",Referred to therapist,5
+3418,Ravi R,High,Sleep issues,Support suggested,5
+3419,Aisha R,Low,None,Not required,0
+3420,Divya R,Low,None,Not required,0
+3421,Meera T,High,"Anxiety, Depression",Referred to therapist,4
+3422,Divya K,High,"Depression, Sleep issues",Counselling ongoing,3
+3423,Rahul S,Low,None,Not required,0
+3424,Rahul R,Low,None,Not required,0
+3425,Divya S,Moderate,Burnout,Referred to therapist,2
+3426,Meera K,High,Social isolation,Support suggested,3
+3427,Arjun M,Moderate,"Anxiety, Social isolation",Support suggested,5
+3428,Meera T,Moderate,"Social isolation, Sleep issues",Support suggested,3
+3429,Meera R,Low,None,Not required,0
+3430,Priya K,Moderate,Overwhelmed,Counselling ongoing,2
+3431,Meera T,Low,None,Not required,0
+3432,Divya S,Low,None,Not required,0
+3433,Arjun S,Low,None,Not required,0
+3434,Rahul S,Low,None,Not required,0
+3435,Sneha K,Low,None,Not required,0
+3436,Priya M,High,"Overwhelmed, Depression",Support suggested,5
+3437,Sneha S,Low,None,Not required,0
+3438,Sneha M,Moderate,Sleep issues,Support suggested,3
+3439,Meera M,Low,None,Not required,0
+3440,Arjun M,Moderate,Depression,Referred to therapist,1
+3441,Aisha M,High,"Anxiety, Exam pressure",Referred to therapist,1
+3442,Divya T,Low,None,Not required,0
+3443,Rahul T,Low,None,Not required,0
+3444,Karan S,Low,None,Not required,0
+3445,Aisha M,Low,None,Not required,0
+3446,Meera M,Moderate,"Homesickness, Burnout",Counselling ongoing,2
+3447,Karan S,High,"Anxiety, Procrastination",Referred to therapist,5
+3448,Aisha T,Low,None,Not required,0
+3449,Divya M,High,Exam pressure,Referred to therapist,5
+3450,Priya M,Moderate,Exam pressure,Support suggested,4
+3451,Ravi S,Moderate,"Lack of focus, Overwhelmed",Counselling ongoing,1
+3452,Aisha K,Low,None,Not required,0
+3453,Sneha S,Low,None,Not required,0
+3454,Aisha M,Low,None,Not required,0
+3455,Arjun K,Low,None,Not required,0
+3456,Karan R,Low,None,Not required,0
+3457,Rahul T,Moderate,"Homesickness, Social isolation",Counselling ongoing,1
+3458,Aisha M,Low,None,Not required,0
+3459,Ankit K,Low,None,Not required,0
+3460,Aisha R,Low,None,Not required,0
+3461,Meera R,High,Depression,Support suggested,2
+3462,Aisha M,Low,None,Not required,0
+3463,Ravi R,Low,None,Not required,0
+3464,Priya T,High,Procrastination,Referred to therapist,4
+3465,Ankit K,Low,None,Not required,0
+3466,Arjun M,Low,None,Not required,0
+3467,Meera S,Low,None,Not required,0
+3468,Meera S,High,"Procrastination, Social isolation",Support suggested,1
+3469,Ravi T,Moderate,Anxiety,Support suggested,4
+3470,Priya M,Low,None,Not required,0
+3471,Rahul K,High,Burnout,Counselling ongoing,5
+3472,Karan T,Low,None,Not required,0
+3473,Meera R,Low,None,Not required,0
+3474,Arjun M,Moderate,Anxiety,Referred to therapist,3
+3475,Arjun M,Low,None,Not required,0
+3476,Ankit K,Low,None,Not required,0
+3477,Priya M,Moderate,Overwhelmed,Support suggested,1
+3478,Divya R,Low,None,Not required,0
+3479,Ankit R,Low,None,Not required,0
+3480,Meera R,Moderate,"Anxiety, Homesickness",Support suggested,5
+3481,Divya M,High,"Lack of focus, Homesickness",Referred to therapist,2
+3482,Arjun K,Low,None,Not required,0
+3483,Ravi T,Low,None,Not required,0
+3484,Aisha K,Low,None,Not required,0
+3485,Ravi M,Moderate,"Burnout, Overwhelmed",Support suggested,3
+3486,Karan S,Low,None,Not required,0
+3487,Priya S,Low,None,Not required,0
+3488,Arjun S,Low,None,Not required,0
+3489,Aisha T,Low,None,Not required,0
+3490,Sneha K,Low,None,Not required,0
+3491,Ravi T,High,Lack of focus,Referred to therapist,5
+3492,Ankit T,Low,None,Not required,0
+3493,Divya K,Moderate,Procrastination,Counselling ongoing,1
+3494,Sneha K,Low,None,Not required,0
+3495,Rahul M,High,"Depression, Burnout",Counselling ongoing,4
+3496,Priya K,Low,None,Not required,0
+3497,Aisha S,High,Depression,Referred to therapist,2
+3498,Meera M,Moderate,Depression,Counselling ongoing,3
+3499,Ankit T,Low,None,Not required,0
+3500,Priya K,High,Homesickness,Counselling ongoing,5
+3501,Meera S,Moderate,Homesickness,Referred to therapist,1
+3502,Arjun T,Moderate,Procrastination,Referred to therapist,1
+3503,Arjun T,Low,None,Not required,0
+3504,Rahul T,Low,None,Not required,0
+3505,Rahul R,Low,None,Not required,0
+3506,Rahul K,Low,None,Not required,0
+3507,Arjun M,Low,None,Not required,0
+3508,Rahul R,Moderate,Anxiety,Support suggested,1
+3509,Aisha M,High,"Overwhelmed, Anxiety",Support suggested,2
+3510,Sneha R,Low,None,Not required,0
+3511,Ravi T,Low,None,Not required,0
+3512,Karan M,Low,None,Not required,0
+3513,Ankit R,Low,None,Not required,0
+3514,Arjun K,Low,None,Not required,0
+3515,Aisha S,Moderate,"Burnout, Anxiety",Counselling ongoing,2
+3516,Sneha S,Low,None,Not required,0
+3517,Priya M,Low,None,Not required,0
+3518,Sneha M,Low,None,Not required,0
+3519,Priya S,High,"Overwhelmed, Exam pressure",Counselling ongoing,1
+3520,Ankit K,Low,None,Not required,0
+3521,Divya K,Low,None,Not required,0
+3522,Meera R,Low,None,Not required,0
+3523,Divya R,High,"Exam pressure, Overwhelmed",Support suggested,2
+3524,Sneha S,Moderate,Social isolation,Counselling ongoing,5
+3525,Ravi K,Moderate,Depression,Support suggested,3
+3526,Divya R,High,"Anxiety, Lack of focus",Support suggested,5
+3527,Sneha R,Moderate,"Anxiety, Lack of focus",Counselling ongoing,5
+3528,Karan K,Moderate,"Social isolation, Lack of focus",Referred to therapist,4
+3529,Ravi R,Low,None,Not required,0
+3530,Ankit K,Moderate,Burnout,Support suggested,3
+3531,Meera T,Moderate,"Anxiety, Lack of focus",Counselling ongoing,1
+3532,Priya M,High,"Sleep issues, Anxiety",Referred to therapist,5
+3533,Aisha M,Low,None,Not required,0
+3534,Aisha M,Low,None,Not required,0
+3535,Sneha S,High,Sleep issues,Counselling ongoing,3
+3536,Meera K,High,Burnout,Support suggested,1
+3537,Sneha T,Low,None,Not required,0
+3538,Ankit T,High,Anxiety,Support suggested,3
+3539,Sneha R,Moderate,Anxiety,Support suggested,3
+3540,Rahul T,Low,None,Not required,0
+3541,Ankit S,Low,None,Not required,0
+3542,Divya M,Low,None,Not required,0
+3543,Ravi M,High,"Social isolation, Exam pressure",Support suggested,1
+3544,Ravi T,Moderate,Social isolation,Support suggested,2
+3545,Divya M,Low,None,Not required,0
+3546,Divya M,Low,None,Not required,0
+3547,Sneha K,Low,None,Not required,0
+3548,Sneha T,Moderate,"Burnout, Social isolation",Support suggested,2
+3549,Rahul R,Moderate,"Burnout, Homesickness",Counselling ongoing,1
+3550,Divya K,Moderate,"Depression, Anxiety",Counselling ongoing,2
+3551,Ravi K,Moderate,Depression,Referred to therapist,4
+3552,Sneha K,Moderate,Overwhelmed,Support suggested,4
+3553,Aisha K,Moderate,Lack of focus,Counselling ongoing,2
+3554,Meera T,High,Social isolation,Support suggested,4
+3555,Ankit M,Low,None,Not required,0
+3556,Meera R,Low,None,Not required,0
+3557,Meera M,Low,None,Not required,0
+3558,Meera R,Low,None,Not required,0
+3559,Sneha K,High,"Exam pressure, Depression",Support suggested,4
+3560,Ankit K,High,"Lack of focus, Depression",Counselling ongoing,5
+3561,Divya T,Low,None,Not required,0
+3562,Sneha T,Moderate,"Anxiety, Burnout",Counselling ongoing,1
+3563,Arjun R,Moderate,Burnout,Support suggested,3
+3564,Rahul S,Low,None,Not required,0
+3565,Karan M,Low,None,Not required,0
+3566,Ravi K,Low,None,Not required,0
+3567,Arjun S,Low,None,Not required,0
+3568,Karan K,Moderate,Anxiety,Referred to therapist,2
+3569,Sneha R,Moderate,Sleep issues,Counselling ongoing,3
+3570,Rahul S,Moderate,"Exam pressure, Procrastination",Counselling ongoing,3
+3571,Karan R,Low,None,Not required,0
+3572,Karan S,High,"Anxiety, Overwhelmed",Referred to therapist,3
+3573,Ankit R,High,Burnout,Support suggested,3
+3574,Divya S,Moderate,"Anxiety, Social isolation",Referred to therapist,3
+3575,Rahul K,Moderate,Depression,Counselling ongoing,5
+3576,Sneha K,Low,None,Not required,0
+3577,Karan R,Low,None,Not required,0
+3578,Arjun R,Moderate,"Exam pressure, Social isolation",Referred to therapist,5
+3579,Rahul S,Moderate,"Sleep issues, Exam pressure",Counselling ongoing,3
+3580,Rahul K,Low,None,Not required,0
+3581,Rahul T,Low,None,Not required,0
+3582,Arjun R,Moderate,"Exam pressure, Sleep issues",Support suggested,1
+3583,Sneha T,Low,None,Not required,0
+3584,Karan T,Low,None,Not required,0
+3585,Ankit K,Low,None,Not required,0
+3586,Rahul M,Moderate,"Overwhelmed, Exam pressure",Support suggested,3
+3587,Aisha M,Moderate,Exam pressure,Support suggested,1
+3588,Ravi S,Low,None,Not required,0
+3589,Divya T,Low,None,Not required,0
+3590,Meera M,Low,None,Not required,0
+3591,Sneha S,Low,None,Not required,0
+3592,Arjun S,Low,None,Not required,0
+3593,Sneha M,Low,None,Not required,0
+3594,Karan K,High,"Procrastination, Sleep issues",Referred to therapist,2
+3595,Rahul K,High,Anxiety,Referred to therapist,4
+3596,Ankit M,Moderate,"Social isolation, Procrastination",Referred to therapist,2
+3597,Meera T,High,"Sleep issues, Exam pressure",Referred to therapist,5
+3598,Arjun M,Low,None,Not required,0
+3599,Arjun T,Low,None,Not required,0
+3600,Ankit K,High,Sleep issues,Support suggested,2
+3601,Priya S,Low,None,Not required,0
+3602,Rahul R,High,Homesickness,Support suggested,4
+3603,Ravi M,Moderate,"Lack of focus, Burnout",Support suggested,3
+3604,Sneha M,High,Social isolation,Referred to therapist,3
+3605,Sneha R,Low,None,Not required,0
+3606,Aisha M,Low,None,Not required,0
+3607,Ankit K,Low,None,Not required,0
+3608,Meera M,Moderate,Homesickness,Counselling ongoing,3
+3609,Divya S,Low,None,Not required,0
+3610,Priya R,Moderate,Exam pressure,Referred to therapist,2
+3611,Divya S,High,Homesickness,Support suggested,4
+3612,Ravi R,High,"Overwhelmed, Sleep issues",Referred to therapist,1
+3613,Sneha K,High,"Anxiety, Sleep issues",Support suggested,4
+3614,Ankit M,Low,None,Not required,0
+3615,Karan S,High,"Lack of focus, Exam pressure",Support suggested,5
+3616,Aisha T,Moderate,"Homesickness, Social isolation",Counselling ongoing,4
+3617,Karan M,High,"Sleep issues, Lack of focus",Counselling ongoing,5
+3618,Priya T,Moderate,Social isolation,Support suggested,3
+3619,Sneha T,Low,None,Not required,0
+3620,Priya T,Low,None,Not required,0
+3621,Karan S,Low,None,Not required,0
+3622,Divya R,Moderate,"Anxiety, Depression",Counselling ongoing,3
+3623,Ravi M,Low,None,Not required,0
+3624,Meera K,Low,None,Not required,0
+3625,Ankit R,Moderate,Exam pressure,Support suggested,2
+3626,Sneha R,Moderate,"Exam pressure, Homesickness",Support suggested,1
+3627,Ravi K,Moderate,"Procrastination, Sleep issues",Counselling ongoing,2
+3628,Sneha R,Moderate,"Homesickness, Overwhelmed",Referred to therapist,1
+3629,Ankit K,Moderate,Overwhelmed,Support suggested,5
+3630,Ankit M,Low,None,Not required,0
+3631,Ravi R,High,"Anxiety, Exam pressure",Support suggested,3
+3632,Aisha R,Low,None,Not required,0
+3633,Meera M,Low,None,Not required,0
+3634,Meera T,High,"Anxiety, Lack of focus",Support suggested,3
+3635,Karan S,Low,None,Not required,0
+3636,Meera S,Low,None,Not required,0
+3637,Arjun R,Low,None,Not required,0
+3638,Divya M,High,Overwhelmed,Referred to therapist,5
+3639,Meera R,Low,None,Not required,0
+3640,Ravi K,Moderate,Anxiety,Counselling ongoing,4
+3641,Meera R,Low,None,Not required,0
+3642,Meera S,Low,None,Not required,0
+3643,Priya S,Low,None,Not required,0
+3644,Meera M,Moderate,Social isolation,Referred to therapist,5
+3645,Rahul R,Low,None,Not required,0
+3646,Ankit S,Moderate,"Lack of focus, Sleep issues",Referred to therapist,5
+3647,Sneha K,Moderate,Social isolation,Referred to therapist,5
+3648,Rahul S,Low,None,Not required,0
+3649,Priya M,Moderate,"Burnout, Social isolation",Counselling ongoing,2
+3650,Ravi M,Moderate,Burnout,Referred to therapist,4
+3651,Arjun M,Low,None,Not required,0
+3652,Ankit M,Low,None,Not required,0
+3653,Karan R,High,"Sleep issues, Burnout",Referred to therapist,3
+3654,Rahul M,High,"Anxiety, Overwhelmed",Counselling ongoing,3
+3655,Rahul T,Low,None,Not required,0
+3656,Ankit K,Low,None,Not required,0
+3657,Sneha K,High,Social isolation,Referred to therapist,4
+3658,Ankit S,Low,None,Not required,0
+3659,Karan M,Low,None,Not required,0
+3660,Meera M,High,Overwhelmed,Counselling ongoing,5
+3661,Priya S,Moderate,Homesickness,Support suggested,4
+3662,Priya T,Moderate,"Anxiety, Sleep issues",Counselling ongoing,2
+3663,Arjun M,Moderate,"Burnout, Exam pressure",Referred to therapist,3
+3664,Ankit T,Low,None,Not required,0
+3665,Aisha K,Low,None,Not required,0
+3666,Meera T,Low,None,Not required,0
+3667,Karan T,Moderate,"Sleep issues, Overwhelmed",Referred to therapist,2
+3668,Rahul R,Moderate,Overwhelmed,Counselling ongoing,1
+3669,Priya R,Moderate,Lack of focus,Referred to therapist,2
+3670,Rahul S,Low,None,Not required,0
+3671,Ravi R,Low,None,Not required,0
+3672,Ravi S,Moderate,"Anxiety, Homesickness",Support suggested,2
+3673,Priya S,Low,None,Not required,0
+3674,Meera R,Low,None,Not required,0
+3675,Meera R,Low,None,Not required,0
+3676,Karan R,Low,None,Not required,0
+3677,Aisha K,Low,None,Not required,0
+3678,Sneha M,High,Burnout,Support suggested,3
+3679,Aisha R,Moderate,"Procrastination, Overwhelmed",Counselling ongoing,3
+3680,Ankit S,Moderate,"Sleep issues, Exam pressure",Referred to therapist,3
+3681,Meera M,Low,None,Not required,0
+3682,Divya M,High,Procrastination,Support suggested,5
+3683,Arjun K,High,Exam pressure,Counselling ongoing,2
+3684,Ankit M,High,Social isolation,Support suggested,4
+3685,Priya R,Moderate,Anxiety,Support suggested,4
+3686,Meera K,Low,None,Not required,0
+3687,Rahul S,Moderate,"Homesickness, Lack of focus",Counselling ongoing,2
+3688,Meera R,Low,None,Not required,0
+3689,Sneha K,Low,None,Not required,0
+3690,Karan R,Low,None,Not required,0
+3691,Arjun K,High,"Lack of focus, Social isolation",Support suggested,5
+3692,Rahul S,Low,None,Not required,0
+3693,Sneha M,High,"Depression, Exam pressure",Counselling ongoing,2
+3694,Aisha T,Moderate,"Social isolation, Sleep issues",Support suggested,2
+3695,Aisha R,High,"Exam pressure, Depression",Referred to therapist,2
+3696,Sneha S,Low,None,Not required,0
+3697,Sneha K,Low,None,Not required,0
+3698,Ankit K,High,"Burnout, Procrastination",Support suggested,5
+3699,Rahul K,Low,None,Not required,0
+3700,Arjun T,Low,None,Not required,0
+3701,Arjun S,Moderate,Homesickness,Counselling ongoing,3
+3702,Sneha T,Low,None,Not required,0
+3703,Meera T,Low,None,Not required,0
+3704,Rahul M,Low,None,Not required,0
+3705,Sneha M,Low,None,Not required,0
+3706,Sneha T,Low,None,Not required,0
+3707,Divya K,Low,None,Not required,0
+3708,Divya S,Moderate,Exam pressure,Support suggested,1
+3709,Divya M,Low,None,Not required,0
+3710,Divya T,Low,None,Not required,0
+3711,Sneha T,Low,None,Not required,0
+3712,Ravi M,Moderate,Social isolation,Referred to therapist,1
+3713,Rahul S,Low,None,Not required,0
+3714,Divya T,Low,None,Not required,0
+3715,Arjun R,Low,None,Not required,0
+3716,Ankit T,Low,None,Not required,0
+3717,Arjun M,Moderate,Sleep issues,Support suggested,5
+3718,Arjun T,High,Sleep issues,Support suggested,5
+3719,Aisha M,Moderate,Overwhelmed,Counselling ongoing,1
+3720,Priya R,Low,None,Not required,0
+3721,Ankit S,High,Burnout,Counselling ongoing,1
+3722,Ankit T,Low,None,Not required,0
+3723,Meera T,Moderate,"Lack of focus, Sleep issues",Counselling ongoing,3
+3724,Aisha K,Moderate,Exam pressure,Support suggested,3
+3725,Aisha T,Low,None,Not required,0
+3726,Karan K,Low,None,Not required,0
+3727,Arjun R,Low,None,Not required,0
+3728,Rahul S,Low,None,Not required,0
+3729,Rahul S,Moderate,"Procrastination, Homesickness",Referred to therapist,2
+3730,Ravi S,Low,None,Not required,0
+3731,Karan M,Moderate,Lack of focus,Referred to therapist,1
+3732,Rahul R,Low,None,Not required,0
+3733,Rahul R,Low,None,Not required,0
+3734,Sneha T,Low,None,Not required,0
+3735,Priya K,Low,None,Not required,0
+3736,Aisha S,Moderate,"Anxiety, Social isolation",Counselling ongoing,2
+3737,Aisha R,Low,None,Not required,0
+3738,Aisha R,Low,None,Not required,0
+3739,Sneha M,Moderate,Exam pressure,Referred to therapist,1
+3740,Divya T,High,"Social isolation, Homesickness",Support suggested,4
+3741,Arjun R,Low,None,Not required,0
+3742,Arjun M,High,"Sleep issues, Overwhelmed",Support suggested,4
+3743,Aisha M,Low,None,Not required,0
+3744,Ankit T,Moderate,"Sleep issues, Procrastination",Referred to therapist,4
+3745,Karan T,Low,None,Not required,0
+3746,Divya M,Low,None,Not required,0
+3747,Divya R,Moderate,Homesickness,Referred to therapist,4
+3748,Ankit S,High,"Lack of focus, Depression",Support suggested,1
+3749,Arjun K,Low,None,Not required,0
+3750,Rahul R,High,"Depression, Homesickness",Support suggested,4
+3751,Aisha M,Moderate,"Social isolation, Burnout",Support suggested,4
+3752,Ankit M,Low,None,Not required,0
+3753,Sneha S,Low,None,Not required,0
+3754,Meera T,Low,None,Not required,0
+3755,Sneha R,Low,None,Not required,0
+3756,Aisha T,High,Homesickness,Support suggested,4
+3757,Divya S,Moderate,Depression,Support suggested,1
+3758,Ravi K,Low,None,Not required,0
+3759,Meera S,Low,None,Not required,0
+3760,Karan T,Moderate,Social isolation,Counselling ongoing,5
+3761,Karan S,High,"Overwhelmed, Burnout",Support suggested,5
+3762,Sneha R,High,"Procrastination, Social isolation",Referred to therapist,2
+3763,Rahul R,High,Sleep issues,Counselling ongoing,1
+3764,Arjun R,High,Lack of focus,Support suggested,4
+3765,Divya S,Low,None,Not required,0
+3766,Divya T,Low,None,Not required,0
+3767,Karan M,Low,None,Not required,0
+3768,Rahul K,Moderate,"Exam pressure, Homesickness",Support suggested,5
+3769,Rahul M,Moderate,Exam pressure,Referred to therapist,2
+3770,Meera M,Low,None,Not required,0
+3771,Divya M,Moderate,"Homesickness, Anxiety",Counselling ongoing,1
+3772,Ravi R,Low,None,Not required,0
+3773,Divya K,Low,None,Not required,0
+3774,Rahul S,Moderate,Anxiety,Support suggested,4
+3775,Sneha R,High,Sleep issues,Counselling ongoing,2
+3776,Arjun T,Moderate,Lack of focus,Support suggested,4
+3777,Divya K,Moderate,"Lack of focus, Sleep issues",Counselling ongoing,5
+3778,Divya T,Low,None,Not required,0
+3779,Meera T,Moderate,Depression,Referred to therapist,2
+3780,Aisha K,Moderate,"Depression, Overwhelmed",Support suggested,4
+3781,Ravi R,Low,None,Not required,0
+3782,Meera S,Moderate,Procrastination,Support suggested,2
+3783,Meera T,Moderate,Sleep issues,Support suggested,3
+3784,Sneha R,Moderate,Social isolation,Counselling ongoing,5
+3785,Ankit K,High,Social isolation,Support suggested,1
+3786,Ankit S,Moderate,"Procrastination, Anxiety",Referred to therapist,4
+3787,Arjun R,High,"Anxiety, Burnout",Referred to therapist,2
+3788,Arjun R,Low,None,Not required,0
+3789,Meera K,Low,None,Not required,0
+3790,Karan M,Low,None,Not required,0
+3791,Sneha T,High,"Overwhelmed, Sleep issues",Counselling ongoing,2
+3792,Arjun M,Low,None,Not required,0
+3793,Karan K,Low,None,Not required,0
+3794,Rahul T,Low,None,Not required,0
+3795,Meera T,High,Sleep issues,Counselling ongoing,3
+3796,Ankit T,Low,None,Not required,0
+3797,Divya T,Low,None,Not required,0
+3798,Divya M,Low,None,Not required,0
+3799,Aisha K,High,Overwhelmed,Counselling ongoing,2
+3800,Priya R,Low,None,Not required,0
+3801,Sneha S,High,"Exam pressure, Anxiety",Support suggested,3
+3802,Priya K,Moderate,"Exam pressure, Anxiety",Counselling ongoing,4
+3803,Rahul T,Low,None,Not required,0
+3804,Meera T,Moderate,"Anxiety, Homesickness",Referred to therapist,2
+3805,Ankit R,High,Homesickness,Referred to therapist,5
+3806,Meera T,Low,None,Not required,0
+3807,Sneha M,Low,None,Not required,0
+3808,Sneha S,High,Depression,Referred to therapist,3
+3809,Aisha T,Moderate,"Social isolation, Sleep issues",Counselling ongoing,3
+3810,Divya K,Low,None,Not required,0
+3811,Priya T,Low,None,Not required,0
+3812,Meera T,High,"Homesickness, Depression",Support suggested,3
+3813,Sneha K,Low,None,Not required,0
+3814,Sneha T,Low,None,Not required,0
+3815,Rahul T,Low,None,Not required,0
+3816,Divya S,Low,None,Not required,0
+3817,Ravi K,Low,None,Not required,0
+3818,Ankit K,Moderate,"Sleep issues, Homesickness",Referred to therapist,5
+3819,Priya M,Low,None,Not required,0
+3820,Rahul K,Moderate,"Anxiety, Burnout",Counselling ongoing,5
+3821,Arjun S,High,Social isolation,Counselling ongoing,4
+3822,Rahul K,Low,None,Not required,0
+3823,Divya T,High,"Anxiety, Burnout",Counselling ongoing,5
+3824,Meera R,High,Exam pressure,Referred to therapist,5
+3825,Rahul K,Low,None,Not required,0
+3826,Meera T,Low,None,Not required,0
+3827,Sneha M,High,"Sleep issues, Homesickness",Support suggested,1
+3828,Divya S,High,Social isolation,Support suggested,4
+3829,Sneha R,High,"Exam pressure, Social isolation",Referred to therapist,2
+3830,Divya R,Low,None,Not required,0
+3831,Ankit R,Low,None,Not required,0
+3832,Ankit K,Moderate,Anxiety,Referred to therapist,3
+3833,Rahul M,Moderate,"Sleep issues, Exam pressure",Support suggested,3
+3834,Sneha K,Low,None,Not required,0
+3835,Divya K,Low,None,Not required,0
+3836,Sneha S,Moderate,"Anxiety, Homesickness",Referred to therapist,2
+3837,Ankit K,Low,None,Not required,0
+3838,Rahul K,Low,None,Not required,0
+3839,Ravi R,High,Sleep issues,Counselling ongoing,4
+3840,Rahul K,Low,None,Not required,0
+3841,Ankit M,Low,None,Not required,0
+3842,Karan M,High,"Exam pressure, Procrastination",Support suggested,5
+3843,Ravi M,Low,None,Not required,0
+3844,Arjun M,High,Procrastination,Referred to therapist,3
+3845,Divya R,High,Homesickness,Support suggested,2
+3846,Priya M,Moderate,Anxiety,Referred to therapist,1
+3847,Divya M,Low,None,Not required,0
+3848,Ankit R,High,Homesickness,Support suggested,5
+3849,Arjun M,Moderate,Homesickness,Referred to therapist,1
+3850,Sneha S,Low,None,Not required,0
+3851,Ankit S,Moderate,Exam pressure,Referred to therapist,3
+3852,Arjun M,Low,None,Not required,0
+3853,Sneha K,Moderate,Procrastination,Counselling ongoing,4
+3854,Arjun M,Low,None,Not required,0
+3855,Meera M,Low,None,Not required,0
+3856,Aisha T,Low,None,Not required,0
+3857,Ravi K,Moderate,Exam pressure,Counselling ongoing,4
+3858,Sneha M,Low,None,Not required,0
+3859,Sneha S,Low,None,Not required,0
+3860,Ankit T,Moderate,"Exam pressure, Social isolation",Support suggested,1
+3861,Aisha R,Low,None,Not required,0
+3862,Ankit T,Low,None,Not required,0
+3863,Aisha R,High,"Overwhelmed, Depression",Referred to therapist,4
+3864,Rahul K,Low,None,Not required,0
+3865,Sneha S,High,"Lack of focus, Procrastination",Counselling ongoing,2
+3866,Ankit K,Moderate,"Anxiety, Depression",Referred to therapist,3
+3867,Sneha M,Moderate,"Overwhelmed, Sleep issues",Referred to therapist,1
+3868,Meera T,Low,None,Not required,0
+3869,Karan S,Moderate,Overwhelmed,Counselling ongoing,3
+3870,Karan K,Low,None,Not required,0
+3871,Meera T,Moderate,Lack of focus,Referred to therapist,3
+3872,Priya M,Low,None,Not required,0
+3873,Aisha M,High,Lack of focus,Referred to therapist,2
+3874,Priya T,High,Overwhelmed,Counselling ongoing,1
+3875,Arjun T,Moderate,"Depression, Homesickness",Support suggested,1
+3876,Meera R,Low,None,Not required,0
+3877,Aisha S,Moderate,Burnout,Referred to therapist,2
+3878,Divya S,Moderate,"Procrastination, Social isolation",Counselling ongoing,3
+3879,Rahul T,Moderate,"Anxiety, Lack of focus",Referred to therapist,3
+3880,Rahul K,Moderate,Burnout,Support suggested,4
+3881,Ravi S,Moderate,Homesickness,Counselling ongoing,4
+3882,Priya S,Moderate,"Burnout, Social isolation",Referred to therapist,3
+3883,Sneha R,Low,None,Not required,0
+3884,Ankit K,High,Overwhelmed,Support suggested,1
+3885,Rahul K,Low,None,Not required,0
+3886,Ankit S,Moderate,"Exam pressure, Depression",Counselling ongoing,1
+3887,Divya R,Low,None,Not required,0
+3888,Meera R,High,Depression,Counselling ongoing,4
+3889,Priya K,Low,None,Not required,0
+3890,Meera K,High,Burnout,Counselling ongoing,2
+3891,Rahul K,Low,None,Not required,0
+3892,Divya K,Moderate,Overwhelmed,Referred to therapist,3
+3893,Aisha S,High,Exam pressure,Support suggested,1
+3894,Ankit K,Low,None,Not required,0
+3895,Rahul T,Low,None,Not required,0
+3896,Ankit T,Moderate,Lack of focus,Counselling ongoing,2
+3897,Arjun M,Moderate,"Homesickness, Burnout",Support suggested,2
+3898,Meera K,Low,None,Not required,0
+3899,Karan K,Low,None,Not required,0
+3900,Arjun M,High,Sleep issues,Counselling ongoing,5
+3901,Karan R,Low,None,Not required,0
+3902,Ankit K,Moderate,Homesickness,Support suggested,2
+3903,Sneha R,Moderate,"Sleep issues, Procrastination",Support suggested,2
+3904,Rahul T,Moderate,"Procrastination, Social isolation",Referred to therapist,5
+3905,Priya R,High,Sleep issues,Referred to therapist,3
+3906,Sneha K,Low,None,Not required,0
+3907,Karan T,Low,None,Not required,0
+3908,Divya S,Low,None,Not required,0
+3909,Divya M,Moderate,"Burnout, Exam pressure",Counselling ongoing,3
+3910,Aisha T,High,Social isolation,Referred to therapist,4
+3911,Meera R,Low,None,Not required,0
+3912,Karan M,Low,None,Not required,0
+3913,Ravi R,Low,None,Not required,0
+3914,Ravi K,High,Homesickness,Counselling ongoing,3
+3915,Rahul K,Moderate,"Burnout, Depression",Counselling ongoing,5
+3916,Ravi T,High,"Homesickness, Depression",Support suggested,3
+3917,Priya R,Moderate,Exam pressure,Support suggested,5
+3918,Ankit S,Low,None,Not required,0
+3919,Divya M,High,"Burnout, Overwhelmed",Support suggested,1
+3920,Arjun S,High,"Homesickness, Depression",Referred to therapist,1
+3921,Meera S,Low,None,Not required,0
+3922,Meera S,Low,None,Not required,0
+3923,Ravi R,High,Homesickness,Counselling ongoing,1
+3924,Ravi R,Moderate,Sleep issues,Referred to therapist,3
+3925,Aisha S,Low,None,Not required,0
+3926,Aisha M,Low,None,Not required,0
+3927,Divya R,Low,None,Not required,0
+3928,Sneha T,Moderate,"Lack of focus, Burnout",Support suggested,2
+3929,Ravi K,Low,None,Not required,0
+3930,Ravi R,Moderate,Overwhelmed,Referred to therapist,3
+3931,Sneha T,Low,None,Not required,0
+3932,Meera R,Low,None,Not required,0
+3933,Rahul R,Low,None,Not required,0
+3934,Aisha M,Low,None,Not required,0
+3935,Sneha M,Low,None,Not required,0
+3936,Aisha S,Low,None,Not required,0
+3937,Divya M,Low,None,Not required,0
+3938,Ravi S,Low,None,Not required,0
+3939,Priya K,Moderate,"Procrastination, Depression",Counselling ongoing,3
+3940,Ravi M,Moderate,"Procrastination, Overwhelmed",Counselling ongoing,4
+3941,Divya R,Moderate,"Lack of focus, Sleep issues",Referred to therapist,5
+3942,Arjun R,Low,None,Not required,0
+3943,Karan K,Moderate,"Exam pressure, Procrastination",Support suggested,2
+3944,Meera R,High,"Exam pressure, Lack of focus",Counselling ongoing,4
+3945,Divya M,Low,None,Not required,0
+3946,Ravi S,High,Burnout,Support suggested,2
+3947,Divya R,Low,None,Not required,0
+3948,Sneha S,Low,None,Not required,0
+3949,Rahul K,Moderate,"Depression, Anxiety",Referred to therapist,4
+3950,Arjun T,High,Procrastination,Referred to therapist,4
+3951,Ravi S,High,"Homesickness, Sleep issues",Counselling ongoing,2
+3952,Karan R,Low,None,Not required,0
+3953,Divya M,Low,None,Not required,0
+3954,Rahul K,Low,None,Not required,0
+3955,Aisha S,Moderate,Homesickness,Counselling ongoing,3
+3956,Arjun S,High,Depression,Referred to therapist,2
+3957,Arjun M,Low,None,Not required,0
+3958,Rahul T,Low,None,Not required,0
+3959,Sneha K,High,"Overwhelmed, Lack of focus",Counselling ongoing,2
+3960,Divya R,Moderate,"Homesickness, Exam pressure",Support suggested,2
+3961,Aisha K,Low,None,Not required,0
+3962,Sneha M,Moderate,Overwhelmed,Support suggested,5
+3963,Karan M,Low,None,Not required,0
+3964,Ankit K,Moderate,"Burnout, Exam pressure",Counselling ongoing,1
+3965,Priya M,Moderate,Procrastination,Referred to therapist,3
+3966,Ravi K,Low,None,Not required,0
+3967,Ravi T,Moderate,"Procrastination, Social isolation",Counselling ongoing,5
+3968,Ankit K,High,"Lack of focus, Overwhelmed",Referred to therapist,1
+3969,Ankit R,Low,None,Not required,0
+3970,Karan R,High,"Anxiety, Lack of focus",Support suggested,3
+3971,Aisha S,Low,None,Not required,0
+3972,Priya T,Moderate,"Social isolation, Anxiety",Referred to therapist,1
+3973,Ravi R,High,"Lack of focus, Social isolation",Referred to therapist,2
+3974,Ankit K,Low,None,Not required,0
+3975,Priya T,High,"Depression, Social isolation",Support suggested,2
+3976,Sneha T,Low,None,Not required,0
+3977,Divya T,Moderate,Exam pressure,Counselling ongoing,5
+3978,Meera R,Moderate,"Procrastination, Overwhelmed",Referred to therapist,5
+3979,Sneha T,Moderate,Burnout,Counselling ongoing,1
+3980,Aisha R,Low,None,Not required,0
+3981,Rahul R,Moderate,"Social isolation, Overwhelmed",Referred to therapist,3
+3982,Ankit M,High,Overwhelmed,Support suggested,1
+3983,Sneha S,High,"Sleep issues, Exam pressure",Referred to therapist,5
+3984,Meera M,Low,None,Not required,0
+3985,Rahul R,High,"Exam pressure, Social isolation",Support suggested,4
+3986,Divya T,Low,None,Not required,0
+3987,Aisha T,Low,None,Not required,0
+3988,Divya M,High,Sleep issues,Counselling ongoing,4
+3989,Arjun K,Moderate,Sleep issues,Referred to therapist,3
+3990,Priya T,Low,None,Not required,0
+3991,Ankit S,High,"Depression, Anxiety",Counselling ongoing,2
+3992,Ankit R,High,Burnout,Counselling ongoing,5
+3993,Sneha K,Moderate,Anxiety,Support suggested,4
+3994,Arjun S,High,"Anxiety, Depression",Support suggested,2
+3995,Sneha M,Low,None,Not required,0
+3996,Karan T,High,Anxiety,Support suggested,1
+3997,Ankit S,Low,None,Not required,0
+3998,Rahul S,Low,None,Not required,0
+3999,Priya S,High,Exam pressure,Support suggested,4
+4000,Ankit K,Low,None,Not required,0
