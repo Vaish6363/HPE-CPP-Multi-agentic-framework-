@@ -5,7 +5,7 @@ from autogen import AssistantAgent, UserProxyAgent
 # --- Configuration ---
 config = {
     "base_url": "https://openrouter.ai/api/v1",
-    "api_key": "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",  # Replace with your actual key
+    "api_key": "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",  # Replace with your actual key
     "model": "deepseek/deepseek-r1-0528-qwen3-8b:free"
 }
 
@@ -19,9 +19,10 @@ academic = AssistantAgent(
     name="academic",
     system_message=(
         "You are the academic advisor. You help with courses, exams, GPA, and study advice.\n"
-        "If the user's question includes emotions, anxiety, or motivation, invite the 'welfare' agent.\n"
-        "If the user needs job guidance or future planning, suggest involving the 'career' agent.\n"
-        "Always check if another agent might help before answering fully yourself."
+        "If the user's question includes emotions, anxiety, or motivation, involve the 'welfare' agent.\n"
+        "If the user needs job guidance or future planning, involve the 'career' agent.\n"
+        "Coordinate with other agents when appropriate to provide a complete and personalized support strategy."
+        
     ),
     llm_config=config
 )
