@@ -1,0 +1,3001 @@
+student_id,name,gpa,major,current_courses,academic_warnings
+1001,Ankit R,5.6,Mechanical,"Fluid Mech, Dynamics, Thermo",Yes
+1002,Priya T,9.8,Electronics,"Digital Logic, Signals, Circuits",No
+1003,Karan K,8.4,Information Tech.,"OS, Java, Security",No
+1004,Rahul K,8.3,Electronics,"Digital Logic, VLSI, Embedded",No
+1005,Rahul K 2,9.6,Electrical,"Power Systems, EM Theory, Machines",No
+1006,Ankit R 2,5.6,Data Science,"NLP, Stats, ML",Yes
+1007,Priya S,7.7,Mechanical,"Mechatronics, CAD, Dynamics",No
+1008,Aisha M,8.7,Computer Sci.,"Java, CN, DSA",No
+1009,Priya R,5.6,Civil,"Surveying, Concrete Tech, Geotech",Yes
+1010,Priya S 2,10.0,Computer Sci.,"OS, CN, Python",No
+1011,Arjun T,5.5,AI & ML,"AI, RL, DL",Yes
+1012,Ravi K,9.9,Information Tech.,"Java, Security, Web Dev",No
+1013,Arjun M,9.6,Civil,"Surveying, Concrete Tech, Structural",No
+1014,Rahul K 3,7.3,Mechanical,"Dynamics, Mechatronics, Thermo",No
+1015,Priya M,7.1,Mechanical,"Dynamics, CAD, Thermo",No
+1016,Divya M,6.6,Electronics,"VLSI, Embedded, Circuits",No
+1017,Arjun R,7.7,Computer Sci.,"CN, OS, DSA",No
+1018,Rahul T,9.8,AI & ML,"AI, RL, ML",No
+1019,Ankit T,6.2,Electrical,"Power Systems, Machines, Control",No
+1020,Rahul M,7.5,Civil,"Geotech, Structural, Surveying",No
+1021,Rahul M 2,5.6,Data Science,"NLP, Data Mining, Python",Yes
+1022,Sneha R,9.7,Civil,"Concrete Tech, Geotech, Structural",No
+1023,Ravi S,5.3,Computer Sci.,"AI, CN, Java",Yes
+1024,Ravi K 2,8.9,Computer Sci.,"DBMS, AI, DSA",No
+1025,Sneha S,8.7,Data Science,"ML, Python, NLP",No
+1026,Karan K 2,6.2,Computer Sci.,"Java, DSA, DBMS",No
+1027,Ankit R 3,9.5,Electronics,"Circuits, VLSI, Signals",No
+1028,Arjun T 2,5.5,Computer Sci.,"DBMS, DSA, CN",Yes
+1029,Rahul S,8.4,Electrical,"EM Theory, Control, Power Systems",No
+1030,Arjun K,9.9,Electrical,"EM Theory, Power Systems, Control",No
+1031,Ankit K,7.3,Data Science,"ML, NLP, Python",No
+1032,Karan S,9.9,Electrical,"Control, Machines, Power Systems",No
+1033,Sneha M,8.5,Computer Sci.,"DBMS, Java, OS",No
+1034,Karan M,6.0,Civil,"Geotech, Structural, Concrete Tech",No
+1035,Divya T,7.7,Mechanical,"Mechatronics, Dynamics, CAD",No
+1036,Ankit K 2,9.7,Information Tech.,"OS, Java, Security",No
+1037,Ankit S,7.0,Electrical,"EM Theory, Control, Power Systems",No
+1038,Sneha K,7.7,Data Science,"Python, Stats, Data Mining",No
+1039,Meera M,6.3,Civil,"Surveying, Geotech, Structural",No
+1040,Priya S 3,5.3,Mechanical,"Thermo, CAD, Fluid Mech",Yes
+1041,Sneha R 2,6.7,Data Science,"Stats, Data Mining, Python",No
+1042,Priya T 2,6.8,Civil,"Geotech, Structural, Surveying",No
+1043,Meera T,8.0,Mechanical,"Fluid Mech, Dynamics, CAD",No
+1044,Aisha K,8.3,Electronics,"Circuits, Signals, VLSI",No
+1045,Karan S 2,6.1,Electrical,"Control, Machines, Power Systems",No
+1046,Priya K,7.0,Information Tech.,"Networking, OS, Security",No
+1047,Karan K 3,7.3,Electronics,"Digital Logic, Embedded, VLSI",No
+1048,Ankit R 4,6.2,Information Tech.,"Web Dev, Networking, Security",No
+1049,Ankit R 5,8.5,Computer Sci.,"OS, Java, AI",No
+1050,Rahul T 2,8.7,Electronics,"Digital Logic, Circuits, Signals",No
+1051,Karan T,6.1,Electronics,"Signals, VLSI, Circuits",No
+1052,Divya K,7.9,Mechanical,"Fluid Mech, Mechatronics, Dynamics",No
+1053,Ankit T 2,7.7,Information Tech.,"Networking, OS, Security",No
+1054,Rahul M 3,8.5,Civil,"Surveying, Concrete Tech, Structural",No
+1055,Sneha S 2,7.1,Mechanical,"Thermo, CAD, Fluid Mech",No
+1056,Ravi S 2,8.9,Information Tech.,"OS, Networking, Web Dev",No
+1057,Meera S,8.0,AI & ML,"AI, ML, RL",No
+1058,Priya R 2,5.4,Electronics,"Embedded, Signals, Digital Logic",Yes
+1059,Ankit S 2,8.8,Electronics,"Digital Logic, Signals, Embedded",No
+1060,Rahul T 3,8.7,AI & ML,"RL, NLP, DL",No
+1061,Priya S 4,8.3,Electrical,"Power Systems, Machines, EM Theory",No
+1062,Karan S 3,5.1,Civil,"Geotech, Concrete Tech, Surveying",Yes
+1063,Aisha R,6.0,Civil,"Surveying, Structural, Geotech",No
+1064,Ankit S 3,9.5,Electrical,"Control, Machines, Power Systems",No
+1065,Ankit R 6,7.6,Data Science,"Stats, NLP, Python",No
+1066,Arjun K 2,6.9,Data Science,"Data Mining, Stats, NLP",No
+1067,Karan M 2,6.0,Computer Sci.,"AI, DSA, CN",No
+1068,Aisha K 2,8.9,Computer Sci.,"Java, AI, DBMS",No
+1069,Sneha K 2,6.2,AI & ML,"NLP, DL, RL",No
+1070,Rahul M 4,9.5,Data Science,"Python, Data Mining, Stats",No
+1071,Ravi R,7.4,Information Tech.,"Networking, Web Dev, Security",No
+1072,Karan S 4,5.0,AI & ML,"AI, ML, RL",Yes
+1073,Arjun T 3,6.5,Information Tech.,"Java, Security, Web Dev",No
+1074,Arjun K 3,9.5,AI & ML,"ML, DL, RL",No
+1075,Ravi M,6.0,Electrical,"Machines, Power Systems, EM Theory",No
+1076,Arjun R 2,5.5,Electronics,"Digital Logic, VLSI, Circuits",Yes
+1077,Arjun T 4,7.6,Electrical,"Power Systems, Control, EM Theory",No
+1078,Rahul S 2,6.1,Civil,"Geotech, Concrete Tech, Structural",No
+1079,Divya K 2,5.9,Computer Sci.,"Python, DBMS, OS",Yes
+1080,Meera R,7.8,AI & ML,"RL, NLP, ML",No
+1081,Divya R,8.1,Electrical,"EM Theory, Machines, Power Systems",No
+1082,Ravi R 2,9.1,Electronics,"VLSI, Digital Logic, Embedded",No
+1083,Ravi K 3,7.8,Data Science,"Python, Stats, Data Mining",No
+1084,Rahul S 3,5.2,Computer Sci.,"DSA, Java, OS",Yes
+1085,Karan K 4,5.6,Data Science,"Python, Data Mining, NLP",Yes
+1086,Priya T 3,9.8,Mechanical,"Dynamics, Mechatronics, Thermo",No
+1087,Arjun M 2,8.7,Mechanical,"Dynamics, CAD, Thermo",No
+1088,Ankit M,6.7,Electronics,"VLSI, Signals, Circuits",No
+1089,Karan M 3,5.4,Computer Sci.,"Python, DSA, Java",Yes
+1090,Karan M 4,9.4,Mechanical,"Mechatronics, Fluid Mech, Thermo",No
+1091,Divya S,10.0,AI & ML,"DL, AI, ML",No
+1092,Sneha T,6.1,Information Tech.,"Security, Web Dev, OS",No
+1093,Rahul T 4,9.9,Electronics,"Embedded, Digital Logic, Signals",No
+1094,Meera R 2,5.6,Electrical,"Machines, Power Systems, EM Theory",Yes
+1095,Meera R 3,5.7,Mechanical,"Fluid Mech, Thermo, CAD",Yes
+1096,Meera T 2,8.8,Electrical,"Machines, Power Systems, Control",No
+1097,Ravi R 3,5.3,Data Science,"NLP, Stats, ML",Yes
+1098,Priya K 2,8.5,AI & ML,"NLP, ML, AI",No
+1099,Meera S 2,6.1,Civil,"Structural, Geotech, Surveying",No
+1100,Karan T 2,9.8,Electrical,"Machines, Control, EM Theory",No
+1101,Sneha T 2,7.9,Mechanical,"CAD, Thermo, Dynamics",No
+1102,Meera S 3,8.1,AI & ML,"DL, RL, ML",No
+1103,Rahul T 5,5.0,Electrical,"Control, Power Systems, EM Theory",Yes
+1104,Sneha R 3,5.3,Mechanical,"Fluid Mech, Dynamics, Thermo",Yes
+1105,Divya T 2,5.2,Electronics,"Embedded, VLSI, Circuits",Yes
+1106,Priya S 5,6.8,Electronics,"Digital Logic, VLSI, Embedded",No
+1107,Priya M 2,9.5,Data Science,"NLP, Data Mining, Stats",No
+1108,Aisha T,8.9,Computer Sci.,"OS, DSA, Java",No
+1109,Ankit K 3,5.4,Information Tech.,"Networking, OS, Web Dev",Yes
+1110,Karan S 5,6.9,Electrical,"EM Theory, Control, Machines",No
+1111,Divya K 3,6.7,AI & ML,"ML, AI, NLP",No
+1112,Arjun R 3,8.8,Mechanical,"CAD, Dynamics, Mechatronics",No
+1113,Arjun K 4,8.2,Information Tech.,"Web Dev, OS, Java",No
+1114,Ankit R 7,9.4,Information Tech.,"Web Dev, Security, Java",No
+1115,Aisha R 2,6.8,Mechanical,"Thermo, Dynamics, Mechatronics",No
+1116,Karan K 5,8.2,Computer Sci.,"AI, DBMS, CN",No
+1117,Ankit S 4,5.0,Mechanical,"Dynamics, Mechatronics, CAD",Yes
+1118,Priya R 3,6.4,Information Tech.,"Java, Security, Networking",No
+1119,Arjun M 3,8.7,AI & ML,"NLP, AI, RL",No
+1120,Divya T 3,6.6,AI & ML,"RL, DL, AI",No
+1121,Ankit S 5,8.9,Data Science,"Stats, Data Mining, Python",No
+1122,Meera M 2,7.0,Data Science,"Stats, NLP, Data Mining",No
+1123,Priya T 4,7.8,Information Tech.,"Java, Web Dev, OS",No
+1124,Sneha R 4,5.3,AI & ML,"DL, RL, NLP",Yes
+1125,Arjun T 5,8.4,Mechanical,"Fluid Mech, Dynamics, Mechatronics",No
+1126,Meera R 4,5.7,Electrical,"Machines, Control, EM Theory",Yes
+1127,Karan K 6,7.8,Electronics,"Digital Logic, Signals, Embedded",No
+1128,Karan K 7,7.6,Mechanical,"Thermo, Fluid Mech, Dynamics",No
+1129,Meera S 4,5.3,AI & ML,"AI, ML, DL",Yes
+1130,Arjun T 6,6.1,Mechanical,"Dynamics, Thermo, Fluid Mech",No
+1131,Ankit R 8,8.4,Data Science,"NLP, ML, Python",No
+1132,Divya M 2,6.1,Computer Sci.,"Python, DSA, Java",No
+1133,Priya R 4,9.7,Mechanical,"CAD, Dynamics, Fluid Mech",No
+1134,Priya T 5,8.2,Mechanical,"Dynamics, Mechatronics, CAD",No
+1135,Divya M 3,5.7,Electronics,"Embedded, Signals, Circuits",Yes
+1136,Priya M 3,6.1,Civil,"Geotech, Concrete Tech, Surveying",No
+1137,Meera T 3,6.7,Data Science,"ML, NLP, Stats",No
+1138,Sneha K 3,8.5,Civil,"Structural, Concrete Tech, Geotech",No
+1139,Karan M 5,7.5,Computer Sci.,"OS, AI, Java",No
+1140,Arjun S,7.4,AI & ML,"AI, DL, NLP",No
+1141,Karan M 6,9.8,Civil,"Surveying, Structural, Concrete Tech",No
+1142,Rahul K 4,8.3,Information Tech.,"Security, Java, Networking",No
+1143,Priya M 4,7.7,Data Science,"Python, ML, NLP",No
+1144,Rahul T 6,5.1,Data Science,"Stats, Data Mining, Python",Yes
+1145,Priya K 3,7.0,Computer Sci.,"Java, DSA, AI",No
+1146,Sneha M 2,7.7,Information Tech.,"Web Dev, Java, OS",No
+1147,Ankit T 3,6.0,Data Science,"ML, Data Mining, NLP",No
+1148,Rahul R,8.5,Computer Sci.,"Python, DSA, AI",No
+1149,Arjun S 2,8.1,Electronics,"VLSI, Signals, Circuits",No
+1150,Meera S 5,5.3,Civil,"Concrete Tech, Surveying, Geotech",Yes
+1151,Aisha K 3,9.0,Electronics,"Signals, Embedded, Digital Logic",No
+1152,Sneha T 3,5.5,AI & ML,"ML, DL, NLP",Yes
+1153,Ankit R 9,9.0,Civil,"Geotech, Structural, Surveying",No
+1154,Divya M 4,7.7,Civil,"Geotech, Surveying, Structural",No
+1155,Sneha S 3,6.0,AI & ML,"NLP, RL, ML",No
+1156,Ankit K 4,10.0,Mechanical,"Mechatronics, Thermo, Fluid Mech",No
+1157,Arjun K 5,6.1,AI & ML,"AI, RL, ML",No
+1158,Arjun S 3,7.6,Civil,"Structural, Geotech, Surveying",No
+1159,Priya R 5,8.1,Computer Sci.,"AI, DBMS, OS",No
+1160,Karan K 8,9.1,AI & ML,"ML, DL, NLP",No
+1161,Ankit M 2,8.4,Electronics,"Signals, Embedded, Digital Logic",No
+1162,Aisha T 2,9.0,Civil,"Surveying, Structural, Concrete Tech",No
+1163,Arjun T 7,9.8,Mechanical,"CAD, Fluid Mech, Dynamics",No
+1164,Divya M 5,9.3,Computer Sci.,"Python, Java, AI",No
+1165,Sneha R 5,5.1,Information Tech.,"OS, Networking, Java",Yes
+1166,Karan T 3,5.6,Electrical,"Machines, Power Systems, EM Theory",Yes
+1167,Sneha R 6,5.3,Information Tech.,"OS, Web Dev, Security",Yes
+1168,Meera R 5,5.2,Civil,"Concrete Tech, Surveying, Geotech",Yes
+1169,Arjun K 6,6.5,Civil,"Geotech, Structural, Concrete Tech",No
+1170,Divya T 4,6.1,Computer Sci.,"CN, DBMS, AI",No
+1171,Arjun K 7,5.7,Data Science,"Data Mining, Stats, ML",Yes
+1172,Rahul S 4,9.4,Data Science,"Python, NLP, ML",No
+1173,Aisha R 3,7.3,Electronics,"Digital Logic, Signals, Embedded",No
+1174,Arjun S 4,6.5,Electronics,"Signals, Embedded, VLSI",No
+1175,Ankit T 4,6.4,Computer Sci.,"CN, DSA, DBMS",No
+1176,Karan S 6,7.5,AI & ML,"DL, ML, NLP",No
+1177,Arjun R 4,6.3,Electrical,"EM Theory, Control, Power Systems",No
+1178,Meera K,7.8,Mechanical,"Fluid Mech, CAD, Mechatronics",No
+1179,Rahul M 5,9.1,AI & ML,"ML, DL, AI",No
+1180,Rahul S 5,8.8,Data Science,"Python, Stats, ML",No
+1181,Ravi K 4,5.5,AI & ML,"AI, RL, NLP",Yes
+1182,Meera T 4,7.8,Data Science,"Stats, Data Mining, NLP",No
+1183,Priya R 6,9.7,Data Science,"NLP, Stats, Data Mining",No
+1184,Aisha K 4,7.4,Computer Sci.,"OS, DBMS, DSA",No
+1185,Rahul M 6,8.4,Data Science,"Python, Data Mining, NLP",No
+1186,Arjun R 5,7.6,Electronics,"Circuits, Digital Logic, Embedded",No
+1187,Divya M 6,8.3,Civil,"Concrete Tech, Structural, Geotech",No
+1188,Rahul K 5,9.5,Computer Sci.,"Java, OS, Python",No
+1189,Sneha S 4,9.8,Information Tech.,"Security, OS, Java",No
+1190,Ravi R 4,9.4,Mechanical,"Thermo, Dynamics, Fluid Mech",No
+1191,Ravi K 5,6.1,Electronics,"Circuits, Signals, VLSI",No
+1192,Priya R 7,6.7,Electrical,"EM Theory, Control, Machines",No
+1193,Karan S 7,8.4,Data Science,"NLP, Python, Data Mining",No
+1194,Priya S 6,6.9,Mechanical,"Fluid Mech, Thermo, Mechatronics",No
+1195,Karan S 8,5.6,Computer Sci.,"DBMS, AI, DSA",Yes
+1196,Divya M 7,5.6,Data Science,"Python, NLP, ML",Yes
+1197,Priya K 4,9.1,Information Tech.,"Web Dev, Security, Java",No
+1198,Ankit M 3,6.8,Electronics,"Signals, Digital Logic, Embedded",No
+1199,Rahul M 7,9.2,Computer Sci.,"DSA, AI, OS",No
+1200,Sneha M 3,9.3,AI & ML,"ML, DL, NLP",No
+1201,Sneha T 4,9.6,Computer Sci.,"Python, AI, DBMS",No
+1202,Meera R 6,7.6,Electrical,"EM Theory, Control, Power Systems",No
+1203,Meera M 3,6.4,Mechanical,"Thermo, Dynamics, Fluid Mech",No
+1204,Divya M 8,7.3,AI & ML,"AI, NLP, DL",No
+1205,Meera K 2,5.4,Computer Sci.,"Java, CN, DSA",Yes
+1206,Rahul M 8,8.2,Data Science,"NLP, ML, Stats",No
+1207,Priya T 6,6.4,AI & ML,"NLP, DL, AI",No
+1208,Rahul R 2,7.7,AI & ML,"DL, NLP, RL",No
+1209,Ravi R 5,6.9,Mechanical,"CAD, Mechatronics, Dynamics",No
+1210,Rahul R 3,9.2,Data Science,"NLP, Python, Data Mining",No
+1211,Aisha R 4,8.9,Information Tech.,"Security, Java, OS",No
+1212,Aisha K 5,8.8,Electrical,"Control, EM Theory, Machines",No
+1213,Divya S 2,5.6,Mechanical,"Thermo, Dynamics, Fluid Mech",Yes
+1214,Priya T 7,6.7,Electronics,"Embedded, Signals, VLSI",No
+1215,Ravi K 6,7.0,Electronics,"Circuits, VLSI, Signals",No
+1216,Ravi S 3,8.3,Electronics,"VLSI, Embedded, Circuits",No
+1217,Priya S 7,5.2,Civil,"Surveying, Structural, Concrete Tech",Yes
+1218,Meera S 6,8.1,Information Tech.,"Web Dev, OS, Security",No
+1219,Karan R,6.5,Electrical,"EM Theory, Machines, Power Systems",No
+1220,Ankit T 5,7.1,Computer Sci.,"OS, Java, Python",No
+1221,Karan K 9,9.0,Information Tech.,"OS, Web Dev, Java",No
+1222,Ravi M 2,6.1,Information Tech.,"Web Dev, Networking, Java",No
+1223,Sneha T 5,5.0,Computer Sci.,"DBMS, DSA, Java",Yes
+1224,Priya T 8,7.8,AI & ML,"DL, RL, NLP",No
+1225,Rahul R 4,6.4,AI & ML,"ML, NLP, RL",No
+1226,Priya R 8,5.9,Computer Sci.,"Java, DBMS, Python",Yes
+1227,Ravi M 3,5.7,Electronics,"Signals, Embedded, Digital Logic",Yes
+1228,Rahul S 6,6.5,Data Science,"Stats, NLP, Python",No
+1229,Sneha R 7,9.3,Computer Sci.,"OS, DSA, Java",No
+1230,Ravi M 4,9.1,Electrical,"Control, Machines, Power Systems",No
+1231,Meera S 7,5.9,Computer Sci.,"Python, OS, DBMS",Yes
+1232,Sneha M 4,8.8,AI & ML,"ML, NLP, AI",No
+1233,Meera K 3,6.9,Information Tech.,"Java, Security, Networking",No
+1234,Meera T 5,9.3,Electrical,"Control, Power Systems, EM Theory",No
+1235,Divya S 3,8.5,Mechanical,"Thermo, Mechatronics, Dynamics",No
+1236,Aisha K 6,6.0,Information Tech.,"Java, Networking, Security",No
+1237,Sneha S 5,5.2,Mechanical,"Thermo, Fluid Mech, Mechatronics",Yes
+1238,Divya S 4,7.8,Data Science,"NLP, Data Mining, Stats",No
+1239,Ravi K 7,6.9,Mechanical,"Mechatronics, Fluid Mech, Thermo",No
+1240,Arjun T 8,9.8,Electronics,"Circuits, VLSI, Embedded",No
+1241,Ankit M 4,8.2,Civil,"Structural, Geotech, Surveying",No
+1242,Aisha K 7,9.8,Electrical,"EM Theory, Machines, Control",No
+1243,Priya K 5,9.1,AI & ML,"AI, ML, DL",No
+1244,Karan T 4,6.6,Mechanical,"CAD, Mechatronics, Thermo",No
+1245,Priya S 8,5.2,Data Science,"ML, Data Mining, Python",Yes
+1246,Aisha K 8,8.5,Electrical,"Power Systems, Machines, EM Theory",No
+1247,Divya K 4,5.7,Electrical,"Machines, Control, Power Systems",Yes
+1248,Priya S 9,10.0,Data Science,"NLP, Python, Stats",No
+1249,Ankit R 10,5.5,Mechanical,"CAD, Fluid Mech, Dynamics",Yes
+1250,Divya K 5,6.1,Computer Sci.,"AI, CN, Java",No
+1251,Ankit S 6,6.3,Civil,"Structural, Surveying, Concrete Tech",No
+1252,Rahul M 9,5.7,Mechanical,"Thermo, CAD, Mechatronics",Yes
+1253,Rahul R 5,7.1,Electrical,"Control, Machines, Power Systems",No
+1254,Arjun S 5,9.1,Information Tech.,"Networking, OS, Web Dev",No
+1255,Ravi T,5.2,Data Science,"Data Mining, Stats, ML",Yes
+1256,Sneha S 6,5.2,AI & ML,"RL, AI, DL",Yes
+1257,Priya R 9,8.4,Computer Sci.,"Python, OS, Java",No
+1258,Priya K 6,8.6,Electronics,"Embedded, Signals, Digital Logic",No
+1259,Aisha M 2,6.0,Electrical,"Power Systems, Control, Machines",No
+1260,Rahul S 7,5.0,Computer Sci.,"AI, DSA, Python",Yes
+1261,Karan M 7,8.7,AI & ML,"AI, ML, NLP",No
+1262,Ravi T 2,8.7,Civil,"Concrete Tech, Geotech, Surveying",No
+1263,Ravi K 8,5.6,Civil,"Concrete Tech, Structural, Geotech",Yes
+1264,Arjun S 6,7.5,AI & ML,"RL, NLP, DL",No
+1265,Sneha M 5,9.3,Data Science,"NLP, Stats, ML",No
+1266,Rahul M 10,6.7,Data Science,"NLP, Data Mining, Python",No
+1267,Rahul T 7,6.4,Information Tech.,"Security, Web Dev, OS",No
+1268,Priya R 10,8.4,Computer Sci.,"OS, DSA, Java",No
+1269,Karan S 9,8.8,AI & ML,"RL, AI, NLP",No
+1270,Sneha R 8,5.1,Civil,"Concrete Tech, Surveying, Geotech",Yes
+1271,Ankit S 7,6.4,AI & ML,"NLP, ML, RL",No
+1272,Ravi R 6,9.6,Electronics,"VLSI, Signals, Circuits",No
+1273,Ankit R 11,7.7,Information Tech.,"Security, Web Dev, OS",No
+1274,Aisha R 5,9.8,Information Tech.,"OS, Web Dev, Networking",No
+1275,Aisha M 3,8.2,Electronics,"Digital Logic, VLSI, Embedded",No
+1276,Meera S 8,6.6,Computer Sci.,"DSA, OS, AI",No
+1277,Divya T 5,7.8,Electronics,"Signals, Embedded, Circuits",No
+1278,Meera M 4,8.4,Civil,"Concrete Tech, Geotech, Structural",No
+1279,Divya S 5,8.4,Civil,"Structural, Concrete Tech, Surveying",No
+1280,Rahul M 11,9.7,Civil,"Surveying, Structural, Concrete Tech",No
+1281,Sneha R 9,5.8,Mechanical,"CAD, Dynamics, Fluid Mech",Yes
+1282,Rahul M 12,7.6,Data Science,"Data Mining, ML, NLP",No
+1283,Ankit M 5,8.0,Civil,"Concrete Tech, Structural, Surveying",No
+1284,Aisha M 4,8.0,Mechanical,"Fluid Mech, Mechatronics, Dynamics",No
+1285,Arjun T 9,7.8,AI & ML,"ML, NLP, RL",No
+1286,Arjun T 10,5.6,Electrical,"EM Theory, Machines, Control",Yes
+1287,Ravi S 4,9.8,Information Tech.,"OS, Web Dev, Networking",No
+1288,Sneha R 10,7.3,Computer Sci.,"OS, DSA, Java",No
+1289,Rahul R 6,6.5,Information Tech.,"Java, Networking, Web Dev",No
+1290,Aisha S,8.6,Electronics,"Digital Logic, Circuits, Signals",No
+1291,Ankit M 6,6.8,Civil,"Concrete Tech, Geotech, Surveying",No
+1292,Divya R 2,6.2,Mechanical,"Dynamics, Mechatronics, Thermo",No
+1293,Priya T 9,7.3,AI & ML,"AI, RL, NLP",No
+1294,Divya R 3,6.7,Mechanical,"Dynamics, CAD, Mechatronics",No
+1295,Divya T 6,5.2,Information Tech.,"Security, Java, Networking",Yes
+1296,Karan R 2,8.5,AI & ML,"ML, NLP, RL",No
+1297,Meera M 5,8.7,Electronics,"Embedded, VLSI, Digital Logic",No
+1298,Divya M 9,9.8,Civil,"Concrete Tech, Surveying, Structural",No
+1299,Ravi M 5,6.8,Computer Sci.,"DBMS, DSA, CN",No
+1300,Sneha T 6,7.0,Civil,"Geotech, Structural, Concrete Tech",No
+1301,Rahul M 13,5.3,Information Tech.,"Security, Web Dev, Networking",Yes
+1302,Divya R 4,6.2,Electrical,"Power Systems, Machines, EM Theory",No
+1303,Ravi S 5,5.6,Civil,"Geotech, Surveying, Concrete Tech",Yes
+1304,Ravi S 6,8.9,Information Tech.,"Networking, Web Dev, Security",No
+1305,Arjun M 4,9.5,Electrical,"Power Systems, Control, EM Theory",No
+1306,Rahul K 6,7.9,Information Tech.,"Security, Web Dev, Java",No
+1307,Karan R 3,5.0,Electronics,"Digital Logic, VLSI, Embedded",Yes
+1308,Karan T 5,9.4,Electronics,"Circuits, Signals, VLSI",No
+1309,Ravi T 3,7.5,Computer Sci.,"CN, DSA, Python",No
+1310,Ravi R 7,8.6,Electrical,"EM Theory, Machines, Power Systems",No
+1311,Ravi M 6,9.3,Mechanical,"Fluid Mech, Mechatronics, Dynamics",No
+1312,Arjun R 6,9.0,Electrical,"Machines, Power Systems, EM Theory",No
+1313,Sneha R 11,9.4,Electronics,"VLSI, Digital Logic, Signals",No
+1314,Arjun R 7,7.7,Information Tech.,"Java, OS, Security",No
+1315,Divya K 6,8.4,Electrical,"EM Theory, Power Systems, Control",No
+1316,Rahul K 7,8.0,Electronics,"Digital Logic, VLSI, Circuits",No
+1317,Arjun K 8,9.7,Mechanical,"Mechatronics, Dynamics, CAD",No
+1318,Meera R 7,5.2,Electronics,"Digital Logic, Signals, Embedded",Yes
+1319,Karan K 10,8.8,Data Science,"Python, ML, NLP",No
+1320,Ankit M 7,5.0,Electronics,"VLSI, Embedded, Digital Logic",Yes
+1321,Ankit K 5,5.6,Information Tech.,"Security, OS, Networking",Yes
+1322,Arjun R 8,7.6,Electronics,"Digital Logic, VLSI, Embedded",No
+1323,Rahul S 8,9.5,Electronics,"Embedded, Circuits, VLSI",No
+1324,Aisha T 3,5.3,Electrical,"Control, Power Systems, Machines",Yes
+1325,Karan M 8,9.4,Computer Sci.,"Java, DSA, DBMS",No
+1326,Rahul T 8,7.8,Computer Sci.,"CN, Python, AI",No
+1327,Divya R 5,6.2,Civil,"Surveying, Structural, Geotech",No
+1328,Meera M 6,7.4,AI & ML,"DL, ML, RL",No
+1329,Priya M 5,5.5,Electronics,"Signals, Embedded, Digital Logic",Yes
+1330,Priya S 10,6.3,Mechanical,"Thermo, Dynamics, CAD",No
+1331,Aisha R 6,6.3,Information Tech.,"OS, Networking, Web Dev",No
+1332,Meera K 4,9.9,AI & ML,"AI, NLP, DL",No
+1333,Meera M 7,7.2,Computer Sci.,"DBMS, OS, CN",No
+1334,Karan T 6,8.4,Computer Sci.,"AI, DSA, DBMS",No
+1335,Ankit M 8,7.5,Data Science,"ML, Stats, Python",No
+1336,Divya T 7,7.6,Electrical,"Machines, Power Systems, EM Theory",No
+1337,Rahul T 9,8.6,AI & ML,"NLP, RL, DL",No
+1338,Ravi T 4,8.7,AI & ML,"AI, RL, NLP",No
+1339,Meera M 8,7.2,AI & ML,"RL, NLP, ML",No
+1340,Arjun R 9,7.4,Information Tech.,"OS, Java, Web Dev",No
+1341,Aisha K 9,6.3,Data Science,"Data Mining, NLP, Stats",No
+1342,Aisha K 10,5.4,Information Tech.,"Java, OS, Web Dev",Yes
+1343,Ankit M 9,7.4,Computer Sci.,"OS, CN, Python",No
+1344,Aisha T 4,5.7,Information Tech.,"Java, Web Dev, Networking",Yes
+1345,Divya K 7,6.7,AI & ML,"NLP, AI, RL",No
+1346,Divya T 8,7.3,Information Tech.,"Security, Networking, OS",No
+1347,Rahul R 7,9.5,Mechanical,"Mechatronics, CAD, Thermo",No
+1348,Arjun M 5,8.1,Electronics,"Signals, VLSI, Embedded",No
+1349,Arjun S 7,7.3,AI & ML,"DL, AI, NLP",No
+1350,Priya T 10,6.1,Data Science,"ML, Stats, Data Mining",No
+1351,Aisha M 5,8.4,Electrical,"EM Theory, Power Systems, Machines",No
+1352,Sneha T 7,5.1,Data Science,"NLP, Data Mining, Stats",Yes
+1353,Ravi M 7,5.2,AI & ML,"NLP, RL, ML",Yes
+1354,Ravi M 8,8.4,Data Science,"Stats, Data Mining, ML",No
+1355,Meera K 5,6.4,Data Science,"ML, Data Mining, Python",No
+1356,Divya S 6,6.2,Computer Sci.,"Java, Python, AI",No
+1357,Priya T 11,6.5,Civil,"Structural, Surveying, Concrete Tech",No
+1358,Karan T 7,7.3,Information Tech.,"Security, Networking, Web Dev",No
+1359,Priya S 11,6.9,Electrical,"Power Systems, EM Theory, Machines",No
+1360,Meera R 8,6.2,Electrical,"EM Theory, Control, Machines",No
+1361,Priya T 12,6.9,Civil,"Concrete Tech, Surveying, Structural",No
+1362,Sneha S 7,5.1,Information Tech.,"Networking, Web Dev, Security",Yes
+1363,Karan S 10,9.8,AI & ML,"NLP, AI, ML",No
+1364,Rahul R 8,6.2,Computer Sci.,"CN, DBMS, OS",No
+1365,Meera R 9,5.4,Mechanical,"Thermo, CAD, Fluid Mech",Yes
+1366,Ankit K 6,5.1,Mechanical,"Mechatronics, Thermo, CAD",Yes
+1367,Arjun R 10,9.9,Information Tech.,"Networking, OS, Java",No
+1368,Ravi M 9,5.7,Computer Sci.,"AI, CN, DBMS",Yes
+1369,Ravi K 9,7.9,Data Science,"ML, Stats, NLP",No
+1370,Meera R 10,5.3,AI & ML,"RL, AI, DL",Yes
+1371,Sneha R 12,6.1,AI & ML,"RL, DL, NLP",No
+1372,Ankit R 12,6.8,Electronics,"Signals, Circuits, VLSI",No
+1373,Meera K 6,8.8,Electrical,"Control, EM Theory, Machines",No
+1374,Meera R 11,7.7,Electronics,"Embedded, Signals, Digital Logic",No
+1375,Arjun T 11,9.1,Mechanical,"Mechatronics, Fluid Mech, Dynamics",No
+1376,Ankit R 13,9.4,Computer Sci.,"Python, Java, DBMS",No
+1377,Sneha T 8,7.2,Computer Sci.,"DSA, AI, Java",No
+1378,Priya S 12,6.9,Computer Sci.,"Python, CN, OS",No
+1379,Ravi S 7,7.3,AI & ML,"AI, NLP, DL",No
+1380,Meera K 7,8.1,Data Science,"NLP, Python, ML",No
+1381,Divya R 6,5.5,Computer Sci.,"AI, CN, OS",Yes
+1382,Ankit R 14,7.8,Electrical,"Control, Power Systems, EM Theory",No
+1383,Karan R 4,6.4,Data Science,"Python, Stats, NLP",No
+1384,Karan M 9,7.9,Electronics,"VLSI, Signals, Embedded",No
+1385,Divya T 9,7.9,Computer Sci.,"DSA, OS, DBMS",No
+1386,Divya M 10,5.6,Mechanical,"Fluid Mech, Dynamics, Mechatronics",Yes
+1387,Aisha R 7,7.7,Electrical,"EM Theory, Control, Power Systems",No
+1388,Rahul T 10,9.2,AI & ML,"ML, AI, DL",No
+1389,Ankit S 8,6.2,Computer Sci.,"Python, DSA, DBMS",No
+1390,Sneha M 6,7.4,Data Science,"Data Mining, ML, Python",No
+1391,Rahul M 14,7.1,Information Tech.,"Web Dev, Java, Security",No
+1392,Rahul R 9,5.1,Mechanical,"Dynamics, Mechatronics, Thermo",Yes
+1393,Divya S 7,5.2,Mechanical,"Mechatronics, Dynamics, Thermo",Yes
+1394,Aisha K 11,7.2,Electrical,"EM Theory, Power Systems, Machines",No
+1395,Priya K 7,7.3,Information Tech.,"Java, OS, Web Dev",No
+1396,Priya R 11,7.1,Civil,"Geotech, Surveying, Structural",No
+1397,Arjun M 6,7.9,Electronics,"VLSI, Digital Logic, Embedded",No
+1398,Divya T 10,6.9,Information Tech.,"Networking, OS, Java",No
+1399,Priya S 13,9.7,Mechanical,"CAD, Dynamics, Mechatronics",No
+1400,Arjun K 9,8.2,Data Science,"ML, NLP, Stats",No
+1401,Sneha R 13,9.9,Computer Sci.,"Java, CN, Python",No
+1402,Karan K 11,8.8,AI & ML,"RL, NLP, DL",No
+1403,Meera K 8,6.1,Computer Sci.,"CN, AI, Python",No
+1404,Sneha K 4,8.5,Civil,"Surveying, Geotech, Structural",No
+1405,Meera T 6,9.5,Information Tech.,"Java, Security, OS",No
+1406,Priya K 8,7.4,Computer Sci.,"DBMS, OS, Python",No
+1407,Divya T 11,5.7,Data Science,"NLP, Python, Data Mining",Yes
+1408,Divya T 12,5.1,AI & ML,"AI, NLP, ML",Yes
+1409,Priya S 14,9.2,Electrical,"Power Systems, Machines, Control",No
+1410,Ankit K 7,10.0,Civil,"Structural, Geotech, Concrete Tech",No
+1411,Rahul M 15,8.0,Data Science,"ML, Python, Data Mining",No
+1412,Karan S 11,5.9,Electronics,"VLSI, Digital Logic, Circuits",Yes
+1413,Karan R 5,7.3,Electrical,"Power Systems, Machines, Control",No
+1414,Sneha R 14,5.5,Computer Sci.,"Java, DBMS, AI",Yes
+1415,Divya R 7,6.4,Data Science,"NLP, Python, ML",No
+1416,Ankit K 8,9.7,Civil,"Surveying, Geotech, Structural",No
+1417,Sneha T 9,9.6,Computer Sci.,"AI, DSA, Python",No
+1418,Ravi R 8,5.6,Computer Sci.,"DBMS, Python, Java",Yes
+1419,Arjun M 7,5.5,Electrical,"Control, Machines, Power Systems",Yes
+1420,Ravi K 10,8.5,Mechanical,"Fluid Mech, CAD, Dynamics",No
+1421,Divya K 8,7.6,Data Science,"Data Mining, Python, Stats",No
+1422,Sneha S 8,6.5,Computer Sci.,"OS, CN, DBMS",No
+1423,Rahul K 8,5.7,Computer Sci.,"DSA, CN, AI",Yes
+1424,Rahul R 10,6.7,AI & ML,"RL, NLP, ML",No
+1425,Sneha R 15,5.7,Mechanical,"CAD, Dynamics, Thermo",Yes
+1426,Rahul M 16,8.2,AI & ML,"RL, NLP, ML",No
+1427,Priya S 15,6.8,Information Tech.,"Web Dev, OS, Security",No
+1428,Arjun R 11,9.4,Information Tech.,"Networking, Web Dev, OS",No
+1429,Arjun K 10,5.7,Civil,"Geotech, Surveying, Structural",Yes
+1430,Arjun R 12,5.5,Electronics,"Signals, VLSI, Digital Logic",Yes
+1431,Divya R 8,6.9,Computer Sci.,"OS, DBMS, AI",No
+1432,Meera S 9,5.2,Information Tech.,"Java, Security, OS",Yes
+1433,Aisha M 6,7.3,AI & ML,"NLP, DL, AI",No
+1434,Divya R 9,6.2,Electrical,"Machines, Power Systems, Control",No
+1435,Karan R 6,5.3,Mechanical,"Mechatronics, Fluid Mech, CAD",Yes
+1436,Divya S 8,8.2,Electrical,"Power Systems, Machines, Control",No
+1437,Ankit M 10,8.5,Civil,"Geotech, Structural, Surveying",No
+1438,Meera R 12,8.9,Computer Sci.,"DBMS, OS, CN",No
+1439,Arjun R 13,5.0,Mechanical,"Fluid Mech, CAD, Thermo",Yes
+1440,Priya M 6,8.1,Electrical,"Power Systems, EM Theory, Control",No
+1441,Arjun T 12,7.5,Electrical,"Machines, EM Theory, Power Systems",No
+1442,Rahul S 9,9.6,Electronics,"Embedded, Signals, Digital Logic",No
+1443,Rahul T 11,8.6,Civil,"Geotech, Structural, Concrete Tech",No
+1444,Karan R 7,5.5,Data Science,"Stats, Data Mining, NLP",Yes
+1445,Ankit S 9,8.2,Computer Sci.,"DSA, CN, OS",No
+1446,Aisha R 8,8.8,AI & ML,"DL, ML, RL",No
+1447,Arjun S 8,9.1,Information Tech.,"Web Dev, Networking, Security",No
+1448,Rahul M 17,7.5,Mechanical,"Fluid Mech, Thermo, CAD",No
+1449,Meera R 13,7.4,Civil,"Structural, Concrete Tech, Surveying",No
+1450,Ravi R 9,7.2,Electronics,"VLSI, Circuits, Embedded",No
+1451,Priya K 9,7.3,Data Science,"Python, Stats, NLP",No
+1452,Rahul M 18,7.1,Electronics,"Signals, Digital Logic, Circuits",No
+1453,Rahul T 12,6.6,Computer Sci.,"CN, DBMS, DSA",No
+1454,Priya S 16,5.9,Information Tech.,"OS, Networking, Security",Yes
+1455,Priya S 17,8.4,Electrical,"Machines, Control, Power Systems",No
+1456,Rahul K 9,7.3,Computer Sci.,"Python, CN, OS",No
+1457,Rahul M 19,7.7,Computer Sci.,"OS, CN, DSA",No
+1458,Arjun S 9,10.0,AI & ML,"ML, AI, NLP",No
+1459,Meera M 9,5.9,Information Tech.,"Security, Networking, Java",Yes
+1460,Sneha K 5,5.6,Electrical,"Power Systems, Control, EM Theory",Yes
+1461,Divya R 10,6.8,Data Science,"ML, NLP, Python",No
+1462,Karan M 10,9.4,Mechanical,"CAD, Dynamics, Fluid Mech",No
+1463,Ravi K 11,9.1,Electrical,"Machines, Power Systems, Control",No
+1464,Karan K 12,7.1,Mechanical,"Fluid Mech, Dynamics, Mechatronics",No
+1465,Ravi S 8,9.6,Data Science,"Stats, ML, Python",No
+1466,Rahul S 10,8.2,Computer Sci.,"Java, AI, OS",No
+1467,Karan S 12,6.7,Electrical,"Control, EM Theory, Power Systems",No
+1468,Divya K 9,6.8,Mechanical,"Fluid Mech, Mechatronics, Dynamics",No
+1469,Aisha M 7,8.9,Electronics,"Circuits, Digital Logic, Signals",No
+1470,Aisha T 5,9.8,Computer Sci.,"Python, DBMS, CN",No
+1471,Rahul M 20,6.5,Civil,"Surveying, Structural, Geotech",No
+1472,Priya M 7,9.8,AI & ML,"RL, NLP, DL",No
+1473,Divya M 11,8.7,Electronics,"Embedded, Signals, Digital Logic",No
+1474,Meera S 10,7.3,Information Tech.,"Networking, Security, OS",No
+1475,Ravi M 10,6.0,Electrical,"Machines, EM Theory, Control",No
+1476,Ravi K 12,7.5,Data Science,"ML, Python, NLP",No
+1477,Meera S 11,6.3,Data Science,"ML, Data Mining, Stats",No
+1478,Meera T 7,5.7,Electronics,"VLSI, Embedded, Signals",Yes
+1479,Priya T 13,6.2,Data Science,"Data Mining, ML, Python",No
+1480,Arjun R 14,6.0,Information Tech.,"Security, OS, Java",No
+1481,Priya K 10,5.1,Electrical,"EM Theory, Machines, Power Systems",Yes
+1482,Aisha R 9,9.6,Computer Sci.,"OS, Python, CN",No
+1483,Sneha T 10,6.7,Computer Sci.,"CN, OS, AI",No
+1484,Meera T 8,8.7,Electronics,"VLSI, Signals, Digital Logic",No
+1485,Karan M 11,8.5,AI & ML,"ML, DL, RL",No
+1486,Karan S 13,9.8,Civil,"Surveying, Concrete Tech, Structural",No
+1487,Sneha T 11,8.7,Data Science,"Python, Stats, NLP",No
+1488,Rahul M 21,7.6,AI & ML,"RL, AI, NLP",No
+1489,Rahul T 13,6.6,Civil,"Structural, Geotech, Concrete Tech",No
+1490,Divya T 13,5.9,Mechanical,"CAD, Dynamics, Fluid Mech",Yes
+1491,Priya K 11,8.3,Information Tech.,"OS, Java, Web Dev",No
+1492,Meera M 10,5.5,Mechanical,"CAD, Thermo, Mechatronics",Yes
+1493,Sneha T 12,6.9,AI & ML,"ML, AI, RL",No
+1494,Ankit R 15,8.3,Civil,"Concrete Tech, Structural, Surveying",No
+1495,Ravi S 9,9.8,Information Tech.,"Networking, OS, Web Dev",No
+1496,Ravi R 10,6.0,Electrical,"Machines, Control, EM Theory",No
+1497,Sneha K 6,9.5,Electrical,"EM Theory, Control, Power Systems",No
+1498,Aisha T 6,9.2,Civil,"Geotech, Surveying, Concrete Tech",No
+1499,Ravi K 13,8.6,Information Tech.,"Security, OS, Web Dev",No
+1500,Sneha K 7,5.9,Computer Sci.,"Java, Python, AI",Yes
+1501,Priya T 14,7.0,Mechanical,"CAD, Dynamics, Thermo",No
+1502,Sneha T 13,6.6,Data Science,"Data Mining, NLP, Python",No
+1503,Aisha R 10,5.6,Electronics,"Signals, Circuits, Embedded",Yes
+1504,Aisha R 11,5.1,Electrical,"Power Systems, Machines, EM Theory",Yes
+1505,Meera K 9,6.6,Electronics,"Circuits, Signals, VLSI",No
+1506,Priya K 12,7.6,Data Science,"ML, Python, Stats",No
+1507,Aisha T 7,8.7,Mechanical,"Dynamics, Fluid Mech, Mechatronics",No
+1508,Aisha R 12,9.8,Computer Sci.,"DBMS, OS, DSA",No
+1509,Ankit K 9,5.6,Electrical,"Machines, Power Systems, Control",Yes
+1510,Divya S 9,6.6,Computer Sci.,"AI, Java, Python",No
+1511,Arjun M 8,6.8,Computer Sci.,"Python, DSA, CN",No
+1512,Ankit S 10,9.8,Information Tech.,"Web Dev, Java, Security",No
+1513,Ravi R 11,8.9,Mechanical,"Mechatronics, Dynamics, Fluid Mech",No
+1514,Karan S 14,6.7,Electrical,"Machines, Power Systems, Control",No
+1515,Ravi M 11,6.2,Electronics,"Circuits, Embedded, VLSI",No
+1516,Ravi S 10,5.9,Electronics,"VLSI, Circuits, Digital Logic",Yes
+1517,Ankit K 10,7.1,Information Tech.,"Security, Web Dev, OS",No
+1518,Ravi S 11,9.7,Data Science,"Python, Data Mining, NLP",No
+1519,Sneha K 8,6.7,Electronics,"Embedded, Digital Logic, Signals",No
+1520,Rahul K 10,5.7,Mechanical,"CAD, Thermo, Mechatronics",Yes
+1521,Ankit T 6,9.0,AI & ML,"DL, ML, NLP",No
+1522,Divya S 10,9.2,AI & ML,"AI, RL, ML",No
+1523,Sneha M 7,6.6,Information Tech.,"Security, Networking, Java",No
+1524,Arjun T 13,8.1,AI & ML,"RL, ML, DL",No
+1525,Priya M 8,5.5,Electrical,"Power Systems, Control, EM Theory",Yes
+1526,Ravi T 5,9.2,Computer Sci.,"DBMS, CN, DSA",No
+1527,Meera S 12,5.1,Computer Sci.,"Python, AI, DSA",Yes
+1528,Rahul S 11,8.0,AI & ML,"RL, ML, DL",No
+1529,Aisha M 8,6.8,AI & ML,"AI, ML, DL",No
+1530,Rahul R 11,7.1,Computer Sci.,"Java, DBMS, Python",No
+1531,Priya T 15,8.7,Information Tech.,"Security, OS, Java",No
+1532,Aisha R 13,9.3,Electronics,"Circuits, Digital Logic, Signals",No
+1533,Arjun S 10,5.8,Information Tech.,"Web Dev, Java, OS",Yes
+1534,Ankit K 11,9.1,Mechanical,"Mechatronics, Dynamics, Fluid Mech",No
+1535,Sneha S 9,8.3,Electronics,"Digital Logic, VLSI, Circuits",No
+1536,Ankit S 11,8.6,Information Tech.,"OS, Java, Security",No
+1537,Aisha M 9,8.9,Mechanical,"Dynamics, CAD, Mechatronics",No
+1538,Meera M 11,6.3,Information Tech.,"Networking, Web Dev, Java",No
+1539,Divya T 14,5.3,Civil,"Geotech, Structural, Concrete Tech",Yes
+1540,Karan K 13,8.3,Information Tech.,"Networking, OS, Security",No
+1541,Karan M 12,9.6,Mechanical,"Dynamics, Mechatronics, CAD",No
+1542,Rahul M 22,5.0,Electrical,"EM Theory, Machines, Power Systems",Yes
+1543,Aisha M 10,6.2,Electrical,"Machines, Power Systems, EM Theory",No
+1544,Ankit S 12,8.8,Electrical,"Machines, EM Theory, Power Systems",No
+1545,Priya K 13,9.3,Civil,"Structural, Surveying, Concrete Tech",No
+1546,Sneha T 14,6.3,Data Science,"Python, Data Mining, ML",No
+1547,Sneha T 15,5.1,Information Tech.,"Security, Networking, Java",Yes
+1548,Ankit M 11,7.8,Civil,"Structural, Surveying, Concrete Tech",No
+1549,Divya R 11,6.1,Electrical,"Control, EM Theory, Machines",No
+1550,Ankit R 16,6.5,Civil,"Structural, Concrete Tech, Surveying",No
+1551,Ravi T 6,7.9,AI & ML,"DL, NLP, RL",No
+1552,Ravi S 12,8.5,Civil,"Geotech, Structural, Concrete Tech",No
+1553,Karan M 13,5.5,Electrical,"Machines, Power Systems, EM Theory",Yes
+1554,Sneha K 9,9.2,Data Science,"Data Mining, ML, NLP",No
+1555,Karan R 8,9.1,Data Science,"ML, Python, NLP",No
+1556,Divya S 11,6.6,Information Tech.,"Java, OS, Networking",No
+1557,Arjun R 15,9.4,Information Tech.,"Security, Java, OS",No
+1558,Karan K 14,8.8,Civil,"Geotech, Concrete Tech, Structural",No
+1559,Karan T 8,9.6,Electronics,"Signals, VLSI, Embedded",No
+1560,Karan M 14,7.4,Electronics,"Digital Logic, Signals, VLSI",No
+1561,Ankit R 17,7.0,Information Tech.,"Java, OS, Web Dev",No
+1562,Sneha K 10,6.1,Civil,"Geotech, Structural, Concrete Tech",No
+1563,Ankit K 12,5.4,Civil,"Structural, Concrete Tech, Surveying",Yes
+1564,Ravi M 12,8.9,Data Science,"NLP, Stats, Python",No
+1565,Aisha T 8,6.4,Data Science,"Python, Data Mining, Stats",No
+1566,Rahul T 14,7.2,Electrical,"Control, EM Theory, Power Systems",No
+1567,Ravi T 7,8.5,AI & ML,"RL, DL, AI",No
+1568,Priya K 14,7.6,Mechanical,"Mechatronics, Thermo, Fluid Mech",No
+1569,Aisha T 9,6.8,Electronics,"VLSI, Embedded, Signals",No
+1570,Ankit K 13,6.4,Civil,"Concrete Tech, Geotech, Surveying",No
+1571,Ankit K 14,7.3,Mechanical,"Fluid Mech, Dynamics, Mechatronics",No
+1572,Arjun S 11,9.2,Civil,"Concrete Tech, Structural, Geotech",No
+1573,Divya K 10,8.6,Mechanical,"CAD, Mechatronics, Thermo",No
+1574,Aisha S 2,7.9,Civil,"Geotech, Structural, Surveying",No
+1575,Ankit M 12,9.2,Mechanical,"Thermo, Dynamics, Mechatronics",No
+1576,Rahul S 12,5.0,Computer Sci.,"Java, OS, DBMS",Yes
+1577,Rahul M 23,5.8,Civil,"Geotech, Concrete Tech, Surveying",Yes
+1578,Priya R 12,9.0,Data Science,"NLP, ML, Stats",No
+1579,Meera M 12,6.8,Electronics,"Circuits, Digital Logic, VLSI",No
+1580,Aisha R 14,9.8,AI & ML,"ML, AI, NLP",No
+1581,Arjun T 14,5.4,Electrical,"Power Systems, Machines, Control",Yes
+1582,Meera M 13,7.6,Civil,"Concrete Tech, Structural, Surveying",No
+1583,Rahul K 11,9.9,Civil,"Structural, Surveying, Concrete Tech",No
+1584,Karan S 15,5.1,Mechanical,"Thermo, Mechatronics, Dynamics",Yes
+1585,Divya M 12,5.5,Data Science,"Python, ML, NLP",Yes
+1586,Karan K 15,6.2,Data Science,"ML, Stats, Python",No
+1587,Ankit M 13,10.0,Electronics,"Signals, VLSI, Digital Logic",No
+1588,Ravi K 14,6.1,AI & ML,"DL, ML, AI",No
+1589,Ankit S 13,7.1,AI & ML,"NLP, AI, ML",No
+1590,Meera S 13,7.4,Information Tech.,"Security, Networking, Web Dev",No
+1591,Rahul T 15,9.4,Electronics,"Signals, VLSI, Digital Logic",No
+1592,Aisha R 15,7.2,Civil,"Surveying, Concrete Tech, Structural",No
+1593,Karan K 16,6.8,Data Science,"Python, Data Mining, Stats",No
+1594,Sneha M 8,6.6,Civil,"Structural, Geotech, Surveying",No
+1595,Aisha R 16,5.4,Electrical,"Control, Power Systems, Machines",Yes
+1596,Divya T 15,9.5,Data Science,"Stats, ML, NLP",No
+1597,Karan T 9,7.5,Electronics,"Embedded, VLSI, Signals",No
+1598,Ankit T 7,5.8,Mechanical,"CAD, Mechatronics, Fluid Mech",Yes
+1599,Rahul R 12,5.7,Data Science,"Python, Data Mining, NLP",Yes
+1600,Rahul S 13,6.3,Computer Sci.,"Java, CN, AI",No
+1601,Karan T 10,5.1,Data Science,"NLP, Data Mining, Python",Yes
+1602,Aisha R 17,8.8,Electrical,"Power Systems, EM Theory, Machines",No
+1603,Aisha R 18,5.3,Civil,"Structural, Concrete Tech, Geotech",Yes
+1604,Arjun R 16,6.6,Electrical,"Machines, Control, Power Systems",No
+1605,Ankit M 14,7.5,Mechanical,"Fluid Mech, Dynamics, CAD",No
+1606,Arjun S 12,9.6,Data Science,"Data Mining, Stats, ML",No
+1607,Aisha R 19,7.9,AI & ML,"AI, DL, ML",No
+1608,Ankit K 15,8.7,AI & ML,"ML, NLP, AI",No
+1609,Aisha M 11,9.7,Information Tech.,"Java, Web Dev, Security",No
+1610,Ankit K 16,7.6,Information Tech.,"Security, Web Dev, Java",No
+1611,Aisha R 20,8.6,Mechanical,"Fluid Mech, Mechatronics, CAD",No
+1612,Priya M 9,8.8,Computer Sci.,"OS, DBMS, DSA",No
+1613,Priya M 10,9.9,Computer Sci.,"Java, AI, DBMS",No
+1614,Sneha T 16,5.4,Information Tech.,"Java, Networking, OS",Yes
+1615,Ankit M 15,6.7,Electrical,"Power Systems, EM Theory, Control",No
+1616,Arjun R 17,6.0,AI & ML,"NLP, DL, RL",No
+1617,Ankit S 14,5.6,AI & ML,"ML, DL, RL",Yes
+1618,Arjun R 18,8.9,AI & ML,"AI, NLP, RL",No
+1619,Arjun S 13,5.0,Information Tech.,"Web Dev, Networking, Security",Yes
+1620,Rahul M 24,5.3,Electronics,"VLSI, Digital Logic, Embedded",Yes
+1621,Karan T 11,7.0,Data Science,"Python, Stats, Data Mining",No
+1622,Karan T 12,6.4,AI & ML,"NLP, AI, RL",No
+1623,Arjun K 11,5.1,Information Tech.,"Web Dev, Java, Networking",Yes
+1624,Sneha K 11,9.1,Civil,"Surveying, Geotech, Structural",No
+1625,Karan M 15,8.5,AI & ML,"DL, NLP, AI",No
+1626,Priya T 16,8.1,AI & ML,"DL, RL, NLP",No
+1627,Ankit S 15,6.9,Electronics,"Signals, Circuits, Digital Logic",No
+1628,Ravi S 13,6.0,Electrical,"Machines, Control, EM Theory",No
+1629,Ankit T 8,6.1,Data Science,"Python, Data Mining, NLP",No
+1630,Ravi T 8,6.2,Computer Sci.,"OS, CN, Java",No
+1631,Meera T 9,6.2,Electronics,"VLSI, Signals, Digital Logic",No
+1632,Arjun M 9,7.2,AI & ML,"AI, ML, DL",No
+1633,Sneha R 16,9.7,Electronics,"VLSI, Signals, Digital Logic",No
+1634,Meera T 10,6.1,Electrical,"Machines, Control, Power Systems",No
+1635,Aisha K 12,10.0,Computer Sci.,"DSA, Java, AI",No
+1636,Sneha M 9,7.5,Civil,"Concrete Tech, Surveying, Structural",No
+1637,Aisha K 13,6.1,Mechanical,"Thermo, CAD, Mechatronics",No
+1638,Ankit K 17,5.3,Mechanical,"Mechatronics, Fluid Mech, Dynamics",Yes
+1639,Rahul S 14,7.2,Electrical,"Power Systems, Machines, Control",No
+1640,Rahul R 13,9.0,Electrical,"Control, EM Theory, Power Systems",No
+1641,Ravi M 13,6.1,Electrical,"EM Theory, Machines, Power Systems",No
+1642,Rahul M 25,5.7,Electrical,"Power Systems, Machines, Control",Yes
+1643,Ravi T 9,9.7,Computer Sci.,"DSA, Java, DBMS",No
+1644,Priya K 15,6.7,Electronics,"Digital Logic, Signals, Circuits",No
+1645,Divya S 12,9.4,Data Science,"ML, Data Mining, Stats",No
+1646,Aisha R 21,5.3,AI & ML,"AI, RL, ML",Yes
+1647,Meera S 14,7.6,Computer Sci.,"Java, Python, AI",No
+1648,Arjun K 12,6.6,Electrical,"Control, Machines, Power Systems",No
+1649,Ankit T 9,7.6,Mechanical,"Fluid Mech, Dynamics, Thermo",No
+1650,Priya S 18,5.8,AI & ML,"AI, ML, DL",Yes
+1651,Karan T 13,7.2,AI & ML,"DL, RL, ML",No
+1652,Sneha S 10,6.6,Electronics,"Circuits, Signals, Digital Logic",No
+1653,Meera R 14,9.7,Electronics,"VLSI, Circuits, Digital Logic",No
+1654,Arjun K 13,7.5,Electronics,"Embedded, VLSI, Signals",No
+1655,Ravi M 14,7.2,Data Science,"Stats, Python, ML",No
+1656,Rahul M 26,9.9,Electronics,"Digital Logic, VLSI, Circuits",No
+1657,Arjun R 19,7.5,Data Science,"Stats, Python, Data Mining",No
+1658,Ankit K 18,5.5,Data Science,"Python, Data Mining, ML",Yes
+1659,Sneha T 17,7.3,Information Tech.,"Networking, Java, Web Dev",No
+1660,Priya T 17,8.3,Data Science,"Stats, ML, Python",No
+1661,Karan R 9,6.3,Information Tech.,"Networking, Java, OS",No
+1662,Sneha M 10,5.6,Information Tech.,"Networking, OS, Security",Yes
+1663,Ravi M 15,9.1,Computer Sci.,"DBMS, CN, DSA",No
+1664,Ankit S 16,5.0,Information Tech.,"Networking, Web Dev, Java",Yes
+1665,Ankit K 19,5.6,Civil,"Geotech, Concrete Tech, Structural",Yes
+1666,Arjun S 14,6.9,Electronics,"Circuits, Digital Logic, VLSI",No
+1667,Divya M 13,6.2,Data Science,"Data Mining, ML, NLP",No
+1668,Ravi T 10,6.3,Mechanical,"Dynamics, Fluid Mech, Mechatronics",No
+1669,Priya K 16,9.8,Computer Sci.,"DSA, DBMS, OS",No
+1670,Priya T 18,5.7,Data Science,"Python, ML, Data Mining",Yes
+1671,Karan R 10,9.3,Electronics,"VLSI, Circuits, Signals",No
+1672,Aisha R 22,5.8,Mechanical,"CAD, Mechatronics, Dynamics",Yes
+1673,Priya K 17,7.5,Civil,"Geotech, Surveying, Concrete Tech",No
+1674,Aisha K 14,7.8,Mechanical,"CAD, Dynamics, Thermo",No
+1675,Arjun M 10,5.5,Civil,"Concrete Tech, Surveying, Structural",Yes
+1676,Divya M 14,9.9,Civil,"Structural, Surveying, Geotech",No
+1677,Priya K 18,6.3,Mechanical,"Mechatronics, CAD, Fluid Mech",No
+1678,Ravi T 11,7.4,Data Science,"Stats, ML, NLP",No
+1679,Rahul T 16,8.8,AI & ML,"NLP, ML, AI",No
+1680,Karan K 17,9.0,Information Tech.,"Java, OS, Web Dev",No
+1681,Karan S 16,6.4,Electrical,"Machines, Control, Power Systems",No
+1682,Arjun K 14,5.5,AI & ML,"RL, DL, NLP",Yes
+1683,Ankit K 20,5.7,Electronics,"Digital Logic, Embedded, VLSI",Yes
+1684,Sneha R 17,9.8,Computer Sci.,"AI, Java, DSA",No
+1685,Ravi K 15,7.1,Data Science,"Python, Stats, NLP",No
+1686,Aisha R 23,8.4,Electrical,"EM Theory, Machines, Power Systems",No
+1687,Ravi K 16,6.8,Information Tech.,"OS, Networking, Security",No
+1688,Divya T 16,7.5,Electronics,"Embedded, Circuits, Digital Logic",No
+1689,Ravi K 17,9.2,Mechanical,"Dynamics, Thermo, Mechatronics",No
+1690,Sneha K 12,9.5,Electrical,"Control, EM Theory, Power Systems",No
+1691,Rahul S 15,6.8,Computer Sci.,"CN, Python, Java",No
+1692,Karan M 16,6.5,Information Tech.,"Security, OS, Networking",No
+1693,Ravi R 12,9.5,Electronics,"Embedded, Signals, Circuits",No
+1694,Aisha S 3,7.9,AI & ML,"AI, ML, DL",No
+1695,Arjun T 15,7.1,Computer Sci.,"CN, OS, Java",No
+1696,Aisha R 24,9.2,AI & ML,"RL, DL, NLP",No
+1697,Rahul M 27,9.6,Electrical,"Control, Power Systems, Machines",No
+1698,Karan M 17,5.8,Electronics,"Circuits, Digital Logic, Embedded",Yes
+1699,Karan K 18,6.5,Information Tech.,"Java, Security, Web Dev",No
+1700,Karan M 18,8.4,Civil,"Concrete Tech, Geotech, Structural",No
+1701,Sneha S 11,7.6,AI & ML,"AI, RL, ML",No
+1702,Arjun S 15,6.4,Computer Sci.,"OS, DSA, DBMS",No
+1703,Aisha R 25,5.6,Information Tech.,"Java, OS, Networking",Yes
+1704,Rahul S 16,7.1,Computer Sci.,"DBMS, Java, CN",No
+1705,Rahul R 14,6.0,Mechanical,"Dynamics, CAD, Thermo",No
+1706,Priya T 19,5.1,AI & ML,"NLP, AI, DL",Yes
+1707,Divya K 11,6.1,Mechanical,"Mechatronics, Thermo, Dynamics",No
+1708,Ravi R 13,9.7,Computer Sci.,"AI, CN, OS",No
+1709,Meera R 15,9.9,AI & ML,"ML, DL, NLP",No
+1710,Ankit M 16,5.6,Mechanical,"Fluid Mech, Dynamics, CAD",Yes
+1711,Sneha S 12,7.6,Computer Sci.,"Python, AI, Java",No
+1712,Divya K 12,8.4,Civil,"Geotech, Surveying, Concrete Tech",No
+1713,Aisha M 12,8.0,Information Tech.,"Java, Networking, OS",No
+1714,Sneha K 13,6.7,Electrical,"Power Systems, EM Theory, Machines",No
+1715,Priya R 13,5.2,Computer Sci.,"DBMS, DSA, OS",Yes
+1716,Karan M 19,9.4,Data Science,"Stats, ML, Data Mining",No
+1717,Divya M 15,6.5,Civil,"Surveying, Concrete Tech, Structural",No
+1718,Arjun K 15,6.4,Data Science,"Data Mining, Python, NLP",No
+1719,Aisha T 10,7.8,AI & ML,"RL, NLP, ML",No
+1720,Meera K 10,5.4,Electronics,"Signals, Digital Logic, Embedded",Yes
+1721,Ravi M 16,6.1,Data Science,"Stats, NLP, Python",No
+1722,Aisha R 26,9.7,Computer Sci.,"DSA, OS, AI",No
+1723,Sneha K 14,6.9,AI & ML,"NLP, DL, AI",No
+1724,Sneha R 18,7.0,Computer Sci.,"Java, OS, Python",No
+1725,Ankit R 18,5.3,Data Science,"NLP, Data Mining, Stats",Yes
+1726,Ravi T 12,8.1,Information Tech.,"OS, Security, Web Dev",No
+1727,Ankit S 17,6.1,Information Tech.,"OS, Java, Networking",No
+1728,Ravi T 13,5.2,Civil,"Concrete Tech, Structural, Surveying",Yes
+1729,Priya K 19,5.9,Electronics,"Circuits, Embedded, Signals",Yes
+1730,Meera T 11,8.9,Electrical,"Machines, Control, Power Systems",No
+1731,Rahul M 28,5.2,Electrical,"Power Systems, Control, Machines",Yes
+1732,Divya M 16,8.0,Electronics,"VLSI, Signals, Digital Logic",No
+1733,Aisha M 13,8.1,Civil,"Geotech, Structural, Surveying",No
+1734,Divya M 17,8.6,Electrical,"Power Systems, Control, EM Theory",No
+1735,Sneha S 13,8.8,Data Science,"Python, Stats, ML",No
+1736,Meera M 14,6.6,Mechanical,"CAD, Fluid Mech, Dynamics",No
+1737,Meera M 15,6.2,Mechanical,"Thermo, Dynamics, CAD",No
+1738,Ravi R 14,5.2,Computer Sci.,"Python, DSA, Java",Yes
+1739,Sneha R 19,5.7,AI & ML,"NLP, AI, DL",Yes
+1740,Sneha K 15,8.6,Data Science,"ML, Data Mining, NLP",No
+1741,Meera K 11,6.7,Electrical,"EM Theory, Machines, Power Systems",No
+1742,Meera S 15,8.5,Civil,"Structural, Surveying, Concrete Tech",No
+1743,Sneha K 16,8.1,Mechanical,"Mechatronics, Dynamics, Thermo",No
+1744,Meera M 16,7.6,Mechanical,"Fluid Mech, Mechatronics, Dynamics",No
+1745,Divya R 12,9.4,Electrical,"Power Systems, EM Theory, Machines",No
+1746,Ankit S 18,8.1,Data Science,"Data Mining, ML, NLP",No
+1747,Sneha K 17,8.0,Computer Sci.,"AI, CN, OS",No
+1748,Karan K 19,5.0,Electrical,"Control, Power Systems, Machines",Yes
+1749,Karan R 11,9.6,Electronics,"Embedded, VLSI, Circuits",No
+1750,Sneha K 18,9.6,Computer Sci.,"DBMS, Python, OS",No
+1751,Ankit S 19,5.7,Mechanical,"Thermo, Fluid Mech, Mechatronics",Yes
+1752,Ankit S 20,10.0,Mechanical,"Dynamics, Mechatronics, CAD",No
+1753,Ankit M 17,7.9,Mechanical,"Thermo, Dynamics, CAD",No
+1754,Meera T 12,5.2,Electrical,"Power Systems, Control, Machines",Yes
+1755,Divya T 17,7.3,Mechanical,"CAD, Fluid Mech, Dynamics",No
+1756,Priya R 14,7.7,Electronics,"Signals, VLSI, Digital Logic",No
+1757,Arjun K 16,5.7,Civil,"Concrete Tech, Surveying, Structural",Yes
+1758,Sneha T 18,5.0,Data Science,"Data Mining, Stats, Python",Yes
+1759,Divya M 18,9.7,Mechanical,"Fluid Mech, CAD, Thermo",No
+1760,Karan T 14,9.7,Information Tech.,"Security, Web Dev, Java",No
+1761,Divya R 13,5.4,Electronics,"Circuits, Digital Logic, VLSI",Yes
+1762,Arjun R 20,7.3,Computer Sci.,"Java, Python, DSA",No
+1763,Divya M 19,7.9,Civil,"Geotech, Concrete Tech, Structural",No
+1764,Ankit T 10,6.3,Electrical,"Power Systems, Control, EM Theory",No
+1765,Ankit T 11,9.6,Computer Sci.,"Java, DBMS, Python",No
+1766,Rahul K 12,8.5,Civil,"Concrete Tech, Geotech, Surveying",No
+1767,Ravi R 15,5.7,Mechanical,"Dynamics, Mechatronics, CAD",Yes
+1768,Meera M 17,6.8,Electrical,"EM Theory, Power Systems, Control",No
+1769,Karan R 12,5.7,AI & ML,"RL, NLP, AI",Yes
+1770,Arjun R 21,5.3,Information Tech.,"Web Dev, OS, Networking",Yes
+1771,Arjun R 22,8.7,Computer Sci.,"Java, CN, DSA",No
+1772,Sneha T 19,5.2,Mechanical,"Dynamics, Thermo, Fluid Mech",Yes
+1773,Aisha T 11,8.2,Civil,"Structural, Geotech, Concrete Tech",No
+1774,Aisha R 27,5.5,Mechanical,"Mechatronics, Dynamics, Fluid Mech",Yes
+1775,Ankit S 21,9.2,Computer Sci.,"Python, OS, CN",No
+1776,Arjun K 17,5.7,Data Science,"NLP, Python, ML",Yes
+1777,Karan K 20,8.2,Civil,"Surveying, Concrete Tech, Structural",No
+1778,Aisha S 4,6.7,Data Science,"Python, Data Mining, ML",No
+1779,Ravi R 16,7.4,Electrical,"Power Systems, Machines, Control",No
+1780,Sneha T 20,5.9,Mechanical,"CAD, Thermo, Dynamics",Yes
+1781,Sneha T 21,7.0,Electronics,"Signals, Embedded, VLSI",No
+1782,Aisha M 14,5.6,Electronics,"Digital Logic, Signals, VLSI",Yes
+1783,Karan T 15,8.5,Data Science,"Python, ML, NLP",No
+1784,Sneha K 19,8.2,Mechanical,"CAD, Fluid Mech, Mechatronics",No
+1785,Rahul R 15,5.7,Computer Sci.,"DBMS, Python, CN",Yes
+1786,Aisha M 15,7.8,Electrical,"Machines, Power Systems, Control",No
+1787,Arjun R 23,6.8,Electronics,"Signals, Digital Logic, Embedded",No
+1788,Divya S 13,5.4,AI & ML,"AI, DL, ML",Yes
+1789,Ravi S 14,8.0,Civil,"Geotech, Concrete Tech, Surveying",No
+1790,Meera R 16,9.9,AI & ML,"RL, DL, NLP",No
+1791,Ravi T 14,7.5,Data Science,"Python, Data Mining, ML",No
+1792,Sneha R 20,7.8,Electrical,"EM Theory, Power Systems, Machines",No
+1793,Aisha K 15,7.7,AI & ML,"AI, DL, NLP",No
+1794,Divya M 20,9.5,Electrical,"Machines, Control, EM Theory",No
+1795,Aisha R 28,5.4,Computer Sci.,"DSA, Python, OS",Yes
+1796,Meera S 16,7.1,Mechanical,"Fluid Mech, Dynamics, Thermo",No
+1797,Rahul R 16,5.9,Electronics,"VLSI, Signals, Embedded",Yes
+1798,Arjun K 18,6.1,Information Tech.,"Networking, OS, Security",No
+1799,Meera R 17,5.2,Computer Sci.,"OS, Java, AI",Yes
+1800,Aisha R 29,9.1,Mechanical,"Thermo, Mechatronics, CAD",No
+1801,Aisha S 5,6.3,Electronics,"Circuits, Embedded, VLSI",No
+1802,Ankit K 21,9.0,Computer Sci.,"CN, AI, Java",No
+1803,Karan S 17,9.6,Information Tech.,"Security, Networking, Java",No
+1804,Aisha K 16,5.9,AI & ML,"RL, AI, DL",Yes
+1805,Sneha R 21,8.6,Electrical,"Control, EM Theory, Power Systems",No
+1806,Arjun K 19,9.6,Electrical,"Power Systems, EM Theory, Control",No
+1807,Karan K 21,5.3,Computer Sci.,"DBMS, Python, OS",Yes
+1808,Karan S 18,7.7,Mechanical,"Fluid Mech, CAD, Thermo",No
+1809,Sneha K 20,7.7,Information Tech.,"Web Dev, OS, Security",No
+1810,Ankit K 22,7.3,Mechanical,"Thermo, CAD, Fluid Mech",No
+1811,Aisha S 6,7.7,Electronics,"VLSI, Digital Logic, Embedded",No
+1812,Arjun T 16,5.4,Electronics,"Circuits, Signals, Embedded",Yes
+1813,Sneha S 14,6.5,Electronics,"Digital Logic, Circuits, Embedded",No
+1814,Aisha M 16,8.5,AI & ML,"ML, DL, AI",No
+1815,Ravi R 17,8.8,Computer Sci.,"Python, DBMS, Java",No
+1816,Arjun K 20,7.2,Data Science,"Python, Stats, Data Mining",No
+1817,Priya R 15,9.4,Electrical,"EM Theory, Machines, Control",No
+1818,Arjun K 21,9.9,AI & ML,"RL, DL, AI",No
+1819,Arjun M 11,6.1,Mechanical,"Thermo, CAD, Fluid Mech",No
+1820,Sneha R 22,6.7,Mechanical,"Dynamics, Thermo, Fluid Mech",No
+1821,Arjun R 24,7.8,Computer Sci.,"CN, Python, DSA",No
+1822,Aisha K 17,7.3,Mechanical,"Thermo, Fluid Mech, Mechatronics",No
+1823,Aisha K 18,6.7,Data Science,"Stats, NLP, ML",No
+1824,Ankit M 18,5.3,Information Tech.,"Networking, Web Dev, OS",Yes
+1825,Aisha K 19,8.4,Electrical,"EM Theory, Machines, Power Systems",No
+1826,Rahul R 17,6.0,Information Tech.,"Networking, Security, Web Dev",No
+1827,Karan M 20,5.6,Information Tech.,"Web Dev, Networking, Security",Yes
+1828,Meera T 13,8.9,Mechanical,"Thermo, CAD, Mechatronics",No
+1829,Priya T 20,5.5,Data Science,"Python, ML, Stats",Yes
+1830,Priya T 21,5.5,Civil,"Concrete Tech, Structural, Geotech",Yes
+1831,Divya M 21,8.3,Information Tech.,"OS, Networking, Security",No
+1832,Arjun S 16,6.5,Electrical,"EM Theory, Power Systems, Control",No
+1833,Ankit R 19,6.4,Mechanical,"Mechatronics, CAD, Fluid Mech",No
+1834,Sneha M 11,7.2,Electrical,"Power Systems, EM Theory, Machines",No
+1835,Divya T 18,5.0,Electronics,"VLSI, Embedded, Circuits",Yes
+1836,Priya K 20,7.7,Data Science,"ML, NLP, Data Mining",No
+1837,Divya R 14,7.0,Computer Sci.,"DBMS, DSA, CN",No
+1838,Aisha S 7,5.9,Computer Sci.,"CN, AI, OS",Yes
+1839,Rahul S 17,9.5,Electronics,"Circuits, Signals, Embedded",No
+1840,Aisha M 17,8.6,Computer Sci.,"Python, CN, OS",No
+1841,Meera T 14,8.6,Computer Sci.,"OS, Python, AI",No
+1842,Karan R 13,8.0,Mechanical,"Dynamics, CAD, Mechatronics",No
+1843,Sneha K 21,6.7,Mechanical,"Mechatronics, Thermo, CAD",No
+1844,Sneha T 22,5.9,Mechanical,"CAD, Thermo, Dynamics",Yes
+1845,Rahul S 18,9.0,Civil,"Concrete Tech, Surveying, Geotech",No
+1846,Divya M 22,7.3,Electronics,"Embedded, VLSI, Digital Logic",No
+1847,Sneha S 15,8.0,Computer Sci.,"Python, CN, DSA",No
+1848,Arjun R 25,5.2,Information Tech.,"Web Dev, Java, Networking",Yes
+1849,Sneha M 12,5.6,Electrical,"Machines, Power Systems, EM Theory",Yes
+1850,Rahul R 18,7.8,Computer Sci.,"DBMS, Python, CN",No
+1851,Karan K 22,5.2,Electronics,"Signals, Circuits, Digital Logic",Yes
+1852,Divya R 15,9.4,AI & ML,"RL, DL, ML",No
+1853,Meera M 18,9.9,Electronics,"Signals, Digital Logic, Circuits",No
+1854,Ravi T 15,7.1,Mechanical,"Thermo, CAD, Mechatronics",No
+1855,Arjun K 22,6.2,Mechanical,"Fluid Mech, Thermo, CAD",No
+1856,Rahul K 13,8.7,Data Science,"ML, Stats, Data Mining",No
+1857,Aisha R 30,7.0,Information Tech.,"OS, Web Dev, Java",No
+1858,Divya T 19,6.2,Computer Sci.,"Python, DBMS, DSA",No
+1859,Divya M 23,5.5,Information Tech.,"OS, Security, Web Dev",Yes
+1860,Ankit T 12,6.0,Data Science,"Data Mining, Stats, NLP",No
+1861,Ankit M 19,8.7,Mechanical,"Thermo, CAD, Mechatronics",No
+1862,Ravi R 18,8.5,Data Science,"Stats, Data Mining, NLP",No
+1863,Meera M 19,8.7,Computer Sci.,"DSA, CN, Java",No
+1864,Sneha T 23,8.0,Computer Sci.,"AI, DBMS, Java",No
+1865,Priya T 22,7.0,Information Tech.,"Security, Networking, OS",No
+1866,Arjun M 12,6.9,Information Tech.,"Security, Web Dev, Networking",No
+1867,Divya R 16,6.6,AI & ML,"DL, AI, ML",No
+1868,Sneha S 16,7.4,Civil,"Surveying, Geotech, Concrete Tech",No
+1869,Divya R 17,5.1,Civil,"Concrete Tech, Structural, Geotech",Yes
+1870,Ankit S 22,8.8,Data Science,"Data Mining, ML, Python",No
+1871,Meera R 18,9.8,Data Science,"ML, NLP, Data Mining",No
+1872,Divya S 14,8.3,Data Science,"Data Mining, Python, ML",No
+1873,Rahul M 29,6.5,Civil,"Concrete Tech, Geotech, Structural",No
+1874,Arjun M 13,6.2,AI & ML,"NLP, AI, ML",No
+1875,Priya R 16,8.1,Information Tech.,"OS, Networking, Java",No
+1876,Ankit T 13,7.9,Electrical,"Control, Power Systems, Machines",No
+1877,Sneha R 23,5.4,Electrical,"Control, Power Systems, EM Theory",Yes
+1878,Arjun T 17,9.7,Information Tech.,"OS, Web Dev, Networking",No
+1879,Arjun R 26,9.1,Electronics,"Embedded, Circuits, Signals",No
+1880,Karan M 21,6.8,Information Tech.,"Networking, Web Dev, Security",No
+1881,Meera T 15,9.9,Computer Sci.,"CN, Python, DSA",No
+1882,Arjun R 27,9.0,Data Science,"Python, Data Mining, ML",No
+1883,Divya T 20,6.8,Computer Sci.,"DSA, AI, CN",No
+1884,Sneha K 22,8.0,Computer Sci.,"AI, Python, Java",No
+1885,Rahul R 19,9.7,Mechanical,"Dynamics, CAD, Fluid Mech",No
+1886,Divya S 15,9.3,Civil,"Surveying, Geotech, Structural",No
+1887,Arjun K 23,7.2,AI & ML,"DL, ML, NLP",No
+1888,Meera K 12,6.0,Information Tech.,"Networking, Web Dev, OS",No
+1889,Meera T 16,9.4,Computer Sci.,"CN, AI, DSA",No
+1890,Ankit S 23,6.4,AI & ML,"NLP, RL, DL",No
+1891,Sneha K 23,7.0,Computer Sci.,"Java, DBMS, OS",No
+1892,Sneha S 17,8.7,Data Science,"Stats, Python, NLP",No
+1893,Rahul S 19,6.8,Civil,"Structural, Concrete Tech, Surveying",No
+1894,Sneha S 18,9.1,Electrical,"Control, EM Theory, Power Systems",No
+1895,Ankit T 14,8.6,Electrical,"Power Systems, Machines, Control",No
+1896,Sneha K 24,8.3,AI & ML,"NLP, ML, RL",No
+1897,Meera M 20,7.0,Civil,"Geotech, Structural, Surveying",No
+1898,Arjun T 18,7.6,AI & ML,"NLP, AI, ML",No
+1899,Karan K 23,9.4,Electrical,"Power Systems, EM Theory, Machines",No
+1900,Divya K 13,9.1,Information Tech.,"Networking, Java, Web Dev",No
+1901,Karan S 19,9.3,Electrical,"Power Systems, Machines, Control",No
+1902,Meera R 19,7.0,Electrical,"Machines, Power Systems, EM Theory",No
+1903,Divya T 21,5.7,Electrical,"Control, Power Systems, EM Theory",Yes
+1904,Meera K 13,7.4,Mechanical,"Fluid Mech, Thermo, Mechatronics",No
+1905,Aisha K 20,5.1,Data Science,"Python, Stats, Data Mining",Yes
+1906,Rahul T 17,9.6,Data Science,"ML, Data Mining, Python",No
+1907,Aisha T 12,9.9,AI & ML,"ML, NLP, RL",No
+1908,Divya M 24,7.1,Civil,"Concrete Tech, Structural, Surveying",No
+1909,Divya T 22,8.9,Civil,"Surveying, Geotech, Structural",No
+1910,Meera R 20,5.9,Electronics,"VLSI, Circuits, Digital Logic",Yes
+1911,Rahul S 20,7.4,Mechanical,"Dynamics, Thermo, Fluid Mech",No
+1912,Ravi S 15,9.6,Data Science,"NLP, Stats, Python",No
+1913,Meera S 17,8.7,Electrical,"Machines, Control, Power Systems",No
+1914,Priya S 19,6.5,Information Tech.,"Web Dev, Java, OS",No
+1915,Aisha S 8,9.1,Electrical,"EM Theory, Control, Machines",No
+1916,Ankit T 15,5.4,Electronics,"Signals, VLSI, Embedded",Yes
+1917,Ravi T 16,5.0,Information Tech.,"Security, Web Dev, Java",Yes
+1918,Priya T 23,5.0,Electrical,"EM Theory, Machines, Power Systems",Yes
+1919,Ankit K 23,5.8,Electrical,"Control, Power Systems, Machines",Yes
+1920,Divya R 18,7.4,AI & ML,"ML, AI, DL",No
+1921,Priya M 11,7.0,AI & ML,"NLP, RL, ML",No
+1922,Rahul T 18,8.3,Electrical,"Machines, EM Theory, Control",No
+1923,Ankit R 20,5.4,AI & ML,"DL, AI, RL",Yes
+1924,Divya S 16,7.7,Mechanical,"Mechatronics, Fluid Mech, CAD",No
+1925,Priya K 21,6.3,Electronics,"Signals, VLSI, Circuits",No
+1926,Divya R 19,5.4,Civil,"Geotech, Surveying, Concrete Tech",Yes
+1927,Priya R 17,7.6,AI & ML,"AI, ML, DL",No
+1928,Meera K 14,8.1,Mechanical,"Fluid Mech, Mechatronics, CAD",No
+1929,Karan M 22,8.9,Civil,"Structural, Surveying, Concrete Tech",No
+1930,Arjun M 14,8.8,Information Tech.,"Web Dev, Networking, OS",No
+1931,Ankit T 16,5.9,Mechanical,"Fluid Mech, Mechatronics, CAD",Yes
+1932,Sneha R 24,6.1,Electronics,"VLSI, Signals, Embedded",No
+1933,Priya K 22,9.3,Information Tech.,"Java, OS, Security",No
+1934,Aisha K 21,8.6,Civil,"Geotech, Structural, Concrete Tech",No
+1935,Karan K 24,7.2,Electrical,"Machines, Power Systems, Control",No
+1936,Ankit T 17,5.9,Electronics,"Signals, Circuits, Embedded",Yes
+1937,Ravi K 18,7.2,Information Tech.,"OS, Web Dev, Security",No
+1938,Ankit M 20,8.9,Mechanical,"CAD, Thermo, Fluid Mech",No
+1939,Aisha R 31,9.9,Electrical,"Power Systems, Control, Machines",No
+1940,Rahul T 19,7.2,Information Tech.,"Networking, OS, Security",No
+1941,Meera K 15,6.4,AI & ML,"NLP, RL, AI",No
+1942,Ravi T 17,6.1,Civil,"Concrete Tech, Surveying, Geotech",No
+1943,Priya K 23,9.9,Electrical,"Power Systems, EM Theory, Machines",No
+1944,Ravi K 19,7.7,Computer Sci.,"OS, DBMS, Java",No
+1945,Aisha R 32,6.1,Data Science,"Python, Stats, ML",No
+1946,Priya T 24,8.4,Information Tech.,"Networking, Security, OS",No
+1947,Arjun K 24,8.7,Information Tech.,"Web Dev, Java, Networking",No
+1948,Karan S 20,5.1,Data Science,"Data Mining, Stats, ML",Yes
+1949,Divya R 20,6.8,Information Tech.,"Java, Networking, Web Dev",No
+1950,Ankit R 21,9.5,Information Tech.,"Java, OS, Networking",No
+1951,Sneha S 19,9.8,Mechanical,"Thermo, Dynamics, CAD",No
+1952,Ankit R 22,8.4,Civil,"Geotech, Structural, Concrete Tech",No
+1953,Priya T 25,7.4,Civil,"Geotech, Surveying, Structural",No
+1954,Ankit K 24,9.6,Electrical,"Control, EM Theory, Machines",No
+1955,Priya M 12,8.9,Information Tech.,"Web Dev, Security, Java",No
+1956,Karan S 21,6.2,Information Tech.,"Networking, OS, Java",No
+1957,Aisha R 33,9.4,Information Tech.,"Networking, Security, OS",No
+1958,Ankit T 18,9.7,Information Tech.,"Networking, Web Dev, OS",No
+1959,Rahul S 21,8.9,Electronics,"Circuits, Digital Logic, Embedded",No
+1960,Divya T 23,7.1,Electronics,"Embedded, Signals, Digital Logic",No
+1961,Divya T 24,9.3,Civil,"Surveying, Concrete Tech, Geotech",No
+1962,Arjun S 17,9.7,Civil,"Structural, Geotech, Surveying",No
+1963,Divya M 25,8.1,Computer Sci.,"AI, Java, Python",No
+1964,Karan S 22,9.2,Computer Sci.,"OS, DBMS, Java",No
+1965,Arjun M 15,8.3,Mechanical,"Mechatronics, Fluid Mech, Thermo",No
+1966,Ravi K 20,8.3,Information Tech.,"OS, Security, Web Dev",No
+1967,Karan S 23,8.1,Data Science,"ML, Stats, Python",No
+1968,Priya M 13,7.4,Computer Sci.,"Java, AI, DSA",No
+1969,Meera S 18,9.7,Civil,"Geotech, Structural, Surveying",No
+1970,Rahul K 14,5.2,Computer Sci.,"Python, OS, Java",Yes
+1971,Aisha S 9,5.3,Electrical,"EM Theory, Control, Machines",Yes
+1972,Arjun R 28,9.7,Computer Sci.,"DBMS, Python, DSA",No
+1973,Karan T 16,7.8,AI & ML,"RL, AI, ML",No
+1974,Ravi M 17,6.6,Information Tech.,"Java, Networking, Web Dev",No
+1975,Aisha T 13,5.8,AI & ML,"ML, RL, AI",Yes
+1976,Aisha S 10,9.1,Electronics,"Digital Logic, Circuits, Signals",No
+1977,Ravi M 18,9.2,AI & ML,"RL, DL, NLP",No
+1978,Sneha S 20,9.7,Mechanical,"Thermo, Dynamics, Fluid Mech",No
+1979,Karan R 14,9.8,Electronics,"Digital Logic, Signals, Embedded",No
+1980,Divya S 17,9.5,AI & ML,"ML, DL, RL",No
+1981,Ravi T 18,8.1,Civil,"Structural, Surveying, Geotech",No
+1982,Rahul M 30,6.0,Electronics,"Embedded, Digital Logic, Circuits",No
+1983,Arjun S 18,7.8,Information Tech.,"Web Dev, Java, OS",No
+1984,Aisha K 22,6.7,Electrical,"Power Systems, EM Theory, Machines",No
+1985,Divya K 14,5.1,Computer Sci.,"Python, OS, DBMS",Yes
+1986,Rahul S 22,9.8,Computer Sci.,"Python, DBMS, AI",No
+1987,Arjun K 25,6.2,Electronics,"Embedded, Circuits, Signals",No
+1988,Sneha T 24,7.2,Computer Sci.,"DSA, DBMS, Java",No
+1989,Priya S 20,5.5,Data Science,"ML, Python, Data Mining",Yes
+1990,Arjun K 26,5.3,Mechanical,"CAD, Fluid Mech, Dynamics",Yes
+1991,Meera T 17,8.3,AI & ML,"RL, AI, ML",No
+1992,Rahul S 23,7.7,Computer Sci.,"AI, CN, DSA",No
+1993,Arjun R 29,7.9,Data Science,"Data Mining, Stats, NLP",No
+1994,Priya K 24,9.1,Electrical,"Machines, Power Systems, EM Theory",No
+1995,Ankit S 24,9.0,Civil,"Geotech, Structural, Concrete Tech",No
+1996,Priya K 25,9.9,Information Tech.,"Networking, Web Dev, Java",No
+1997,Karan K 25,7.9,Mechanical,"Dynamics, Mechatronics, CAD",No
+1998,Sneha K 25,5.9,Data Science,"Stats, ML, Python",Yes
+1999,Ankit T 19,7.1,Civil,"Surveying, Concrete Tech, Geotech",No
+2000,Arjun M 16,7.7,Mechanical,"Fluid Mech, Mechatronics, Thermo",No
+2001,Karan R 15,5.6,Information Tech.,"Networking, Java, Web Dev",Yes
+2002,Rahul T 20,5.9,Civil,"Structural, Surveying, Concrete Tech",Yes
+2003,Arjun T 19,6.6,Computer Sci.,"OS, CN, DBMS",No
+2004,Rahul S 24,7.1,Computer Sci.,"OS, Java, Python",No
+2005,Karan R 16,7.7,AI & ML,"RL, AI, ML",No
+2006,Ankit S 25,5.2,Electronics,"Signals, Embedded, Circuits",Yes
+2007,Divya R 21,7.0,Electronics,"Digital Logic, Embedded, Signals",No
+2008,Sneha T 25,6.0,AI & ML,"DL, RL, AI",No
+2009,Divya T 25,9.2,Information Tech.,"Java, Web Dev, Security",No
+2010,Karan S 24,7.3,Information Tech.,"Security, Web Dev, Networking",No
+2011,Karan K 26,9.8,Mechanical,"Thermo, Mechatronics, Dynamics",No
+2012,Rahul T 21,9.1,Mechanical,"CAD, Thermo, Fluid Mech",No
+2013,Sneha R 25,8.0,Electrical,"Control, Power Systems, Machines",No
+2014,Karan M 23,9.7,Data Science,"Stats, NLP, Data Mining",No
+2015,Sneha M 13,6.2,Information Tech.,"Web Dev, Networking, Security",No
+2016,Karan T 17,5.7,Data Science,"Stats, Data Mining, NLP",Yes
+2017,Arjun S 19,5.2,Electronics,"Circuits, Embedded, Digital Logic",Yes
+2018,Sneha M 14,9.1,Data Science,"Stats, NLP, Python",No
+2019,Divya S 18,5.5,AI & ML,"RL, ML, DL",Yes
+2020,Aisha T 14,8.2,Electronics,"VLSI, Embedded, Signals",No
+2021,Ankit R 23,8.4,Mechanical,"Mechatronics, Dynamics, Thermo",No
+2022,Arjun S 20,5.1,Information Tech.,"Web Dev, Java, Networking",Yes
+2023,Priya M 14,6.3,Civil,"Surveying, Concrete Tech, Geotech",No
+2024,Ravi S 16,9.8,Information Tech.,"Java, Security, Networking",No
+2025,Meera K 16,8.1,Electrical,"EM Theory, Control, Machines",No
+2026,Divya R 22,5.7,AI & ML,"NLP, ML, AI",Yes
+2027,Rahul M 31,9.6,Civil,"Concrete Tech, Geotech, Structural",No
+2028,Ravi S 17,9.2,AI & ML,"RL, DL, ML",No
+2029,Meera T 18,5.3,Electrical,"Power Systems, Control, EM Theory",Yes
+2030,Priya M 15,6.0,Mechanical,"Thermo, Fluid Mech, Dynamics",No
+2031,Divya R 23,7.6,AI & ML,"NLP, DL, ML",No
+2032,Rahul T 22,8.1,Data Science,"ML, NLP, Stats",No
+2033,Divya K 15,5.9,AI & ML,"AI, DL, NLP",Yes
+2034,Karan T 18,6.1,Computer Sci.,"CN, AI, DSA",No
+2035,Rahul K 15,9.9,Mechanical,"Fluid Mech, Mechatronics, Thermo",No
+2036,Aisha T 15,5.9,Computer Sci.,"Python, CN, OS",Yes
+2037,Sneha M 15,7.2,Electrical,"Power Systems, Control, EM Theory",No
+2038,Aisha M 18,7.1,Civil,"Geotech, Structural, Concrete Tech",No
+2039,Sneha S 21,8.3,Civil,"Surveying, Structural, Concrete Tech",No
+2040,Aisha K 23,7.6,AI & ML,"RL, DL, NLP",No
+2041,Rahul S 25,5.8,Computer Sci.,"OS, CN, AI",Yes
+2042,Aisha K 24,7.9,Mechanical,"Fluid Mech, Dynamics, Mechatronics",No
+2043,Ankit R 24,6.4,Electronics,"Digital Logic, Circuits, Embedded",No
+2044,Aisha K 25,8.6,Electrical,"Machines, Power Systems, EM Theory",No
+2045,Ankit K 25,8.6,Civil,"Structural, Concrete Tech, Geotech",No
+2046,Meera T 19,6.0,Mechanical,"Dynamics, Mechatronics, CAD",No
+2047,Divya R 24,5.9,Electronics,"Circuits, VLSI, Embedded",Yes
+2048,Priya R 18,6.3,AI & ML,"RL, ML, DL",No
+2049,Ankit M 21,8.9,Information Tech.,"Security, Java, Web Dev",No
+2050,Divya T 26,6.8,Data Science,"ML, NLP, Data Mining",No
+2051,Rahul T 23,9.4,Data Science,"Python, ML, NLP",No
+2052,Aisha M 19,6.9,Information Tech.,"Java, Networking, Web Dev",No
+2053,Sneha S 22,6.8,Information Tech.,"Java, Web Dev, Security",No
+2054,Rahul T 24,7.9,Information Tech.,"Networking, Java, Web Dev",No
+2055,Ankit M 22,8.2,Electronics,"VLSI, Circuits, Embedded",No
+2056,Arjun M 17,5.1,Electrical,"Machines, EM Theory, Control",Yes
+2057,Aisha T 16,7.7,Information Tech.,"Web Dev, Security, Networking",No
+2058,Meera R 21,8.9,AI & ML,"RL, ML, NLP",No
+2059,Aisha T 17,6.1,Mechanical,"Thermo, Dynamics, Mechatronics",No
+2060,Rahul M 32,6.7,Information Tech.,"Security, Networking, Java",No
+2061,Ravi T 19,8.8,Electronics,"Circuits, Digital Logic, VLSI",No
+2062,Karan M 24,6.9,Data Science,"Python, ML, Stats",No
+2063,Rahul S 26,9.6,Information Tech.,"Networking, OS, Security",No
+2064,Divya T 27,9.2,Data Science,"Python, Data Mining, ML",No
+2065,Rahul S 27,5.0,Mechanical,"Thermo, Dynamics, Mechatronics",Yes
+2066,Rahul R 20,9.4,Electrical,"EM Theory, Power Systems, Control",No
+2067,Meera T 20,7.6,AI & ML,"NLP, RL, AI",No
+2068,Ankit K 26,7.5,Information Tech.,"OS, Web Dev, Java",No
+2069,Ravi R 19,5.1,AI & ML,"RL, ML, AI",Yes
+2070,Rahul M 33,5.8,Data Science,"Stats, Data Mining, ML",Yes
+2071,Sneha R 26,7.8,Computer Sci.,"Python, Java, AI",No
+2072,Aisha M 20,5.7,Electrical,"Power Systems, Control, EM Theory",Yes
+2073,Ankit K 27,6.5,Electrical,"Power Systems, Control, EM Theory",No
+2074,Meera R 22,8.6,Electronics,"Signals, VLSI, Circuits",No
+2075,Ankit S 26,9.2,Civil,"Geotech, Surveying, Structural",No
+2076,Rahul S 28,6.6,Civil,"Geotech, Concrete Tech, Structural",No
+2077,Aisha K 26,9.5,Mechanical,"Thermo, Fluid Mech, CAD",No
+2078,Meera K 17,8.7,Data Science,"Stats, Data Mining, Python",No
+2079,Ravi S 18,5.3,Data Science,"Python, Stats, ML",Yes
+2080,Sneha M 16,9.8,Electronics,"VLSI, Circuits, Digital Logic",No
+2081,Priya R 19,5.4,Mechanical,"Dynamics, Thermo, CAD",Yes
+2082,Arjun S 21,6.8,Electrical,"Power Systems, EM Theory, Control",No
+2083,Sneha R 27,8.2,Electronics,"Embedded, Digital Logic, Circuits",No
+2084,Divya R 25,9.4,Electrical,"EM Theory, Power Systems, Machines",No
+2085,Aisha R 34,9.2,Mechanical,"Dynamics, Mechatronics, Fluid Mech",No
+2086,Aisha S 11,5.8,Electronics,"Digital Logic, Signals, VLSI",Yes
+2087,Sneha T 26,9.5,Mechanical,"Fluid Mech, CAD, Dynamics",No
+2088,Aisha M 21,7.3,AI & ML,"NLP, ML, DL",No
+2089,Rahul T 25,7.2,Computer Sci.,"CN, DBMS, Java",No
+2090,Arjun M 18,9.7,Computer Sci.,"Python, DBMS, OS",No
+2091,Meera M 21,6.5,Mechanical,"Fluid Mech, Dynamics, CAD",No
+2092,Meera S 19,8.3,Civil,"Structural, Geotech, Concrete Tech",No
+2093,Divya K 16,8.6,Data Science,"Stats, Python, NLP",No
+2094,Aisha K 27,8.3,AI & ML,"ML, RL, DL",No
+2095,Ravi R 20,5.6,Electronics,"VLSI, Embedded, Digital Logic",Yes
+2096,Ravi K 21,7.0,Electronics,"Signals, VLSI, Embedded",No
+2097,Karan R 17,7.5,Mechanical,"Fluid Mech, Dynamics, CAD",No
+2098,Arjun S 22,9.8,Electronics,"Signals, Digital Logic, Circuits",No
+2099,Ankit M 23,10.0,Information Tech.,"Networking, Web Dev, Java",No
+2100,Divya T 28,8.6,Civil,"Concrete Tech, Surveying, Geotech",No
+2101,Aisha R 35,8.9,Mechanical,"Thermo, Mechatronics, Fluid Mech",No
+2102,Rahul S 29,8.1,Information Tech.,"Web Dev, Networking, Java",No
+2103,Arjun M 19,9.4,Information Tech.,"Java, Security, Web Dev",No
+2104,Divya K 17,6.7,Civil,"Geotech, Surveying, Concrete Tech",No
+2105,Ankit S 27,5.4,Civil,"Structural, Surveying, Geotech",Yes
+2106,Sneha T 27,9.9,Data Science,"Python, Stats, ML",No
+2107,Priya M 16,8.5,Civil,"Geotech, Surveying, Structural",No
+2108,Ravi K 22,8.4,Civil,"Structural, Concrete Tech, Surveying",No
+2109,Meera K 18,9.6,AI & ML,"AI, RL, DL",No
+2110,Aisha T 18,5.3,Electronics,"VLSI, Digital Logic, Signals",Yes
+2111,Priya M 17,6.3,Information Tech.,"OS, Networking, Java",No
+2112,Ravi M 19,8.3,AI & ML,"ML, DL, NLP",No
+2113,Divya M 26,8.7,Civil,"Surveying, Geotech, Concrete Tech",No
+2114,Ankit M 24,7.9,Data Science,"NLP, Data Mining, ML",No
+2115,Aisha M 22,7.7,Data Science,"ML, Python, Data Mining",No
+2116,Karan T 19,7.8,Electrical,"EM Theory, Machines, Power Systems",No
+2117,Ravi R 21,7.5,AI & ML,"ML, NLP, RL",No
+2118,Karan T 20,8.2,Electronics,"VLSI, Digital Logic, Signals",No
+2119,Meera K 19,5.4,Mechanical,"Fluid Mech, Dynamics, Thermo",Yes
+2120,Sneha T 28,7.7,Civil,"Surveying, Structural, Geotech",No
+2121,Aisha M 23,8.3,AI & ML,"AI, RL, DL",No
+2122,Ravi R 22,8.0,Mechanical,"Fluid Mech, CAD, Mechatronics",No
+2123,Divya R 26,5.1,Data Science,"Python, Data Mining, ML",Yes
+2124,Ravi S 19,9.8,Electrical,"EM Theory, Control, Power Systems",No
+2125,Rahul R 21,5.1,Data Science,"Data Mining, Python, NLP",Yes
+2126,Divya T 29,5.4,AI & ML,"DL, AI, NLP",Yes
+2127,Ravi R 23,9.3,Electrical,"Power Systems, Machines, EM Theory",No
+2128,Ravi M 20,7.3,Civil,"Concrete Tech, Geotech, Structural",No
+2129,Priya K 26,6.5,Data Science,"Data Mining, Python, Stats",No
+2130,Arjun S 23,8.6,Information Tech.,"OS, Web Dev, Networking",No
+2131,Divya K 18,5.0,Information Tech.,"Java, Security, Networking",Yes
+2132,Karan K 27,6.6,Electrical,"Control, EM Theory, Power Systems",No
+2133,Ravi K 23,8.9,Electrical,"Control, Power Systems, EM Theory",No
+2134,Divya M 27,6.6,Computer Sci.,"Python, OS, DSA",No
+2135,Sneha M 17,7.4,Information Tech.,"OS, Web Dev, Networking",No
+2136,Priya R 20,6.3,Electrical,"Machines, Power Systems, EM Theory",No
+2137,Sneha R 28,6.5,Information Tech.,"Web Dev, Security, Java",No
+2138,Divya T 30,8.9,Information Tech.,"Networking, Security, Web Dev",No
+2139,Divya M 28,7.8,Civil,"Surveying, Concrete Tech, Geotech",No
+2140,Aisha M 24,7.3,AI & ML,"NLP, DL, RL",No
+2141,Ravi S 20,5.6,Information Tech.,"OS, Networking, Web Dev",Yes
+2142,Priya K 27,9.6,Information Tech.,"Web Dev, Java, Security",No
+2143,Karan S 25,5.1,Electronics,"Circuits, Digital Logic, Signals",Yes
+2144,Rahul R 22,8.7,Computer Sci.,"DBMS, Java, Python",No
+2145,Ravi M 21,7.0,Information Tech.,"Java, Web Dev, OS",No
+2146,Arjun S 24,6.4,Electronics,"Circuits, Signals, Embedded",No
+2147,Divya M 29,9.3,Computer Sci.,"Python, CN, OS",No
+2148,Ankit R 25,8.4,AI & ML,"DL, ML, NLP",No
+2149,Ravi S 21,5.1,Electronics,"Signals, Embedded, VLSI",Yes
+2150,Rahul T 26,6.0,AI & ML,"DL, NLP, RL",No
+2151,Rahul M 34,6.9,Electronics,"Embedded, Signals, Circuits",No
+2152,Ankit S 28,7.3,Mechanical,"Mechatronics, Dynamics, Fluid Mech",No
+2153,Rahul T 27,5.2,Civil,"Concrete Tech, Geotech, Surveying",Yes
+2154,Priya S 21,5.7,Computer Sci.,"AI, CN, OS",Yes
+2155,Ankit M 25,5.4,Electronics,"Embedded, Digital Logic, Circuits",Yes
+2156,Ankit T 20,7.4,Electronics,"Signals, Embedded, VLSI",No
+2157,Meera T 21,5.5,Civil,"Concrete Tech, Structural, Surveying",Yes
+2158,Arjun K 27,8.8,Computer Sci.,"CN, Java, Python",No
+2159,Arjun M 20,9.3,AI & ML,"DL, RL, ML",No
+2160,Arjun K 28,6.5,Mechanical,"Dynamics, Thermo, Mechatronics",No
+2161,Ankit S 29,9.5,Mechanical,"Thermo, Fluid Mech, Mechatronics",No
+2162,Rahul K 16,8.9,AI & ML,"AI, ML, RL",No
+2163,Aisha T 19,6.6,Information Tech.,"Security, Networking, OS",No
+2164,Karan R 18,6.5,Electrical,"Control, Machines, EM Theory",No
+2165,Ankit M 26,8.8,Data Science,"Stats, Python, Data Mining",No
+2166,Arjun S 25,10.0,Electrical,"EM Theory, Control, Machines",No
+2167,Ravi T 20,7.2,Electronics,"Embedded, Circuits, Digital Logic",No
+2168,Rahul M 35,9.0,Information Tech.,"Security, OS, Java",No
+2169,Divya M 30,6.5,Computer Sci.,"CN, Python, AI",No
+2170,Meera S 20,5.9,Electrical,"Machines, Control, Power Systems",Yes
+2171,Meera R 23,7.9,Electrical,"Power Systems, Machines, EM Theory",No
+2172,Meera M 22,8.1,Electrical,"Machines, Control, Power Systems",No
+2173,Arjun M 21,6.5,Electronics,"VLSI, Digital Logic, Signals",No
+2174,Ravi R 24,5.9,Computer Sci.,"DBMS, OS, AI",Yes
+2175,Arjun K 29,9.6,Electronics,"VLSI, Digital Logic, Circuits",No
+2176,Karan M 25,7.3,Computer Sci.,"OS, CN, DBMS",No
+2177,Arjun K 30,6.0,Mechanical,"Fluid Mech, CAD, Mechatronics",No
+2178,Ravi K 24,8.8,Computer Sci.,"Java, CN, OS",No
+2179,Divya T 31,6.3,Data Science,"Stats, NLP, Data Mining",No
+2180,Arjun S 26,5.5,Electronics,"Signals, Circuits, Embedded",Yes
+2181,Aisha K 28,6.8,Information Tech.,"Web Dev, OS, Java",No
+2182,Meera M 23,6.7,Data Science,"Python, Data Mining, ML",No
+2183,Ravi R 25,7.8,Data Science,"Stats, Python, Data Mining",No
+2184,Sneha S 23,9.8,Electrical,"EM Theory, Power Systems, Machines",No
+2185,Aisha M 25,7.4,Computer Sci.,"Java, AI, CN",No
+2186,Meera S 21,6.5,Computer Sci.,"CN, Java, DBMS",No
+2187,Priya M 18,7.6,Electrical,"EM Theory, Machines, Control",No
+2188,Sneha K 26,7.5,Electrical,"Power Systems, Control, Machines",No
+2189,Karan K 28,6.0,Civil,"Structural, Concrete Tech, Surveying",No
+2190,Ankit K 28,7.2,AI & ML,"ML, DL, NLP",No
+2191,Ankit M 27,6.5,AI & ML,"RL, DL, AI",No
+2192,Meera S 22,8.2,Electrical,"EM Theory, Power Systems, Machines",No
+2193,Meera S 23,7.6,Mechanical,"Mechatronics, CAD, Dynamics",No
+2194,Arjun K 31,8.3,Electronics,"Embedded, Circuits, Signals",No
+2195,Divya R 27,6.1,Electrical,"Machines, Control, EM Theory",No
+2196,Priya T 26,8.0,Mechanical,"Fluid Mech, Thermo, CAD",No
+2197,Meera R 24,8.8,Mechanical,"Dynamics, Mechatronics, Fluid Mech",No
+2198,Meera M 24,6.2,Data Science,"ML, Data Mining, Stats",No
+2199,Aisha S 12,6.6,Information Tech.,"OS, Web Dev, Networking",No
+2200,Priya M 19,7.1,Computer Sci.,"DSA, OS, CN",No
+2201,Ankit R 26,8.0,AI & ML,"ML, RL, AI",No
+2202,Meera K 20,7.9,Electronics,"VLSI, Circuits, Digital Logic",No
+2203,Priya R 21,5.8,Mechanical,"Thermo, Fluid Mech, CAD",Yes
+2204,Rahul S 30,8.4,Electrical,"Machines, EM Theory, Power Systems",No
+2205,Arjun M 22,9.3,Electronics,"Circuits, Embedded, Digital Logic",No
+2206,Arjun S 27,8.1,Electronics,"Circuits, VLSI, Digital Logic",No
+2207,Ankit S 30,8.3,Mechanical,"Dynamics, CAD, Thermo",No
+2208,Arjun S 28,5.3,Electronics,"Digital Logic, Circuits, Embedded",Yes
+2209,Ravi T 21,6.5,Electrical,"Power Systems, Control, Machines",No
+2210,Ravi R 26,7.8,Civil,"Surveying, Geotech, Structural",No
+2211,Sneha M 18,7.2,Electronics,"VLSI, Circuits, Signals",No
+2212,Priya M 20,9.9,Electronics,"Signals, Circuits, Embedded",No
+2213,Ravi S 22,9.8,Data Science,"NLP, Data Mining, Python",No
+2214,Arjun K 32,7.4,Data Science,"NLP, ML, Data Mining",No
+2215,Arjun S 29,6.1,Computer Sci.,"OS, DBMS, AI",No
+2216,Aisha M 26,6.1,AI & ML,"AI, NLP, ML",No
+2217,Priya S 22,9.8,Mechanical,"Dynamics, Mechatronics, Fluid Mech",No
+2218,Karan M 26,5.9,AI & ML,"RL, DL, NLP",Yes
+2219,Ankit M 28,8.4,AI & ML,"AI, RL, ML",No
+2220,Priya M 21,9.9,AI & ML,"AI, NLP, ML",No
+2221,Arjun S 30,6.3,Data Science,"ML, NLP, Python",No
+2222,Aisha K 29,5.4,Mechanical,"CAD, Mechatronics, Dynamics",Yes
+2223,Karan S 26,5.4,Data Science,"Python, NLP, ML",Yes
+2224,Priya K 28,5.1,Civil,"Surveying, Structural, Geotech",Yes
+2225,Priya T 27,5.9,Electrical,"Power Systems, Control, EM Theory",Yes
+2226,Karan T 21,8.2,Data Science,"NLP, Stats, Data Mining",No
+2227,Meera T 22,7.4,Electrical,"Power Systems, Control, EM Theory",No
+2228,Arjun M 23,7.7,AI & ML,"RL, AI, NLP",No
+2229,Karan K 29,9.2,Data Science,"Stats, Data Mining, ML",No
+2230,Rahul M 36,6.1,Mechanical,"CAD, Fluid Mech, Dynamics",No
+2231,Aisha K 30,9.6,Electrical,"Control, EM Theory, Machines",No
+2232,Arjun R 30,8.7,Data Science,"Data Mining, NLP, Stats",No
+2233,Ankit S 31,8.6,Mechanical,"Mechatronics, Thermo, CAD",No
+2234,Divya T 32,6.1,Civil,"Geotech, Structural, Surveying",No
+2235,Divya R 28,8.0,Electrical,"Machines, Control, EM Theory",No
+2236,Arjun S 31,8.4,Computer Sci.,"AI, Python, DBMS",No
+2237,Rahul R 23,8.2,Electronics,"Digital Logic, Circuits, Embedded",No
+2238,Ankit M 29,9.8,Data Science,"Stats, ML, NLP",No
+2239,Priya T 28,7.0,Civil,"Geotech, Concrete Tech, Structural",No
+2240,Aisha T 20,8.8,Information Tech.,"Security, Java, Networking",No
+2241,Arjun S 32,8.3,AI & ML,"ML, DL, RL",No
+2242,Ankit S 32,7.2,AI & ML,"DL, NLP, AI",No
+2243,Rahul M 37,6.0,Mechanical,"CAD, Fluid Mech, Dynamics",No
+2244,Ankit R 27,5.3,Computer Sci.,"DSA, Java, CN",Yes
+2245,Divya K 19,7.8,Mechanical,"Dynamics, Thermo, Fluid Mech",No
+2246,Ravi S 23,5.7,AI & ML,"NLP, DL, AI",Yes
+2247,Ankit K 29,7.1,Mechanical,"Fluid Mech, Mechatronics, Dynamics",No
+2248,Karan K 30,9.3,Data Science,"Stats, Data Mining, Python",No
+2249,Sneha S 24,8.4,Civil,"Concrete Tech, Surveying, Geotech",No
+2250,Divya R 29,7.0,Electronics,"Circuits, Signals, Embedded",No
+2251,Sneha S 25,8.6,Electrical,"Machines, Control, Power Systems",No
+2252,Arjun K 33,5.8,Computer Sci.,"DSA, OS, AI",Yes
+2253,Priya T 29,6.2,Electronics,"VLSI, Embedded, Digital Logic",No
+2254,Sneha T 29,6.6,Information Tech.,"OS, Networking, Java",No
+2255,Ankit S 33,8.7,Electrical,"Power Systems, Machines, Control",No
+2256,Ankit K 30,5.1,AI & ML,"ML, RL, DL",Yes
+2257,Ankit K 31,6.3,Mechanical,"CAD, Mechatronics, Thermo",No
+2258,Divya S 19,8.7,Electrical,"Control, Power Systems, Machines",No
+2259,Divya T 33,6.5,Electronics,"VLSI, Circuits, Signals",No
+2260,Aisha S 13,8.2,Electrical,"Machines, Control, EM Theory",No
+2261,Priya T 30,8.1,Electrical,"Control, EM Theory, Power Systems",No
+2262,Ravi M 22,7.1,Data Science,"Stats, ML, Python",No
+2263,Arjun M 24,9.9,Information Tech.,"Web Dev, Security, Networking",No
+2264,Karan M 27,9.8,Electronics,"Embedded, Signals, VLSI",No
+2265,Ravi K 25,8.7,Mechanical,"Thermo, Fluid Mech, Dynamics",No
+2266,Meera S 24,7.0,Electrical,"Power Systems, EM Theory, Control",No
+2267,Rahul S 31,9.1,Mechanical,"Mechatronics, CAD, Fluid Mech",No
+2268,Aisha R 36,5.9,Computer Sci.,"Python, Java, DBMS",Yes
+2269,Ravi T 22,8.5,Mechanical,"Fluid Mech, Mechatronics, CAD",No
+2270,Aisha T 21,6.3,Data Science,"ML, Stats, Python",No
+2271,Aisha S 14,6.5,AI & ML,"AI, DL, RL",No
+2272,Sneha S 26,6.2,Computer Sci.,"DSA, Java, DBMS",No
+2273,Aisha K 31,5.4,Mechanical,"Fluid Mech, Mechatronics, Thermo",Yes
+2274,Karan S 27,8.3,Data Science,"Data Mining, NLP, ML",No
+2275,Ankit R 28,6.4,Mechanical,"Dynamics, Fluid Mech, Thermo",No
+2276,Priya T 31,9.7,Data Science,"Python, Stats, ML",No
+2277,Ankit S 34,7.9,Data Science,"ML, NLP, Data Mining",No
+2278,Aisha M 27,7.1,Civil,"Surveying, Structural, Concrete Tech",No
+2279,Priya S 23,7.7,Computer Sci.,"CN, AI, OS",No
+2280,Divya M 31,5.9,Computer Sci.,"Java, OS, Python",Yes
+2281,Divya T 34,5.0,Mechanical,"CAD, Dynamics, Mechatronics",Yes
+2282,Ankit R 29,8.9,Electronics,"Signals, Circuits, Digital Logic",No
+2283,Ravi M 23,6.5,Computer Sci.,"CN, Python, DSA",No
+2284,Divya S 20,6.8,Computer Sci.,"OS, Java, AI",No
+2285,Rahul K 17,6.6,Mechanical,"Thermo, Fluid Mech, Dynamics",No
+2286,Ankit T 21,5.9,Electrical,"EM Theory, Power Systems, Machines",Yes
+2287,Priya K 29,7.9,Computer Sci.,"OS, Java, Python",No
+2288,Ravi T 23,8.4,Mechanical,"Fluid Mech, Mechatronics, CAD",No
+2289,Karan K 31,7.5,Mechanical,"CAD, Fluid Mech, Mechatronics",No
+2290,Meera T 23,7.4,Information Tech.,"Java, Web Dev, OS",No
+2291,Ankit S 35,9.9,AI & ML,"AI, ML, NLP",No
+2292,Ankit S 36,6.2,Computer Sci.,"OS, AI, Java",No
+2293,Aisha M 28,6.9,Computer Sci.,"OS, DBMS, Java",No
+2294,Priya S 24,5.4,Information Tech.,"Networking, Web Dev, Java",Yes
+2295,Meera S 25,6.2,Data Science,"NLP, Data Mining, Stats",No
+2296,Sneha R 29,8.8,Electrical,"EM Theory, Control, Power Systems",No
+2297,Ankit T 22,8.0,Mechanical,"CAD, Thermo, Dynamics",No
+2298,Meera K 21,7.6,Computer Sci.,"CN, Java, AI",No
+2299,Priya S 25,9.4,Electrical,"Control, Machines, Power Systems",No
+2300,Divya R 30,5.2,Data Science,"Data Mining, Stats, NLP",Yes
+2301,Arjun M 25,9.0,Electrical,"Machines, EM Theory, Control",No
+2302,Karan M 28,8.6,Computer Sci.,"CN, OS, Python",No
+2303,Aisha T 22,9.5,Electrical,"Power Systems, EM Theory, Control",No
+2304,Aisha R 37,7.7,Electrical,"Control, Machines, Power Systems",No
+2305,Meera S 26,8.0,Data Science,"Python, ML, Stats",No
+2306,Rahul K 18,6.9,Information Tech.,"Web Dev, OS, Security",No
+2307,Karan S 28,6.8,Electronics,"Signals, Embedded, VLSI",No
+2308,Priya R 22,9.2,Mechanical,"CAD, Thermo, Mechatronics",No
+2309,Priya K 30,5.8,Electrical,"EM Theory, Power Systems, Machines",Yes
+2310,Divya M 32,7.8,Civil,"Geotech, Concrete Tech, Structural",No
+2311,Aisha K 32,5.9,Data Science,"ML, Data Mining, NLP",Yes
+2312,Meera K 22,6.6,Information Tech.,"Web Dev, Java, Networking",No
+2313,Rahul R 24,6.8,Computer Sci.,"DBMS, Java, DSA",No
+2314,Karan T 22,9.8,Data Science,"ML, NLP, Data Mining",No
+2315,Aisha S 15,6.5,Electrical,"Control, EM Theory, Machines",No
+2316,Priya M 22,5.0,Electrical,"Control, Power Systems, Machines",Yes
+2317,Priya T 32,7.8,Civil,"Surveying, Structural, Geotech",No
+2318,Priya T 33,7.4,Mechanical,"Mechatronics, Thermo, Fluid Mech",No
+2319,Priya T 34,5.5,Information Tech.,"Java, Networking, Security",Yes
+2320,Meera R 25,9.6,Computer Sci.,"Java, DBMS, OS",No
+2321,Ravi T 24,9.8,AI & ML,"DL, AI, NLP",No
+2322,Arjun S 33,6.4,Mechanical,"Fluid Mech, Mechatronics, Dynamics",No
+2323,Rahul T 28,5.8,Information Tech.,"Security, Java, OS",Yes
+2324,Divya T 35,5.6,Computer Sci.,"AI, CN, DBMS",Yes
+2325,Rahul T 29,9.6,Mechanical,"Thermo, Mechatronics, Fluid Mech",No
+2326,Karan M 29,5.9,Electrical,"Machines, EM Theory, Control",Yes
+2327,Priya M 23,6.9,Electronics,"VLSI, Digital Logic, Embedded",No
+2328,Ravi K 26,8.4,Data Science,"Data Mining, Stats, NLP",No
+2329,Ravi T 25,5.1,Civil,"Structural, Geotech, Concrete Tech",Yes
+2330,Ravi R 27,5.6,Electronics,"Embedded, Circuits, Signals",Yes
+2331,Rahul R 25,7.9,Computer Sci.,"AI, Java, OS",No
+2332,Aisha K 33,5.8,Computer Sci.,"DSA, CN, AI",Yes
+2333,Arjun S 34,7.4,Civil,"Structural, Geotech, Surveying",No
+2334,Meera M 25,9.0,Information Tech.,"OS, Security, Java",No
+2335,Arjun T 20,9.2,Computer Sci.,"OS, Java, AI",No
+2336,Arjun M 26,6.8,Civil,"Surveying, Geotech, Structural",No
+2337,Arjun K 34,7.3,Electronics,"Embedded, Digital Logic, Circuits",No
+2338,Ankit S 37,9.1,Civil,"Surveying, Geotech, Structural",No
+2339,Priya T 35,7.4,Mechanical,"Thermo, Mechatronics, CAD",No
+2340,Meera R 26,5.8,Data Science,"NLP, Stats, Python",Yes
+2341,Divya M 33,7.3,Information Tech.,"Security, OS, Java",No
+2342,Sneha T 30,7.8,Mechanical,"Fluid Mech, Thermo, Mechatronics",No
+2343,Meera S 27,7.4,Civil,"Structural, Surveying, Concrete Tech",No
+2344,Aisha M 29,6.1,Electrical,"Control, Power Systems, EM Theory",No
+2345,Aisha T 23,9.3,Computer Sci.,"OS, DBMS, Java",No
+2346,Divya R 31,5.5,Information Tech.,"Web Dev, Networking, OS",Yes
+2347,Sneha T 31,10.0,Data Science,"Stats, ML, Data Mining",No
+2348,Ankit S 38,5.7,Information Tech.,"Web Dev, OS, Networking",Yes
+2349,Meera T 24,7.1,Mechanical,"Dynamics, Mechatronics, Fluid Mech",No
+2350,Arjun T 21,9.0,Information Tech.,"Java, Networking, Web Dev",No
+2351,Meera M 26,9.9,Civil,"Structural, Surveying, Geotech",No
+2352,Arjun S 35,8.1,Electrical,"Power Systems, Machines, EM Theory",No
+2353,Karan M 30,9.3,Mechanical,"Thermo, Mechatronics, Dynamics",No
+2354,Priya S 26,7.2,Mechanical,"Dynamics, Fluid Mech, CAD",No
+2355,Ankit K 32,5.0,Mechanical,"Dynamics, CAD, Fluid Mech",Yes
+2356,Rahul M 38,9.8,Data Science,"Stats, ML, NLP",No
+2357,Priya S 27,7.5,Civil,"Concrete Tech, Structural, Geotech",No
+2358,Aisha T 24,7.7,Electronics,"VLSI, Digital Logic, Embedded",No
+2359,Aisha S 16,8.1,Computer Sci.,"DSA, DBMS, CN",No
+2360,Divya T 36,9.7,Electrical,"Power Systems, Machines, EM Theory",No
+2361,Sneha K 27,9.6,AI & ML,"NLP, ML, AI",No
+2362,Ravi K 27,5.1,Electronics,"VLSI, Embedded, Signals",Yes
+2363,Karan M 31,5.9,AI & ML,"ML, DL, NLP",Yes
+2364,Ankit K 33,9.5,AI & ML,"DL, RL, AI",No
+2365,Ravi K 28,5.8,Computer Sci.,"Java, DBMS, AI",Yes
+2366,Divya S 21,7.8,Electronics,"VLSI, Embedded, Digital Logic",No
+2367,Ankit K 34,9.5,Civil,"Geotech, Surveying, Concrete Tech",No
+2368,Priya S 28,6.8,Electrical,"Power Systems, Machines, Control",No
+2369,Rahul R 26,9.7,Data Science,"Python, NLP, Data Mining",No
+2370,Ravi T 26,6.7,Mechanical,"Dynamics, Thermo, Fluid Mech",No
+2371,Ankit R 30,9.0,Civil,"Geotech, Surveying, Concrete Tech",No
+2372,Ravi R 28,5.4,AI & ML,"DL, NLP, RL",Yes
+2373,Karan M 32,6.7,Civil,"Geotech, Structural, Surveying",No
+2374,Priya M 24,6.4,Civil,"Geotech, Concrete Tech, Structural",No
+2375,Ankit T 23,9.2,Electrical,"Control, Power Systems, EM Theory",No
+2376,Ankit T 24,5.7,AI & ML,"ML, AI, NLP",Yes
+2377,Ankit T 25,8.5,Data Science,"Stats, ML, Data Mining",No
+2378,Karan R 19,6.2,Computer Sci.,"DBMS, OS, AI",No
+2379,Rahul T 30,6.2,AI & ML,"RL, AI, NLP",No
+2380,Ankit M 30,5.5,AI & ML,"DL, ML, RL",Yes
+2381,Aisha M 30,9.0,Computer Sci.,"Java, OS, AI",No
+2382,Rahul K 19,5.2,Mechanical,"Mechatronics, Fluid Mech, Thermo",Yes
+2383,Ravi K 29,7.1,AI & ML,"NLP, ML, RL",No
+2384,Rahul K 20,6.8,Mechanical,"Dynamics, Mechatronics, Fluid Mech",No
+2385,Rahul T 31,7.8,Civil,"Surveying, Structural, Concrete Tech",No
+2386,Meera K 23,7.0,Electrical,"Power Systems, Control, EM Theory",No
+2387,Meera R 27,8.9,Electronics,"VLSI, Circuits, Embedded",No
+2388,Arjun K 35,9.1,Mechanical,"Thermo, Fluid Mech, Mechatronics",No
+2389,Ravi K 30,9.4,Electronics,"Embedded, Digital Logic, Circuits",No
+2390,Arjun M 27,7.4,Electronics,"Digital Logic, Signals, Embedded",No
+2391,Rahul T 32,8.4,Data Science,"Stats, Python, ML",No
+2392,Sneha S 27,6.2,Electrical,"Machines, EM Theory, Power Systems",No
+2393,Rahul K 21,5.7,Civil,"Geotech, Structural, Surveying",Yes
+2394,Aisha S 17,8.1,Civil,"Geotech, Structural, Concrete Tech",No
+2395,Arjun T 22,5.8,Data Science,"Python, Stats, ML",Yes
+2396,Priya K 31,7.9,Electrical,"EM Theory, Machines, Control",No
+2397,Ravi R 29,8.1,Civil,"Concrete Tech, Surveying, Structural",No
+2398,Ankit R 31,5.7,Mechanical,"Thermo, Dynamics, Mechatronics",Yes
+2399,Arjun T 23,9.8,Mechanical,"Mechatronics, Fluid Mech, Dynamics",No
+2400,Priya R 23,8.4,Electrical,"Machines, Control, EM Theory",No
+2401,Rahul M 39,6.2,AI & ML,"RL, ML, NLP",No
+2402,Rahul S 32,8.2,Information Tech.,"Web Dev, Java, Security",No
+2403,Sneha S 28,5.8,Electronics,"Circuits, Signals, Digital Logic",Yes
+2404,Meera K 24,9.1,Mechanical,"Thermo, Dynamics, Mechatronics",No
+2405,Arjun K 36,8.1,Mechanical,"Mechatronics, Thermo, CAD",No
+2406,Ravi T 27,5.9,Data Science,"NLP, Data Mining, ML",Yes
+2407,Priya M 25,6.4,Mechanical,"CAD, Mechatronics, Dynamics",No
+2408,Divya K 20,7.9,Information Tech.,"Web Dev, Security, OS",No
+2409,Priya S 29,8.0,Electronics,"Signals, VLSI, Digital Logic",No
+2410,Ankit M 31,6.7,Electrical,"Machines, EM Theory, Power Systems",No
+2411,Meera M 27,7.3,Electronics,"Circuits, VLSI, Digital Logic",No
+2412,Ankit S 39,9.1,Information Tech.,"Java, OS, Web Dev",No
+2413,Meera T 25,5.1,Civil,"Structural, Concrete Tech, Geotech",Yes
+2414,Aisha T 25,5.3,Electronics,"Embedded, Digital Logic, Signals",Yes
+2415,Ankit K 35,9.1,AI & ML,"DL, RL, ML",No
+2416,Meera K 25,9.2,Data Science,"Data Mining, NLP, Stats",No
+2417,Rahul K 22,5.1,Electrical,"Machines, Control, EM Theory",Yes
+2418,Sneha K 28,5.0,Computer Sci.,"Python, AI, OS",Yes
+2419,Divya R 32,8.0,Civil,"Concrete Tech, Surveying, Structural",No
+2420,Meera M 28,5.9,Electronics,"Embedded, Signals, Circuits",Yes
+2421,Rahul K 23,10.0,Computer Sci.,"OS, Python, CN",No
+2422,Ankit M 32,7.2,Computer Sci.,"OS, Python, DBMS",No
+2423,Priya M 26,8.8,Data Science,"Stats, Data Mining, NLP",No
+2424,Meera T 26,5.1,Electrical,"Control, Machines, EM Theory",Yes
+2425,Priya R 24,7.3,Information Tech.,"OS, Security, Networking",No
+2426,Karan R 20,7.2,Mechanical,"Fluid Mech, Mechatronics, Dynamics",No
+2427,Karan R 21,9.9,Electrical,"Machines, EM Theory, Power Systems",No
+2428,Ravi R 30,6.5,Electrical,"Power Systems, Control, Machines",No
+2429,Meera S 28,7.3,Electronics,"Embedded, Circuits, Signals",No
+2430,Karan M 33,7.4,Mechanical,"Dynamics, Fluid Mech, Thermo",No
+2431,Rahul K 24,5.3,Mechanical,"Thermo, Mechatronics, Fluid Mech",Yes
+2432,Meera M 29,7.9,Electrical,"Control, Power Systems, EM Theory",No
+2433,Arjun S 36,8.9,Data Science,"Stats, Data Mining, NLP",No
+2434,Rahul T 33,6.6,Electrical,"EM Theory, Power Systems, Control",No
+2435,Ankit M 33,5.2,Electronics,"Embedded, Circuits, VLSI",Yes
+2436,Arjun S 37,7.0,Civil,"Surveying, Geotech, Structural",No
+2437,Aisha R 38,5.5,Civil,"Concrete Tech, Structural, Geotech",Yes
+2438,Arjun S 38,6.5,Civil,"Geotech, Surveying, Concrete Tech",No
+2439,Arjun S 39,5.3,Electronics,"Circuits, VLSI, Signals",Yes
+2440,Priya K 32,7.8,AI & ML,"ML, DL, NLP",No
+2441,Ankit T 26,8.9,Electronics,"VLSI, Embedded, Digital Logic",No
+2442,Karan T 23,9.4,Civil,"Concrete Tech, Structural, Surveying",No
+2443,Rahul T 34,5.7,Electrical,"Control, Machines, Power Systems",Yes
+2444,Meera M 30,7.4,Civil,"Geotech, Structural, Surveying",No
+2445,Aisha T 26,8.5,Electrical,"Machines, Control, EM Theory",No
+2446,Ravi M 24,5.8,Information Tech.,"Security, Networking, Web Dev",Yes
+2447,Arjun S 40,6.0,Data Science,"Stats, Python, NLP",No
+2448,Sneha T 32,5.6,Electrical,"Power Systems, Machines, EM Theory",Yes
+2449,Sneha M 19,8.9,AI & ML,"NLP, ML, RL",No
+2450,Sneha K 29,8.2,Mechanical,"Dynamics, CAD, Thermo",No
+2451,Priya T 36,6.0,Mechanical,"Fluid Mech, Dynamics, Thermo",No
+2452,Rahul S 33,6.7,Information Tech.,"OS, Web Dev, Networking",No
+2453,Divya R 33,5.7,Mechanical,"Thermo, Fluid Mech, Mechatronics",Yes
+2454,Meera T 27,9.0,Electronics,"Signals, Embedded, Digital Logic",No
+2455,Rahul T 35,5.4,Electronics,"Circuits, Digital Logic, Embedded",Yes
+2456,Meera M 31,6.7,Mechanical,"Thermo, CAD, Mechatronics",No
+2457,Divya K 21,6.3,AI & ML,"RL, ML, DL",No
+2458,Priya M 27,8.5,Computer Sci.,"CN, DBMS, Java",No
+2459,Rahul M 40,5.9,AI & ML,"AI, RL, ML",Yes
+2460,Meera K 26,9.0,AI & ML,"RL, ML, DL",No
+2461,Rahul R 27,9.7,Electrical,"Control, Machines, Power Systems",No
+2462,Ravi M 25,9.2,Electrical,"Power Systems, EM Theory, Machines",No
+2463,Aisha T 27,8.1,Electrical,"Machines, Power Systems, Control",No
+2464,Priya T 37,9.6,Electrical,"Power Systems, Machines, EM Theory",No
+2465,Arjun K 37,7.1,Electrical,"Control, Machines, EM Theory",No
+2466,Priya T 38,9.2,Electrical,"EM Theory, Control, Power Systems",No
+2467,Sneha M 20,8.0,Data Science,"NLP, Data Mining, Stats",No
+2468,Ankit R 32,5.6,Mechanical,"Fluid Mech, Thermo, Dynamics",Yes
+2469,Aisha R 39,7.9,Information Tech.,"Networking, Web Dev, OS",No
+2470,Sneha R 30,8.3,Information Tech.,"Java, Web Dev, Security",No
+2471,Ravi T 28,6.8,Electronics,"Digital Logic, Embedded, Signals",No
+2472,Meera R 28,8.2,AI & ML,"RL, AI, DL",No
+2473,Divya S 22,8.4,Civil,"Geotech, Surveying, Structural",No
+2474,Sneha T 33,6.5,Information Tech.,"Networking, Java, Web Dev",No
+2475,Karan M 34,5.4,Data Science,"Stats, NLP, ML",Yes
+2476,Arjun T 24,8.8,Mechanical,"Fluid Mech, CAD, Mechatronics",No
+2477,Priya M 28,9.4,Computer Sci.,"DBMS, Python, AI",No
+2478,Ankit R 33,7.3,Data Science,"Stats, ML, Python",No
+2479,Sneha K 30,7.0,Data Science,"ML, NLP, Stats",No
+2480,Aisha K 34,7.2,AI & ML,"ML, RL, NLP",No
+2481,Priya M 29,7.1,Information Tech.,"Web Dev, Java, Networking",No
+2482,Ankit M 34,9.6,Information Tech.,"OS, Web Dev, Networking",No
+2483,Priya S 30,7.4,Computer Sci.,"DSA, OS, Python",No
+2484,Meera M 32,9.6,AI & ML,"RL, NLP, ML",No
+2485,Meera T 28,9.8,Information Tech.,"Web Dev, OS, Java",No
+2486,Aisha T 28,9.5,Civil,"Concrete Tech, Surveying, Structural",No
+2487,Aisha R 40,6.8,Information Tech.,"Java, Web Dev, Networking",No
+2488,Ankit S 40,5.3,Civil,"Geotech, Surveying, Concrete Tech",Yes
+2489,Rahul T 36,7.8,Data Science,"NLP, Python, ML",No
+2490,Karan R 22,9.1,Mechanical,"CAD, Thermo, Mechatronics",No
+2491,Meera S 29,8.1,Electrical,"EM Theory, Machines, Control",No
+2492,Sneha R 31,7.0,Information Tech.,"Web Dev, Networking, Security",No
+2493,Arjun K 38,9.1,Electronics,"Digital Logic, Embedded, VLSI",No
+2494,Ravi S 24,8.4,Data Science,"Python, NLP, Stats",No
+2495,Ankit S 41,9.7,Electrical,"Control, EM Theory, Machines",No
+2496,Rahul R 28,5.4,Electronics,"Digital Logic, Signals, Embedded",Yes
+2497,Ravi T 29,7.3,Electronics,"Digital Logic, Signals, Circuits",No
+2498,Rahul R 29,7.1,Civil,"Structural, Concrete Tech, Geotech",No
+2499,Meera M 33,6.1,AI & ML,"NLP, ML, RL",No
+2500,Ravi M 26,7.2,Information Tech.,"OS, Security, Java",No
+2501,Aisha S 18,5.3,Computer Sci.,"CN, AI, Java",Yes
+2502,Karan K 32,6.4,Computer Sci.,"AI, Python, DBMS",No
+2503,Meera T 29,6.5,AI & ML,"AI, DL, RL",No
+2504,Divya S 23,9.3,Electronics,"Circuits, Digital Logic, Embedded",No
+2505,Sneha T 34,7.1,AI & ML,"DL, ML, NLP",No
+2506,Karan K 33,9.7,Mechanical,"Thermo, Fluid Mech, CAD",No
+2507,Ravi M 27,5.3,Mechanical,"Dynamics, CAD, Thermo",Yes
+2508,Priya T 39,7.0,Electronics,"Circuits, Embedded, Digital Logic",No
+2509,Ravi S 25,9.3,Electrical,"EM Theory, Power Systems, Control",No
+2510,Karan M 35,5.3,Data Science,"NLP, Stats, Python",Yes
+2511,Arjun S 41,7.7,Computer Sci.,"Python, OS, AI",No
+2512,Divya S 24,6.8,Information Tech.,"Java, Security, Web Dev",No
+2513,Karan T 24,8.7,AI & ML,"RL, AI, DL",No
+2514,Priya T 40,8.6,Computer Sci.,"OS, DSA, CN",No
+2515,Karan K 34,7.3,Electrical,"Power Systems, Control, EM Theory",No
+2516,Priya M 30,7.9,Mechanical,"Dynamics, CAD, Mechatronics",No
+2517,Meera T 30,6.4,Data Science,"NLP, ML, Stats",No
+2518,Rahul K 25,5.5,AI & ML,"RL, AI, DL",Yes
+2519,Sneha S 29,7.7,Mechanical,"Thermo, Dynamics, Mechatronics",No
+2520,Divya R 34,5.6,Mechanical,"CAD, Mechatronics, Fluid Mech",Yes
+2521,Meera R 29,9.0,Civil,"Concrete Tech, Structural, Geotech",No
+2522,Ankit M 35,5.5,AI & ML,"AI, RL, NLP",Yes
+2523,Arjun R 31,8.5,Data Science,"Stats, Python, Data Mining",No
+2524,Aisha K 35,8.4,Mechanical,"Dynamics, Mechatronics, Fluid Mech",No
+2525,Meera T 31,6.4,Computer Sci.,"DBMS, AI, Python",No
+2526,Sneha K 31,7.7,Civil,"Geotech, Surveying, Structural",No
+2527,Rahul K 26,9.3,Electrical,"Power Systems, Machines, Control",No
+2528,Meera K 27,6.8,Computer Sci.,"AI, DSA, OS",No
+2529,Arjun S 42,7.7,Mechanical,"Mechatronics, Dynamics, Thermo",No
+2530,Rahul M 41,8.9,Civil,"Concrete Tech, Surveying, Structural",No
+2531,Karan T 25,9.6,Data Science,"Data Mining, NLP, ML",No
+2532,Meera M 34,5.6,Information Tech.,"Web Dev, OS, Networking",Yes
+2533,Karan M 36,7.7,AI & ML,"NLP, DL, AI",No
+2534,Ravi T 30,8.5,Civil,"Geotech, Structural, Surveying",No
+2535,Ravi T 31,6.6,Computer Sci.,"Java, AI, OS",No
+2536,Divya S 25,5.4,Civil,"Geotech, Structural, Concrete Tech",Yes
+2537,Priya T 41,9.4,Electrical,"Machines, EM Theory, Power Systems",No
+2538,Ravi T 32,7.4,Computer Sci.,"Python, Java, DSA",No
+2539,Aisha S 19,7.4,Electronics,"Signals, Embedded, Digital Logic",No
+2540,Arjun T 25,6.7,Civil,"Surveying, Structural, Geotech",No
+2541,Karan R 23,5.5,AI & ML,"DL, AI, RL",Yes
+2542,Divya M 34,8.1,AI & ML,"ML, AI, DL",No
+2543,Karan K 35,5.7,Electrical,"Power Systems, Machines, EM Theory",Yes
+2544,Meera M 35,9.2,Electrical,"Power Systems, Control, EM Theory",No
+2545,Karan T 26,7.7,Data Science,"NLP, Data Mining, ML",No
+2546,Rahul T 37,8.8,Electronics,"Circuits, VLSI, Digital Logic",No
+2547,Ravi T 33,9.4,Civil,"Surveying, Concrete Tech, Geotech",No
+2548,Rahul T 38,8.5,Information Tech.,"Web Dev, Java, Security",No
+2549,Ankit K 36,5.6,Electrical,"Machines, EM Theory, Control",Yes
+2550,Ankit S 42,7.0,Information Tech.,"Networking, Java, Web Dev",No
+2551,Divya M 35,8.3,AI & ML,"RL, DL, ML",No
+2552,Aisha M 31,9.6,Mechanical,"Thermo, Dynamics, CAD",No
+2553,Meera R 30,5.9,Mechanical,"Mechatronics, Thermo, CAD",Yes
+2554,Arjun M 28,8.5,Information Tech.,"Web Dev, Java, OS",No
+2555,Ankit M 36,6.7,Civil,"Geotech, Concrete Tech, Structural",No
+2556,Ravi M 28,5.3,AI & ML,"AI, NLP, RL",Yes
+2557,Meera S 30,6.5,Civil,"Surveying, Geotech, Concrete Tech",No
+2558,Arjun S 43,5.8,Civil,"Surveying, Concrete Tech, Structural",Yes
+2559,Priya R 25,8.1,Data Science,"Python, NLP, ML",No
+2560,Arjun M 29,8.2,Electrical,"Control, Power Systems, EM Theory",No
+2561,Ankit S 43,9.4,Electrical,"EM Theory, Power Systems, Machines",No
+2562,Ravi T 34,7.2,Civil,"Structural, Geotech, Surveying",No
+2563,Ankit T 27,6.9,Civil,"Structural, Geotech, Surveying",No
+2564,Aisha M 32,7.2,Civil,"Structural, Surveying, Geotech",No
+2565,Meera S 31,8.9,Civil,"Structural, Concrete Tech, Geotech",No
+2566,Arjun M 30,7.4,Mechanical,"Fluid Mech, Dynamics, CAD",No
+2567,Karan T 27,5.9,Computer Sci.,"AI, Java, DSA",Yes
+2568,Rahul K 27,5.1,Civil,"Geotech, Structural, Concrete Tech",Yes
+2569,Meera R 31,7.5,Mechanical,"Dynamics, CAD, Fluid Mech",No
+2570,Karan T 28,7.5,Electronics,"Signals, Circuits, Embedded",No
+2571,Meera K 28,7.0,AI & ML,"RL, NLP, ML",No
+2572,Sneha R 32,6.6,Data Science,"Data Mining, Python, ML",No
+2573,Divya M 36,8.3,Information Tech.,"Java, Web Dev, Security",No
+2574,Divya K 22,7.0,Data Science,"Stats, Data Mining, NLP",No
+2575,Sneha S 30,5.7,Electronics,"Digital Logic, Circuits, Signals",Yes
+2576,Ravi R 31,9.7,Data Science,"ML, Python, NLP",No
+2577,Sneha R 33,9.2,Mechanical,"Thermo, CAD, Fluid Mech",No
+2578,Meera T 32,6.7,Computer Sci.,"DSA, OS, Python",No
+2579,Arjun K 39,9.1,Information Tech.,"Java, Security, OS",No
+2580,Arjun K 40,6.3,Information Tech.,"Networking, Web Dev, Java",No
+2581,Meera T 33,9.0,Information Tech.,"Web Dev, Java, Networking",No
+2582,Divya S 26,8.9,Data Science,"NLP, Python, Stats",No
+2583,Aisha S 20,6.6,Electronics,"Signals, Digital Logic, Circuits",No
+2584,Rahul S 34,8.0,Computer Sci.,"Java, CN, Python",No
+2585,Ravi T 35,8.0,Electronics,"Signals, Circuits, Embedded",No
+2586,Meera R 32,8.8,Mechanical,"CAD, Mechatronics, Thermo",No
+2587,Karan R 24,9.3,Data Science,"ML, Data Mining, Python",No
+2588,Meera R 33,5.2,Civil,"Concrete Tech, Surveying, Structural",Yes
+2589,Aisha T 29,7.2,Civil,"Concrete Tech, Surveying, Structural",No
+2590,Sneha T 35,5.0,Computer Sci.,"Java, OS, DBMS",Yes
+2591,Meera K 29,7.4,Electrical,"EM Theory, Control, Machines",No
+2592,Arjun S 44,8.5,AI & ML,"DL, AI, NLP",No
+2593,Arjun M 31,6.5,AI & ML,"ML, NLP, RL",No
+2594,Arjun M 32,9.0,Electrical,"EM Theory, Power Systems, Machines",No
+2595,Rahul M 42,5.8,AI & ML,"RL, DL, AI",Yes
+2596,Karan K 36,8.3,Mechanical,"Fluid Mech, Thermo, Mechatronics",No
+2597,Ravi M 29,6.6,Electronics,"VLSI, Signals, Digital Logic",No
+2598,Rahul R 30,8.3,Mechanical,"Dynamics, CAD, Fluid Mech",No
+2599,Ravi M 30,6.7,Data Science,"ML, Stats, Python",No
+2600,Rahul R 31,7.6,Mechanical,"Dynamics, Fluid Mech, Mechatronics",No
+2601,Ankit K 37,9.6,Electrical,"EM Theory, Control, Machines",No
+2602,Divya T 37,8.5,AI & ML,"ML, AI, RL",No
+2603,Rahul S 35,9.6,Electronics,"VLSI, Signals, Digital Logic",No
+2604,Rahul M 43,8.7,Electronics,"Circuits, VLSI, Signals",No
+2605,Priya S 31,10.0,Mechanical,"Thermo, Fluid Mech, CAD",No
+2606,Meera S 32,9.7,Information Tech.,"Security, OS, Java",No
+2607,Karan K 37,8.2,Computer Sci.,"Python, DSA, AI",No
+2608,Priya T 42,5.1,Information Tech.,"OS, Web Dev, Java",Yes
+2609,Ravi R 32,6.2,Computer Sci.,"Python, CN, AI",No
+2610,Ravi T 36,8.7,Civil,"Concrete Tech, Surveying, Geotech",No
+2611,Sneha T 36,7.2,Civil,"Geotech, Surveying, Concrete Tech",No
+2612,Arjun S 45,6.7,Information Tech.,"Networking, Java, Security",No
+2613,Meera M 36,6.3,Civil,"Concrete Tech, Geotech, Surveying",No
+2614,Arjun R 32,6.2,Electrical,"Power Systems, EM Theory, Control",No
+2615,Ankit K 38,8.1,Computer Sci.,"DSA, Python, Java",No
+2616,Ravi K 31,6.6,Civil,"Structural, Concrete Tech, Geotech",No
+2617,Priya M 31,8.5,Electrical,"Power Systems, Machines, EM Theory",No
+2618,Divya S 27,9.3,Civil,"Concrete Tech, Surveying, Geotech",No
+2619,Priya S 32,9.7,Electrical,"Machines, EM Theory, Power Systems",No
+2620,Arjun K 41,9.6,Electrical,"Control, EM Theory, Machines",No
+2621,Karan R 25,6.4,Information Tech.,"Networking, Java, Web Dev",No
+2622,Divya T 38,5.1,Electrical,"Machines, Control, EM Theory",Yes
+2623,Aisha M 33,5.0,Mechanical,"Mechatronics, Dynamics, Thermo",Yes
+2624,Ravi M 31,9.1,Information Tech.,"Java, Networking, Web Dev",No
+2625,Ankit K 39,6.7,Civil,"Geotech, Concrete Tech, Surveying",No
+2626,Aisha S 21,9.7,Electrical,"Machines, Control, EM Theory",No
+2627,Ravi M 32,9.9,Data Science,"Python, ML, Data Mining",No
+2628,Aisha K 36,5.4,Electronics,"Embedded, Signals, Circuits",Yes
+2629,Rahul K 28,7.5,Electrical,"Power Systems, EM Theory, Machines",No
+2630,Aisha K 37,6.8,AI & ML,"DL, ML, RL",No
+2631,Arjun T 26,5.8,Information Tech.,"Security, OS, Java",Yes
+2632,Sneha K 32,7.1,Electronics,"Signals, Embedded, VLSI",No
+2633,Arjun M 33,5.3,Electronics,"Embedded, VLSI, Circuits",Yes
+2634,Priya R 26,9.5,Information Tech.,"Security, Java, OS",No
+2635,Divya R 35,7.6,AI & ML,"RL, AI, ML",No
+2636,Ravi T 37,10.0,Data Science,"ML, NLP, Python",No
+2637,Divya K 23,6.5,Data Science,"Data Mining, Stats, NLP",No
+2638,Priya M 32,7.2,AI & ML,"ML, AI, DL",No
+2639,Sneha T 37,6.0,Mechanical,"Fluid Mech, Dynamics, CAD",No
+2640,Sneha T 38,5.8,Data Science,"ML, Stats, Data Mining",Yes
+2641,Priya T 43,5.9,AI & ML,"DL, NLP, AI",Yes
+2642,Priya R 27,9.3,Data Science,"Stats, ML, Python",No
+2643,Arjun K 42,6.4,Electronics,"Embedded, VLSI, Digital Logic",No
+2644,Aisha R 41,7.9,Data Science,"Stats, NLP, ML",No
+2645,Sneha S 31,7.0,Electronics,"Signals, VLSI, Digital Logic",No
+2646,Arjun K 43,6.4,Computer Sci.,"Java, AI, OS",No
+2647,Priya T 44,8.8,Electrical,"Machines, Power Systems, Control",No
+2648,Arjun T 27,9.2,Mechanical,"Mechatronics, Fluid Mech, Thermo",No
+2649,Rahul R 32,8.0,Information Tech.,"Networking, Security, Java",No
+2650,Meera R 34,5.8,Electrical,"Power Systems, EM Theory, Control",Yes
+2651,Aisha K 38,8.3,Computer Sci.,"DBMS, CN, DSA",No
+2652,Ravi M 33,6.4,Electronics,"VLSI, Embedded, Signals",No
+2653,Arjun S 46,6.1,Civil,"Concrete Tech, Surveying, Structural",No
+2654,Priya S 33,5.8,Electronics,"VLSI, Circuits, Digital Logic",Yes
+2655,Ravi M 34,8.8,Data Science,"NLP, ML, Python",No
+2656,Rahul R 33,8.0,Information Tech.,"OS, Web Dev, Java",No
+2657,Arjun R 33,9.2,Electrical,"Power Systems, Machines, Control",No
+2658,Rahul R 34,7.2,AI & ML,"AI, RL, DL",No
+2659,Ankit K 40,9.0,Information Tech.,"Networking, OS, Security",No
+2660,Aisha S 22,8.7,Computer Sci.,"OS, DSA, DBMS",No
+2661,Ankit R 34,9.1,Electrical,"Machines, Power Systems, EM Theory",No
+2662,Ravi K 32,9.4,Mechanical,"Mechatronics, Fluid Mech, Dynamics",No
+2663,Rahul R 35,9.2,Mechanical,"CAD, Fluid Mech, Thermo",No
+2664,Arjun T 28,8.1,Civil,"Concrete Tech, Geotech, Structural",No
+2665,Aisha R 42,6.1,AI & ML,"DL, RL, NLP",No
+2666,Aisha T 30,9.8,Civil,"Surveying, Geotech, Structural",No
+2667,Priya S 34,6.4,Computer Sci.,"Java, DBMS, DSA",No
+2668,Arjun K 44,8.4,Computer Sci.,"DSA, OS, DBMS",No
+2669,Meera M 37,5.9,Data Science,"ML, NLP, Data Mining",Yes
+2670,Aisha S 23,6.8,Computer Sci.,"CN, Java, DSA",No
+2671,Karan R 26,6.3,Computer Sci.,"DSA, OS, AI",No
+2672,Meera R 35,5.1,Mechanical,"Fluid Mech, Dynamics, CAD",Yes
+2673,Aisha K 39,8.7,Data Science,"Stats, NLP, Python",No
+2674,Aisha R 43,8.0,Electrical,"Power Systems, Control, Machines",No
+2675,Divya T 39,7.9,Data Science,"Python, NLP, ML",No
+2676,Rahul K 29,6.4,Electronics,"Signals, Digital Logic, Circuits",No
+2677,Sneha S 32,9.5,Electronics,"Circuits, VLSI, Signals",No
+2678,Ravi T 38,5.1,Computer Sci.,"Java, DSA, Python",Yes
+2679,Ankit K 41,8.7,Mechanical,"Fluid Mech, Thermo, CAD",No
+2680,Rahul R 36,9.5,Mechanical,"CAD, Dynamics, Thermo",No
+2681,Divya K 24,6.0,Electronics,"Circuits, VLSI, Digital Logic",No
+2682,Ankit R 35,7.5,Information Tech.,"OS, Security, Networking",No
+2683,Arjun K 45,8.4,Computer Sci.,"OS, DSA, Java",No
+2684,Arjun M 34,7.0,Electrical,"Power Systems, Control, EM Theory",No
+2685,Sneha K 33,7.1,Electronics,"Circuits, Signals, Embedded",No
+2686,Ravi S 26,9.5,Electrical,"Control, EM Theory, Machines",No
+2687,Meera S 33,8.2,Computer Sci.,"AI, CN, Python",No
+2688,Ravi K 33,8.6,Electronics,"VLSI, Signals, Circuits",No
+2689,Ankit T 28,8.2,Data Science,"Python, ML, Stats",No
+2690,Ravi R 33,5.8,Electrical,"EM Theory, Power Systems, Machines",Yes
+2691,Rahul R 37,6.6,Electronics,"Digital Logic, VLSI, Embedded",No
+2692,Arjun T 29,8.9,Electronics,"Digital Logic, Signals, VLSI",No
+2693,Aisha K 40,7.1,Computer Sci.,"Python, CN, DBMS",No
+2694,Divya T 40,9.3,Computer Sci.,"DSA, CN, Python",No
+2695,Meera M 38,8.3,Computer Sci.,"Java, DBMS, CN",No
+2696,Ravi K 34,5.4,AI & ML,"DL, AI, RL",Yes
+2697,Sneha R 34,9.9,Information Tech.,"Web Dev, Networking, Java",No
+2698,Priya M 33,6.6,Computer Sci.,"DBMS, CN, Java",No
+2699,Priya R 28,6.3,Computer Sci.,"AI, OS, DSA",No
+2700,Ravi K 35,5.2,Civil,"Surveying, Structural, Geotech",Yes
+2701,Ankit T 29,7.7,AI & ML,"RL, ML, AI",No
+2702,Karan R 27,5.6,Data Science,"NLP, Data Mining, ML",Yes
+2703,Ravi S 27,9.1,Mechanical,"Dynamics, Fluid Mech, Thermo",No
+2704,Sneha K 34,6.6,Electrical,"Control, Machines, Power Systems",No
+2705,Ravi S 28,7.4,Information Tech.,"Java, Security, Web Dev",No
+2706,Ravi K 36,8.6,AI & ML,"AI, ML, DL",No
+2707,Ankit R 36,8.9,Electrical,"Control, Power Systems, Machines",No
+2708,Rahul S 36,5.2,Electrical,"Power Systems, Control, Machines",Yes
+2709,Ravi K 37,5.3,Information Tech.,"Java, OS, Web Dev",Yes
+2710,Ravi S 29,7.3,Electronics,"Digital Logic, VLSI, Signals",No
+2711,Arjun S 47,9.0,Information Tech.,"Web Dev, OS, Networking",No
+2712,Karan M 37,8.2,Electrical,"Control, EM Theory, Machines",No
+2713,Sneha T 39,5.2,AI & ML,"ML, RL, DL",Yes
+2714,Ravi M 35,9.9,Information Tech.,"Security, Java, Web Dev",No
+2715,Meera S 34,6.2,Mechanical,"Fluid Mech, Dynamics, Thermo",No
+2716,Ankit T 30,6.2,Electrical,"Machines, EM Theory, Power Systems",No
+2717,Ravi S 30,7.7,Mechanical,"Mechatronics, Dynamics, Fluid Mech",No
+2718,Divya M 37,7.0,Electrical,"Control, EM Theory, Machines",No
+2719,Karan S 29,7.8,Electrical,"Power Systems, Machines, Control",No
+2720,Priya K 33,8.7,Electronics,"Embedded, Signals, Digital Logic",No
+2721,Aisha R 44,8.8,Electrical,"Power Systems, Machines, Control",No
+2722,Divya T 41,9.1,Electronics,"VLSI, Embedded, Circuits",No
+2723,Karan K 38,5.8,Computer Sci.,"DSA, OS, DBMS",Yes
+2724,Rahul R 38,5.9,Electrical,"Power Systems, EM Theory, Control",Yes
+2725,Priya R 29,5.9,Information Tech.,"OS, Java, Security",Yes
+2726,Divya T 42,5.7,Information Tech.,"Web Dev, OS, Java",Yes
+2727,Aisha S 24,9.1,AI & ML,"AI, NLP, DL",No
+2728,Arjun K 46,9.5,Civil,"Structural, Surveying, Geotech",No
+2729,Ankit T 31,6.7,Computer Sci.,"Java, AI, DBMS",No
+2730,Meera R 36,6.9,AI & ML,"NLP, ML, AI",No
+2731,Ravi R 34,6.0,Electrical,"Power Systems, Machines, Control",No
+2732,Priya S 35,6.7,Computer Sci.,"DBMS, AI, CN",No
+2733,Arjun R 34,8.9,AI & ML,"RL, NLP, DL",No
+2734,Karan T 29,5.4,Civil,"Structural, Surveying, Geotech",Yes
+2735,Divya T 43,6.5,Mechanical,"CAD, Fluid Mech, Dynamics",No
+2736,Arjun K 47,6.0,Computer Sci.,"CN, AI, Python",No
+2737,Rahul R 39,9.3,Computer Sci.,"CN, Python, DBMS",No
+2738,Ravi S 31,5.4,Electrical,"EM Theory, Control, Power Systems",Yes
+2739,Sneha K 35,5.2,Data Science,"NLP, Python, Data Mining",Yes
+2740,Arjun T 30,9.3,Computer Sci.,"DSA, DBMS, AI",No
+2741,Meera S 35,9.6,Electrical,"EM Theory, Control, Power Systems",No
+2742,Aisha R 45,6.4,Civil,"Geotech, Structural, Surveying",No
+2743,Priya M 34,5.0,Computer Sci.,"OS, Java, DSA",Yes
+2744,Arjun S 48,8.8,Electronics,"Embedded, Signals, Digital Logic",No
+2745,Karan K 39,9.3,Computer Sci.,"OS, DSA, DBMS",No
+2746,Divya T 44,9.8,Data Science,"Data Mining, Stats, Python",No
+2747,Arjun R 35,9.9,Data Science,"Data Mining, NLP, ML",No
+2748,Ankit R 37,6.3,Civil,"Structural, Surveying, Geotech",No
+2749,Priya T 45,5.6,Mechanical,"Mechatronics, CAD, Thermo",Yes
+2750,Divya K 25,9.0,Data Science,"NLP, Stats, ML",No
+2751,Rahul M 44,9.3,AI & ML,"ML, DL, RL",No
+2752,Aisha M 34,5.7,Computer Sci.,"OS, AI, DBMS",Yes
+2753,Priya S 36,7.7,Civil,"Structural, Geotech, Surveying",No
+2754,Karan K 40,8.3,Data Science,"Data Mining, Stats, ML",No
+2755,Ravi R 35,7.1,Electronics,"Embedded, Circuits, VLSI",No
+2756,Ankit T 32,6.5,Electronics,"Digital Logic, Circuits, VLSI",No
+2757,Ankit M 37,8.4,Computer Sci.,"OS, AI, DSA",No
+2758,Karan M 38,6.3,Electrical,"Power Systems, Machines, Control",No
+2759,Aisha T 31,8.9,Computer Sci.,"AI, OS, Java",No
+2760,Rahul K 30,9.9,Civil,"Geotech, Structural, Surveying",No
+2761,Karan K 41,8.0,Electronics,"Digital Logic, VLSI, Embedded",No
+2762,Meera S 36,9.0,Computer Sci.,"DBMS, Java, DSA",No
+2763,Priya M 35,9.5,Electronics,"Circuits, VLSI, Signals",No
+2764,Priya K 34,7.5,Electronics,"Embedded, Digital Logic, Signals",No
+2765,Meera T 34,5.1,Mechanical,"Thermo, Fluid Mech, CAD",Yes
+2766,Arjun M 35,9.1,Civil,"Structural, Surveying, Concrete Tech",No
+2767,Divya R 36,6.8,Mechanical,"Fluid Mech, Dynamics, CAD",No
+2768,Divya S 28,7.7,Electronics,"Digital Logic, Signals, Circuits",No
+2769,Rahul M 45,9.7,Electronics,"Signals, VLSI, Digital Logic",No
+2770,Priya R 30,7.0,AI & ML,"NLP, AI, RL",No
+2771,Divya S 29,8.2,Information Tech.,"OS, Web Dev, Security",No
+2772,Ravi K 38,5.8,Mechanical,"Thermo, Fluid Mech, CAD",Yes
+2773,Priya K 35,7.6,Civil,"Geotech, Concrete Tech, Surveying",No
+2774,Divya T 45,8.6,Mechanical,"Fluid Mech, CAD, Thermo",No
+2775,Arjun R 36,9.9,Computer Sci.,"Python, CN, OS",No
+2776,Sneha T 40,5.8,Mechanical,"Mechatronics, Thermo, CAD",Yes
+2777,Sneha S 33,10.0,Information Tech.,"OS, Java, Security",No
+2778,Karan R 28,9.1,Information Tech.,"Networking, Web Dev, Java",No
+2779,Karan S 30,6.8,Electronics,"Signals, VLSI, Circuits",No
+2780,Karan R 29,6.3,Civil,"Geotech, Structural, Concrete Tech",No
+2781,Arjun S 49,7.3,Mechanical,"Mechatronics, Dynamics, CAD",No
+2782,Sneha R 35,9.3,Computer Sci.,"Java, OS, Python",No
+2783,Karan R 30,6.0,Mechanical,"Fluid Mech, Mechatronics, Thermo",No
+2784,Ravi T 39,9.9,Electronics,"Circuits, Signals, VLSI",No
+2785,Ankit T 33,8.1,Electronics,"VLSI, Embedded, Signals",No
+2786,Arjun T 31,8.7,Civil,"Structural, Surveying, Concrete Tech",No
+2787,Rahul T 39,8.8,Data Science,"NLP, Stats, Data Mining",No
+2788,Rahul T 40,7.9,Data Science,"Data Mining, ML, Stats",No
+2789,Aisha S 25,9.6,Information Tech.,"Networking, Security, Web Dev",No
+2790,Aisha R 46,5.3,Mechanical,"Dynamics, CAD, Thermo",Yes
+2791,Aisha S 26,8.7,AI & ML,"ML, RL, AI",No
+2792,Sneha R 36,7.5,Data Science,"Python, Data Mining, NLP",No
+2793,Ravi R 36,8.6,Civil,"Surveying, Geotech, Structural",No
+2794,Arjun T 32,7.3,Information Tech.,"Networking, Web Dev, OS",No
+2795,Meera T 35,7.9,Computer Sci.,"CN, OS, AI",No
+2796,Priya R 31,8.5,Data Science,"NLP, Python, ML",No
+2797,Ravi M 36,6.5,Information Tech.,"OS, Java, Web Dev",No
+2798,Sneha T 41,5.1,Electrical,"Power Systems, EM Theory, Control",Yes
+2799,Arjun M 36,7.0,Mechanical,"Dynamics, CAD, Fluid Mech",No
+2800,Arjun T 33,6.4,Computer Sci.,"CN, Java, DBMS",No
+2801,Priya T 46,8.6,Mechanical,"CAD, Dynamics, Thermo",No
+2802,Ravi S 32,8.6,Electronics,"Digital Logic, VLSI, Embedded",No
+2803,Sneha M 21,6.2,AI & ML,"DL, RL, NLP",No
+2804,Rahul M 46,8.3,Electrical,"Control, EM Theory, Power Systems",No
+2805,Priya T 47,6.3,Mechanical,"Thermo, CAD, Fluid Mech",No
+2806,Ravi S 33,7.6,Computer Sci.,"Java, OS, AI",No
+2807,Meera T 36,5.5,Electronics,"Signals, Circuits, VLSI",Yes
+2808,Aisha S 27,9.5,Mechanical,"Mechatronics, CAD, Fluid Mech",No
+2809,Meera M 39,9.6,Mechanical,"Fluid Mech, Mechatronics, CAD",No
+2810,Meera M 40,7.1,Information Tech.,"Networking, Security, Web Dev",No
+2811,Karan S 31,5.8,Information Tech.,"OS, Security, Java",Yes
+2812,Ankit S 44,7.9,Civil,"Geotech, Structural, Surveying",No
+2813,Karan M 39,7.6,Mechanical,"Mechatronics, CAD, Thermo",No
+2814,Ravi M 37,5.2,Civil,"Structural, Geotech, Surveying",Yes
+2815,Divya M 38,7.2,Mechanical,"CAD, Dynamics, Mechatronics",No
+2816,Priya M 36,7.1,AI & ML,"DL, NLP, ML",No
+2817,Sneha T 42,6.9,AI & ML,"AI, DL, NLP",No
+2818,Rahul K 31,5.8,Data Science,"Python, Stats, ML",Yes
+2819,Ankit T 34,8.2,Civil,"Concrete Tech, Surveying, Structural",No
+2820,Ankit T 35,7.5,Data Science,"Python, ML, NLP",No
+2821,Rahul T 41,8.2,Civil,"Concrete Tech, Structural, Geotech",No
+2822,Arjun S 50,7.3,Computer Sci.,"AI, DBMS, Python",No
+2823,Divya S 30,7.0,Information Tech.,"Networking, Security, OS",No
+2824,Ravi S 34,9.2,Computer Sci.,"CN, DSA, Python",No
+2825,Meera S 37,5.4,Civil,"Surveying, Structural, Concrete Tech",Yes
+2826,Ankit M 38,8.8,Computer Sci.,"DSA, CN, AI",No
+2827,Meera M 41,6.7,Mechanical,"Mechatronics, Fluid Mech, Thermo",No
+2828,Rahul K 32,6.8,Information Tech.,"Networking, Java, Web Dev",No
+2829,Ankit K 42,9.8,Civil,"Surveying, Structural, Concrete Tech",No
+2830,Priya R 32,6.2,Civil,"Structural, Geotech, Surveying",No
+2831,Rahul R 40,8.2,AI & ML,"ML, AI, DL",No
+2832,Meera R 37,7.8,AI & ML,"NLP, ML, DL",No
+2833,Arjun S 51,6.1,Data Science,"ML, Python, Data Mining",No
+2834,Rahul K 33,5.2,Information Tech.,"Web Dev, Security, Java",Yes
+2835,Rahul R 41,6.0,Computer Sci.,"OS, Java, CN",No
+2836,Meera R 38,8.0,Electrical,"EM Theory, Power Systems, Machines",No
+2837,Aisha R 47,8.4,AI & ML,"AI, DL, NLP",No
+2838,Meera M 42,9.7,Electrical,"Control, Machines, Power Systems",No
+2839,Divya M 39,9.7,AI & ML,"NLP, AI, DL",No
+2840,Divya T 46,6.6,Mechanical,"Mechatronics, CAD, Dynamics",No
+2841,Meera R 39,7.3,Data Science,"Python, NLP, Stats",No
+2842,Rahul T 42,8.3,AI & ML,"ML, DL, NLP",No
+2843,Ankit K 43,6.1,Mechanical,"CAD, Mechatronics, Dynamics",No
+2844,Karan K 42,6.2,AI & ML,"DL, NLP, AI",No
+2845,Priya K 36,6.7,AI & ML,"DL, NLP, ML",No
+2846,Arjun T 34,8.8,Information Tech.,"Web Dev, OS, Networking",No
+2847,Divya T 47,8.0,AI & ML,"AI, NLP, DL",No
+2848,Priya S 37,7.8,Electrical,"EM Theory, Power Systems, Machines",No
+2849,Meera K 30,7.6,Electronics,"Signals, Embedded, VLSI",No
+2850,Divya T 48,9.8,AI & ML,"NLP, RL, ML",No
+2851,Meera S 38,6.1,Information Tech.,"Web Dev, Java, OS",No
+2852,Ravi R 37,6.6,Mechanical,"Thermo, Dynamics, Mechatronics",No
+2853,Arjun R 37,9.6,Electronics,"Circuits, Signals, Digital Logic",No
+2854,Ravi R 38,9.2,AI & ML,"RL, ML, AI",No
+2855,Ravi M 38,9.6,Civil,"Surveying, Structural, Geotech",No
+2856,Rahul R 42,6.5,Electronics,"Digital Logic, Embedded, Signals",No
+2857,Aisha M 35,8.4,Computer Sci.,"OS, Java, DBMS",No
+2858,Ravi S 35,6.1,Computer Sci.,"CN, Python, OS",No
+2859,Sneha K 36,8.5,Computer Sci.,"CN, Java, DSA",No
+2860,Arjun R 38,9.9,Mechanical,"CAD, Thermo, Dynamics",No
+2861,Priya T 48,6.4,Computer Sci.,"DSA, CN, Java",No
+2862,Rahul K 34,8.6,Electrical,"EM Theory, Power Systems, Machines",No
+2863,Divya M 40,9.0,Data Science,"Stats, Python, Data Mining",No
+2864,Sneha S 34,9.8,Data Science,"ML, NLP, Data Mining",No
+2865,Sneha S 35,6.6,Electronics,"Circuits, VLSI, Signals",No
+2866,Karan R 31,5.8,Civil,"Surveying, Structural, Geotech",Yes
+2867,Karan K 43,9.0,Computer Sci.,"Python, DBMS, DSA",No
+2868,Ravi M 39,8.5,AI & ML,"DL, RL, ML",No
+2869,Priya K 37,7.0,Electrical,"Power Systems, Machines, EM Theory",No
+2870,Rahul R 43,7.4,Electronics,"Embedded, VLSI, Signals",No
+2871,Ankit K 44,7.8,Computer Sci.,"CN, Java, DSA",No
+2872,Meera R 40,8.8,Electronics,"Circuits, Digital Logic, Signals",No
+2873,Karan R 32,5.7,Electronics,"Circuits, Embedded, Signals",Yes
+2874,Sneha R 37,7.3,Data Science,"Stats, NLP, Data Mining",No
+2875,Priya K 38,5.3,Data Science,"ML, NLP, Data Mining",Yes
+2876,Arjun K 48,7.9,Information Tech.,"Java, Security, Web Dev",No
+2877,Karan R 33,7.6,AI & ML,"AI, RL, ML",No
+2878,Ravi R 39,5.2,Computer Sci.,"AI, DSA, CN",Yes
+2879,Ravi S 36,8.5,Mechanical,"Fluid Mech, Thermo, Mechatronics",No
+2880,Aisha S 28,9.8,Data Science,"Stats, Python, ML",No
+2881,Priya T 49,5.1,Mechanical,"Thermo, Mechatronics, CAD",Yes
+2882,Priya R 33,6.8,Civil,"Concrete Tech, Structural, Surveying",No
+2883,Meera T 37,6.7,Computer Sci.,"Java, Python, DBMS",No
+2884,Priya R 34,9.6,Information Tech.,"Networking, Security, Java",No
+2885,Priya K 39,6.0,Civil,"Surveying, Structural, Geotech",No
+2886,Sneha M 22,6.0,AI & ML,"DL, NLP, ML",No
+2887,Rahul R 44,6.5,Mechanical,"Dynamics, Fluid Mech, Mechatronics",No
+2888,Ankit T 36,7.2,Electrical,"EM Theory, Machines, Control",No
+2889,Divya K 26,9.0,Civil,"Geotech, Structural, Surveying",No
+2890,Ankit K 45,6.6,Data Science,"NLP, Data Mining, Python",No
+2891,Karan M 40,8.7,Information Tech.,"Java, Web Dev, Networking",No
+2892,Arjun M 37,9.2,Data Science,"Python, NLP, ML",No
+2893,Aisha M 36,9.0,Electronics,"Digital Logic, Embedded, VLSI",No
+2894,Rahul M 47,5.8,AI & ML,"ML, RL, NLP",Yes
+2895,Arjun M 38,9.8,Computer Sci.,"DSA, Python, DBMS",No
+2896,Karan R 34,8.8,AI & ML,"DL, ML, AI",No
+2897,Divya K 27,8.1,Civil,"Geotech, Concrete Tech, Surveying",No
+2898,Ankit M 39,6.2,Mechanical,"CAD, Thermo, Dynamics",No
+2899,Priya K 40,9.0,Electronics,"Signals, Digital Logic, VLSI",No
+2900,Rahul K 35,8.8,Computer Sci.,"OS, Java, Python",No
+2901,Ankit K 46,7.3,Electrical,"Control, EM Theory, Machines",No
+2902,Aisha R 48,7.5,Data Science,"Python, NLP, Data Mining",No
+2903,Aisha K 41,8.9,Electronics,"Digital Logic, Circuits, VLSI",No
+2904,Priya M 37,8.2,Civil,"Geotech, Concrete Tech, Structural",No
+2905,Aisha S 29,8.1,Electrical,"Control, Machines, Power Systems",No
+2906,Arjun T 35,7.2,Electronics,"Embedded, Digital Logic, Circuits",No
+2907,Divya T 49,9.8,AI & ML,"ML, NLP, RL",No
+2908,Aisha T 32,7.1,Computer Sci.,"DBMS, OS, CN",No
+2909,Ankit M 40,7.2,AI & ML,"DL, ML, NLP",No
+2910,Arjun R 39,8.8,Data Science,"NLP, ML, Stats",No
+2911,Priya K 41,9.6,Computer Sci.,"DSA, CN, Python",No
+2912,Karan K 44,8.4,Computer Sci.,"DBMS, DSA, Java",No
+2913,Rahul M 48,7.9,Electrical,"Machines, EM Theory, Power Systems",No
+2914,Ankit T 37,7.6,Computer Sci.,"CN, OS, DSA",No
+2915,Arjun S 52,5.4,Electronics,"Signals, Digital Logic, VLSI",Yes
+2916,Divya S 31,8.6,Information Tech.,"OS, Security, Web Dev",No
+2917,Sneha T 43,7.6,Mechanical,"Dynamics, Fluid Mech, Thermo",No
+2918,Karan T 30,6.6,Computer Sci.,"DSA, AI, Python",No
+2919,Arjun R 40,6.4,Mechanical,"Fluid Mech, Dynamics, Mechatronics",No
+2920,Divya M 41,9.5,Computer Sci.,"Python, OS, DSA",No
+2921,Ravi S 37,8.3,Electrical,"Power Systems, EM Theory, Control",No
+2922,Rahul S 37,7.3,Mechanical,"Mechatronics, Dynamics, Fluid Mech",No
+2923,Divya R 37,5.4,Data Science,"Data Mining, NLP, Python",Yes
+2924,Meera K 31,9.2,AI & ML,"AI, NLP, ML",No
+2925,Ankit M 41,7.8,Computer Sci.,"Java, OS, Python",No
+2926,Priya M 38,8.3,Electronics,"Circuits, Signals, Digital Logic",No
+2927,Sneha K 37,9.3,AI & ML,"AI, ML, RL",No
+2928,Karan K 45,6.7,Civil,"Concrete Tech, Geotech, Surveying",No
+2929,Divya R 38,5.8,Civil,"Surveying, Structural, Geotech",Yes
+2930,Meera R 41,6.2,Data Science,"Stats, NLP, Data Mining",No
+2931,Sneha K 38,7.4,AI & ML,"DL, ML, NLP",No
+2932,Divya R 39,6.6,AI & ML,"NLP, ML, RL",No
+2933,Priya R 35,7.9,Mechanical,"Fluid Mech, Mechatronics, Dynamics",No
+2934,Meera T 38,5.9,Computer Sci.,"OS, DSA, AI",Yes
+2935,Arjun K 49,7.1,Civil,"Surveying, Structural, Geotech",No
+2936,Meera S 39,8.8,Electrical,"EM Theory, Control, Machines",No
+2937,Rahul M 49,5.9,Data Science,"Python, ML, Stats",Yes
+2938,Priya S 38,6.8,Computer Sci.,"Python, OS, Java",No
+2939,Priya S 39,8.1,Mechanical,"CAD, Mechatronics, Thermo",No
+2940,Meera S 40,8.2,Civil,"Surveying, Concrete Tech, Geotech",No
+2941,Sneha S 36,5.4,Computer Sci.,"AI, OS, DBMS",Yes
+2942,Karan S 32,6.1,Electronics,"Digital Logic, Embedded, Circuits",No
+2943,Arjun K 50,9.4,Data Science,"Data Mining, Stats, ML",No
+2944,Aisha S 30,6.9,AI & ML,"DL, ML, AI",No
+2945,Ravi T 40,6.3,Electronics,"Embedded, Circuits, Signals",No
+2946,Priya S 40,7.9,AI & ML,"ML, RL, DL",No
+2947,Aisha K 42,8.3,Civil,"Surveying, Concrete Tech, Structural",No
+2948,Divya T 50,7.3,Electronics,"Signals, Embedded, Circuits",No
+2949,Rahul M 50,7.9,Data Science,"ML, NLP, Stats",No
+2950,Ravi K 39,6.7,Electrical,"Power Systems, Machines, Control",No
+2951,Divya S 32,9.7,Information Tech.,"OS, Java, Security",No
+2952,Ravi T 41,6.1,Data Science,"Data Mining, Python, NLP",No
+2953,Arjun S 53,7.5,Electrical,"Machines, EM Theory, Control",No
+2954,Meera M 43,5.3,Electronics,"Signals, VLSI, Embedded",Yes
+2955,Divya T 51,9.2,Computer Sci.,"Java, AI, DBMS",No
+2956,Ankit S 45,9.3,Civil,"Geotech, Concrete Tech, Surveying",No
+2957,Rahul M 51,5.3,Mechanical,"Thermo, CAD, Fluid Mech",Yes
+2958,Rahul T 43,8.1,AI & ML,"RL, NLP, DL",No
+2959,Meera M 44,8.3,AI & ML,"AI, DL, NLP",No
+2960,Ravi K 40,8.9,AI & ML,"NLP, AI, RL",No
+2961,Priya K 42,9.5,AI & ML,"RL, ML, DL",No
+2962,Arjun R 41,9.9,Mechanical,"Fluid Mech, Mechatronics, CAD",No
+2963,Ravi R 40,5.1,Mechanical,"Mechatronics, Fluid Mech, Dynamics",Yes
+2964,Aisha K 43,8.8,Mechanical,"Thermo, Mechatronics, Fluid Mech",No
+2965,Meera M 45,9.9,AI & ML,"DL, NLP, RL",No
+2966,Priya S 41,6.7,AI & ML,"RL, ML, DL",No
+2967,Sneha S 37,5.9,Mechanical,"Mechatronics, Fluid Mech, CAD",Yes
+2968,Divya T 52,9.7,Information Tech.,"Java, OS, Web Dev",No
+2969,Rahul R 45,9.6,Computer Sci.,"AI, Python, OS",No
+2970,Arjun S 54,6.3,Data Science,"Python, Data Mining, NLP",No
+2971,Arjun K 51,6.8,Information Tech.,"Networking, Java, Security",No
+2972,Ravi T 42,5.1,Data Science,"Python, Stats, NLP",Yes
+2973,Ravi S 38,8.0,Civil,"Concrete Tech, Surveying, Geotech",No
+2974,Aisha S 31,8.9,Data Science,"ML, Stats, Data Mining",No
+2975,Karan T 31,7.7,Data Science,"ML, NLP, Stats",No
+2976,Arjun S 55,9.3,Computer Sci.,"Python, DSA, OS",No
+2977,Ankit T 38,5.2,Mechanical,"Mechatronics, CAD, Thermo",Yes
+2978,Aisha T 33,7.8,Mechanical,"Dynamics, Fluid Mech, CAD",No
+2979,Ankit S 46,5.0,Electrical,"EM Theory, Machines, Power Systems",Yes
+2980,Arjun R 42,7.4,Electrical,"Control, EM Theory, Machines",No
+2981,Ankit R 38,8.2,Computer Sci.,"CN, DSA, AI",No
+2982,Ravi M 40,9.3,AI & ML,"NLP, AI, ML",No
+2983,Divya S 33,6.6,Mechanical,"Dynamics, Thermo, CAD",No
+2984,Priya S 42,5.9,Mechanical,"Mechatronics, CAD, Fluid Mech",Yes
+2985,Ravi M 41,6.3,Electrical,"Power Systems, Machines, EM Theory",No
+2986,Ravi K 41,7.8,Computer Sci.,"CN, OS, Python",No
+2987,Rahul R 46,5.1,Computer Sci.,"AI, DSA, Python",Yes
+2988,Ravi S 39,9.7,Electronics,"Embedded, Circuits, VLSI",No
+2989,Rahul T 44,6.7,Data Science,"Data Mining, NLP, ML",No
+2990,Priya T 50,7.8,Civil,"Concrete Tech, Geotech, Structural",No
+2991,Arjun S 56,6.3,Data Science,"ML, NLP, Data Mining",No
+2992,Divya M 42,8.5,Mechanical,"Thermo, Fluid Mech, CAD",No
+2993,Aisha M 37,6.3,Electronics,"Signals, VLSI, Digital Logic",No
+2994,Priya T 51,9.2,Electrical,"EM Theory, Power Systems, Control",No
+2995,Ravi K 42,8.4,Information Tech.,"Web Dev, Networking, Security",No
+2996,Arjun R 43,5.8,Mechanical,"Mechatronics, Dynamics, CAD",Yes
+2997,Aisha M 38,7.5,Computer Sci.,"DSA, DBMS, Python",No
+2998,Divya T 53,8.2,AI & ML,"AI, RL, NLP",No
+2999,Arjun M 39,5.1,AI & ML,"NLP, DL, RL",Yes
+3000,Priya R 36,7.2,Electronics,"Digital Logic, Signals, Embedded",No
+3001,Ravi T 43,9.5,Electrical,"Control, Power Systems, EM Theory",No
+3002,Ankit R 39,8.5,Electrical,"Power Systems, Machines, EM Theory",No
+3003,Ravi T 44,6.7,Data Science,"NLP, ML, Data Mining",No
+3004,Rahul R 47,6.7,Computer Sci.,"DBMS, Python, Java",No
+3005,Rahul K 36,6.1,Civil,"Concrete Tech, Geotech, Structural",No
+3006,Rahul K 37,7.5,Information Tech.,"Web Dev, OS, Java",No
+3007,Aisha R 49,7.3,Mechanical,"Fluid Mech, CAD, Dynamics",No
+3008,Meera T 39,6.0,Computer Sci.,"DBMS, DSA, CN",No
+3009,Divya S 34,7.2,Data Science,"Data Mining, ML, NLP",No
+3010,Sneha K 39,7.1,AI & ML,"NLP, AI, ML",No
+3011,Priya S 43,9.3,Information Tech.,"Security, Java, Networking",No
+3012,Aisha T 34,6.4,Computer Sci.,"AI, DSA, Python",No
+3013,Divya K 28,5.9,Information Tech.,"OS, Java, Web Dev",Yes
+3014,Arjun M 40,7.9,AI & ML,"ML, NLP, DL",No
+3015,Priya S 44,7.1,Electrical,"EM Theory, Power Systems, Machines",No
+3016,Arjun R 44,6.0,Information Tech.,"Web Dev, Networking, Security",No
+3017,Divya M 43,8.3,Information Tech.,"Security, Networking, Java",No
+3018,Aisha T 35,8.8,Civil,"Surveying, Geotech, Concrete Tech",No
+3019,Meera R 42,5.8,AI & ML,"RL, AI, ML",Yes
+3020,Ravi K 43,8.7,Electrical,"Power Systems, Machines, Control",No
+3021,Karan T 32,5.8,Electronics,"VLSI, Embedded, Signals",Yes
+3022,Arjun M 41,6.9,Data Science,"NLP, ML, Python",No
+3023,Ravi R 41,7.4,Electrical,"EM Theory, Power Systems, Control",No
+3024,Ankit T 39,8.2,Data Science,"ML, Python, Data Mining",No
+3025,Divya K 29,6.8,Electrical,"EM Theory, Power Systems, Machines",No
+3026,Ankit T 40,7.8,Computer Sci.,"AI, OS, DSA",No
+3027,Sneha K 40,5.6,AI & ML,"NLP, DL, RL",Yes
+3028,Priya M 39,9.5,Computer Sci.,"CN, Java, DBMS",No
+3029,Priya T 52,5.6,AI & ML,"DL, ML, RL",Yes
+3030,Rahul M 52,7.8,Mechanical,"Thermo, CAD, Dynamics",No
+3031,Aisha M 39,8.1,Civil,"Concrete Tech, Surveying, Structural",No
+3032,Aisha R 50,6.2,Electronics,"Signals, Embedded, VLSI",No
+3033,Rahul M 53,5.9,Mechanical,"Dynamics, Thermo, Mechatronics",Yes
+3034,Priya K 43,7.3,Mechanical,"CAD, Dynamics, Thermo",No
+3035,Meera T 40,5.3,Computer Sci.,"DSA, Python, AI",Yes
+3036,Priya S 45,8.3,Data Science,"Python, Data Mining, ML",No
+3037,Ankit T 41,5.3,Computer Sci.,"CN, DSA, OS",Yes
+3038,Ankit K 47,6.6,AI & ML,"ML, NLP, RL",No
+3039,Sneha T 44,9.2,AI & ML,"RL, ML, AI",No
+3040,Sneha M 23,9.6,Mechanical,"Dynamics, Thermo, Mechatronics",No
+3041,Ankit T 42,9.2,AI & ML,"RL, NLP, ML",No
+3042,Ravi K 44,5.3,Electrical,"Machines, Control, EM Theory",Yes
+3043,Sneha S 38,6.4,Information Tech.,"Networking, Web Dev, Security",No
+3044,Rahul T 45,6.8,Electronics,"Circuits, VLSI, Embedded",No
+3045,Karan M 41,6.0,Information Tech.,"OS, Java, Security",No
+3046,Arjun R 45,7.3,Information Tech.,"OS, Security, Networking",No
+3047,Aisha R 51,9.0,Civil,"Structural, Geotech, Concrete Tech",No
+3048,Priya M 40,7.0,Mechanical,"Dynamics, Mechatronics, CAD",No
+3049,Arjun T 36,7.0,Civil,"Geotech, Structural, Concrete Tech",No
+3050,Priya R 37,5.4,Computer Sci.,"DSA, AI, CN",Yes
+3051,Rahul T 46,8.5,Civil,"Surveying, Geotech, Structural",No
+3052,Ravi T 45,7.4,Data Science,"Python, Data Mining, NLP",No
+3053,Aisha S 32,6.1,Data Science,"ML, Python, NLP",No
+3054,Sneha M 24,7.5,Computer Sci.,"Java, Python, CN",No
+3055,Ravi S 40,8.7,Information Tech.,"Networking, Java, OS",No
+3056,Rahul K 38,5.4,Electronics,"Digital Logic, VLSI, Embedded",Yes
+3057,Aisha M 40,8.9,Data Science,"ML, Python, Data Mining",No
+3058,Sneha T 45,8.0,Electronics,"VLSI, Signals, Embedded",No
+3059,Ravi S 41,8.2,Mechanical,"Mechatronics, Dynamics, CAD",No
+3060,Arjun T 37,9.9,Electrical,"Power Systems, EM Theory, Machines",No
+3061,Ankit S 47,8.1,Electronics,"Digital Logic, Embedded, Circuits",No
+3062,Divya T 54,9.7,Data Science,"Python, NLP, Data Mining",No
+3063,Priya R 38,7.4,Data Science,"NLP, ML, Python",No
+3064,Ankit T 43,9.0,Data Science,"Python, NLP, ML",No
+3065,Sneha S 39,7.8,Electrical,"Control, Power Systems, EM Theory",No
+3066,Priya S 46,6.4,Civil,"Geotech, Concrete Tech, Structural",No
+3067,Ankit K 48,9.2,Mechanical,"Thermo, CAD, Fluid Mech",No
+3068,Divya T 55,9.9,Computer Sci.,"Python, DBMS, CN",No
+3069,Sneha S 40,5.5,Mechanical,"Mechatronics, Dynamics, Fluid Mech",Yes
+3070,Ravi K 45,8.1,Computer Sci.,"AI, Python, Java",No
+3071,Divya M 44,9.5,Civil,"Surveying, Structural, Geotech",No
+3072,Priya S 47,6.6,Data Science,"NLP, ML, Data Mining",No
+3073,Ankit M 42,6.3,Data Science,"ML, Python, Stats",No
+3074,Aisha M 41,5.4,Data Science,"Data Mining, Python, ML",Yes
+3075,Karan S 33,9.7,Data Science,"Stats, NLP, Data Mining",No
+3076,Sneha T 46,6.0,Information Tech.,"Java, OS, Security",No
+3077,Divya S 35,8.5,Electronics,"Signals, Digital Logic, VLSI",No
+3078,Arjun R 46,10.0,Electronics,"Circuits, Signals, Embedded",No
+3079,Sneha K 41,9.3,Electronics,"Embedded, VLSI, Signals",No
+3080,Meera M 46,9.1,Computer Sci.,"Java, AI, OS",No
+3081,Ravi R 42,9.8,Electrical,"Machines, EM Theory, Control",No
+3082,Rahul T 47,6.6,Computer Sci.,"DSA, Java, OS",No
+3083,Ankit M 43,7.5,Mechanical,"Dynamics, CAD, Mechatronics",No
+3084,Rahul S 38,8.3,Mechanical,"Mechatronics, Thermo, Fluid Mech",No
+3085,Meera M 47,7.9,Data Science,"ML, Stats, NLP",No
+3086,Meera S 41,9.3,Civil,"Surveying, Structural, Concrete Tech",No
+3087,Divya K 30,6.1,Electrical,"Machines, EM Theory, Control",No
+3088,Karan M 42,9.6,Mechanical,"Fluid Mech, CAD, Dynamics",No
+3089,Arjun K 52,8.6,Mechanical,"Mechatronics, Thermo, Dynamics",No
+3090,Meera M 48,9.6,Information Tech.,"Networking, OS, Web Dev",No
+3091,Sneha M 25,8.1,Data Science,"Python, ML, NLP",No
+3092,Priya M 41,5.9,AI & ML,"AI, ML, NLP",Yes
+3093,Rahul R 48,5.1,Mechanical,"Dynamics, CAD, Thermo",Yes
+3094,Arjun S 57,7.9,AI & ML,"AI, DL, RL",No
+3095,Meera T 41,9.8,Mechanical,"Mechatronics, Fluid Mech, Dynamics",No
+3096,Sneha T 47,6.3,Mechanical,"Thermo, Dynamics, Fluid Mech",No
+3097,Rahul R 49,9.1,Civil,"Geotech, Surveying, Structural",No
+3098,Ankit T 44,5.2,Mechanical,"Fluid Mech, Mechatronics, Thermo",Yes
+3099,Sneha M 26,9.2,Information Tech.,"Web Dev, Java, OS",No
+3100,Rahul S 39,6.3,Computer Sci.,"Python, DSA, Java",No
+3101,Rahul T 48,5.0,Civil,"Surveying, Geotech, Structural",Yes
+3102,Arjun S 58,6.6,Mechanical,"Fluid Mech, CAD, Dynamics",No
+3103,Meera T 42,8.7,Electrical,"EM Theory, Power Systems, Machines",No
+3104,Priya S 48,9.1,Information Tech.,"OS, Web Dev, Java",No
+3105,Aisha M 42,5.5,AI & ML,"NLP, RL, DL",Yes
+3106,Divya R 40,5.8,Electronics,"Signals, Circuits, Digital Logic",Yes
+3107,Aisha S 33,6.3,Mechanical,"Thermo, Dynamics, CAD",No
+3108,Divya R 41,5.4,Computer Sci.,"CN, AI, DBMS",Yes
+3109,Meera K 32,9.5,Data Science,"Data Mining, ML, NLP",No
+3110,Meera S 42,6.6,Electrical,"EM Theory, Machines, Power Systems",No
+3111,Karan T 33,7.0,Civil,"Concrete Tech, Geotech, Structural",No
+3112,Aisha R 52,5.9,Electrical,"Control, Machines, Power Systems",Yes
+3113,Divya K 31,5.3,Electrical,"EM Theory, Control, Machines",Yes
+3114,Priya T 53,9.9,Civil,"Geotech, Surveying, Structural",No
+3115,Ankit M 44,9.5,Electronics,"Circuits, Signals, VLSI",No
+3116,Arjun T 38,10.0,Electrical,"Machines, EM Theory, Control",No
+3117,Priya T 54,8.1,Data Science,"NLP, Python, Data Mining",No
+3118,Ankit K 49,6.1,Electronics,"VLSI, Digital Logic, Signals",No
+3119,Aisha S 34,6.0,Civil,"Surveying, Geotech, Structural",No
+3120,Aisha M 43,6.2,Data Science,"NLP, Stats, Python",No
+3121,Divya T 56,9.4,Computer Sci.,"OS, CN, DBMS",No
+3122,Karan R 35,7.0,Computer Sci.,"AI, CN, DBMS",No
+3123,Ankit K 50,9.7,Electrical,"Power Systems, Control, Machines",No
+3124,Meera K 33,8.7,Information Tech.,"Java, Security, Networking",No
+3125,Arjun M 42,9.1,Civil,"Concrete Tech, Geotech, Structural",No
+3126,Aisha K 44,9.4,Mechanical,"Thermo, Mechatronics, Fluid Mech",No
+3127,Rahul T 49,8.8,Data Science,"Stats, Python, Data Mining",No
+3128,Karan T 34,6.2,Information Tech.,"OS, Networking, Web Dev",No
+3129,Aisha K 45,5.0,Electrical,"EM Theory, Control, Power Systems",Yes
+3130,Ravi K 46,9.8,Civil,"Surveying, Geotech, Concrete Tech",No
+3131,Priya R 39,5.3,Civil,"Geotech, Structural, Concrete Tech",Yes
+3132,Ankit T 45,6.7,Data Science,"NLP, Stats, Python",No
+3133,Divya S 36,9.4,Data Science,"Stats, NLP, Data Mining",No
+3134,Ankit K 51,5.1,Computer Sci.,"Java, DSA, CN",Yes
+3135,Karan T 35,5.8,Computer Sci.,"AI, DSA, Java",Yes
+3136,Aisha M 44,9.0,Mechanical,"Fluid Mech, Mechatronics, Thermo",No
+3137,Priya T 55,7.6,Electrical,"Control, Machines, EM Theory",No
+3138,Karan S 34,7.0,AI & ML,"ML, AI, NLP",No
+3139,Karan M 43,6.2,Mechanical,"CAD, Dynamics, Thermo",No
+3140,Divya S 37,7.1,Electronics,"Embedded, Circuits, VLSI",No
+3141,Ravi T 46,8.8,Electronics,"Embedded, VLSI, Digital Logic",No
+3142,Rahul T 50,8.8,Data Science,"ML, Python, Stats",No
+3143,Arjun T 39,8.8,AI & ML,"ML, RL, AI",No
+3144,Ravi R 43,9.3,Information Tech.,"Java, Networking, Web Dev",No
+3145,Ankit K 52,5.3,AI & ML,"ML, RL, DL",Yes
+3146,Meera M 49,7.2,Computer Sci.,"Python, Java, OS",No
+3147,Ravi R 44,5.3,Electronics,"Signals, Circuits, Embedded",Yes
+3148,Ankit S 48,5.7,Computer Sci.,"Python, CN, DSA",Yes
+3149,Rahul T 51,8.6,Mechanical,"Dynamics, Thermo, Mechatronics",No
+3150,Arjun R 47,9.2,Data Science,"Python, Data Mining, Stats",No
+3151,Meera M 50,7.3,Data Science,"Stats, Data Mining, NLP",No
+3152,Ankit R 40,6.3,Information Tech.,"OS, Java, Security",No
+3153,Rahul K 39,9.3,Data Science,"Python, ML, NLP",No
+3154,Karan R 36,9.1,Mechanical,"Fluid Mech, Mechatronics, CAD",No
+3155,Ravi M 42,9.1,Computer Sci.,"Java, Python, OS",No
+3156,Ankit R 41,7.3,Electronics,"Digital Logic, Circuits, VLSI",No
+3157,Ravi T 47,6.3,Information Tech.,"Security, OS, Java",No
+3158,Priya S 49,5.3,Information Tech.,"Web Dev, OS, Java",Yes
+3159,Rahul M 54,5.4,Information Tech.,"Networking, Security, Web Dev",Yes
+3160,Ravi M 43,6.5,Civil,"Concrete Tech, Structural, Geotech",No
+3161,Divya M 45,5.2,Information Tech.,"OS, Web Dev, Networking",Yes
+3162,Ankit T 46,7.0,Electronics,"Signals, Embedded, Digital Logic",No
+3163,Priya T 56,8.3,Civil,"Geotech, Surveying, Concrete Tech",No
+3164,Priya R 40,7.1,Mechanical,"Thermo, Fluid Mech, CAD",No
+3165,Sneha K 42,7.4,Mechanical,"Mechatronics, CAD, Dynamics",No
+3166,Sneha M 27,7.9,AI & ML,"DL, RL, ML",No
+3167,Arjun K 53,6.8,Mechanical,"Fluid Mech, Mechatronics, CAD",No
+3168,Divya M 46,7.1,Data Science,"NLP, Data Mining, ML",No
+3169,Karan K 46,5.1,Data Science,"NLP, Python, ML",Yes
+3170,Priya K 44,6.9,Computer Sci.,"AI, DBMS, DSA",No
+3171,Arjun S 59,8.9,Electronics,"Embedded, Circuits, Signals",No
+3172,Divya K 32,7.8,AI & ML,"AI, ML, DL",No
+3173,Ravi S 42,9.3,Mechanical,"Mechatronics, CAD, Thermo",No
+3174,Rahul T 52,7.1,Electrical,"Machines, Control, EM Theory",No
+3175,Sneha T 48,6.5,Electrical,"Machines, Control, EM Theory",No
+3176,Arjun R 48,7.1,Electronics,"Signals, Digital Logic, Circuits",No
+3177,Aisha R 53,5.9,AI & ML,"DL, NLP, ML",Yes
+3178,Ravi S 43,9.0,Electronics,"VLSI, Signals, Embedded",No
+3179,Ankit R 42,8.0,Electrical,"Machines, Power Systems, EM Theory",No
+3180,Divya T 57,8.6,Electrical,"Control, EM Theory, Machines",No
+3181,Priya S 50,9.3,Computer Sci.,"Java, DSA, AI",No
+3182,Ankit S 49,6.0,Electronics,"Digital Logic, Signals, Embedded",No
+3183,Aisha K 46,6.1,Electrical,"Machines, Power Systems, Control",No
+3184,Karan M 44,9.2,Mechanical,"Mechatronics, Thermo, Fluid Mech",No
+3185,Rahul S 40,6.3,Computer Sci.,"Python, CN, DBMS",No
+3186,Divya S 38,6.2,Information Tech.,"Networking, Security, OS",No
+3187,Meera T 43,9.7,Data Science,"Stats, Data Mining, ML",No
+3188,Aisha M 45,7.2,Information Tech.,"OS, Security, Web Dev",No
+3189,Sneha M 28,9.0,Information Tech.,"Web Dev, Java, Security",No
+3190,Ankit R 43,5.8,Civil,"Concrete Tech, Surveying, Structural",Yes
+3191,Priya S 51,9.4,Information Tech.,"Security, Networking, Web Dev",No
+3192,Arjun T 40,9.1,Data Science,"Python, Data Mining, Stats",No
+3193,Priya K 45,6.5,Computer Sci.,"OS, AI, Java",No
+3194,Divya M 47,7.6,Electronics,"Signals, VLSI, Circuits",No
+3195,Ankit T 47,5.5,Electronics,"Signals, Embedded, Digital Logic",Yes
+3196,Aisha S 35,5.4,Electronics,"Circuits, Embedded, Digital Logic",Yes
+3197,Karan T 36,6.3,Mechanical,"CAD, Dynamics, Mechatronics",No
+3198,Meera M 51,9.9,Electronics,"Embedded, Circuits, Signals",No
+3199,Karan M 45,7.3,AI & ML,"DL, NLP, ML",No
+3200,Karan K 47,7.9,Computer Sci.,"AI, Python, DSA",No
+3201,Priya M 42,8.9,Electronics,"Digital Logic, Signals, VLSI",No
+3202,Ravi K 47,8.6,AI & ML,"ML, AI, RL",No
+3203,Karan T 37,7.5,Electrical,"Machines, EM Theory, Power Systems",No
+3204,Rahul R 50,9.3,Mechanical,"Thermo, Fluid Mech, Dynamics",No
+3205,Ankit R 44,5.6,AI & ML,"NLP, RL, AI",Yes
+3206,Aisha R 54,6.4,Electronics,"Digital Logic, Circuits, Signals",No
+3207,Ravi M 44,7.4,Electronics,"VLSI, Embedded, Circuits",No
+3208,Karan S 35,8.4,Civil,"Structural, Surveying, Concrete Tech",No
+3209,Divya K 33,5.5,Data Science,"Stats, ML, Data Mining",Yes
+3210,Sneha T 49,7.0,AI & ML,"NLP, RL, ML",No
+3211,Priya K 46,9.9,Information Tech.,"Web Dev, Security, Networking",No
+3212,Priya T 57,7.9,AI & ML,"AI, RL, ML",No
+3213,Divya T 58,9.7,Mechanical,"Thermo, Fluid Mech, CAD",No
+3214,Divya T 59,5.1,Information Tech.,"OS, Networking, Java",Yes
+3215,Rahul T 53,6.9,Electronics,"VLSI, Embedded, Signals",No
+3216,Ravi S 44,7.4,Civil,"Surveying, Structural, Geotech",No
+3217,Ankit S 50,9.4,Civil,"Structural, Geotech, Surveying",No
+3218,Divya M 48,7.3,Information Tech.,"Web Dev, Java, Networking",No
+3219,Aisha R 55,7.9,Information Tech.,"Security, Java, Web Dev",No
+3220,Karan S 36,6.7,AI & ML,"RL, NLP, DL",No
+3221,Aisha R 56,5.5,Mechanical,"Dynamics, Fluid Mech, CAD",Yes
+3222,Meera K 34,6.1,Data Science,"Python, Data Mining, NLP",No
+3223,Karan R 37,8.0,Civil,"Structural, Concrete Tech, Geotech",No
+3224,Meera T 44,5.0,Data Science,"Python, Data Mining, ML",Yes
+3225,Priya R 41,7.0,Information Tech.,"Java, Security, Web Dev",No
+3226,Ankit R 45,7.0,Data Science,"NLP, Data Mining, Stats",No
+3227,Divya R 42,5.2,Mechanical,"Thermo, Fluid Mech, Dynamics",Yes
+3228,Arjun S 60,9.1,Electronics,"Signals, Digital Logic, Embedded",No
+3229,Arjun T 41,7.2,Mechanical,"Mechatronics, CAD, Fluid Mech",No
+3230,Priya S 52,5.7,AI & ML,"RL, ML, NLP",Yes
+3231,Arjun S 61,5.1,Data Science,"Data Mining, ML, Python",Yes
+3232,Ravi T 48,6.3,Computer Sci.,"OS, Java, CN",No
+3233,Meera T 45,8.8,Mechanical,"CAD, Fluid Mech, Thermo",No
+3234,Ankit R 46,5.1,Computer Sci.,"CN, DBMS, Java",Yes
+3235,Priya S 53,6.5,Civil,"Geotech, Surveying, Structural",No
+3236,Karan T 38,6.1,Information Tech.,"Security, OS, Web Dev",No
+3237,Divya R 43,8.0,Electronics,"VLSI, Embedded, Signals",No
+3238,Divya R 44,7.4,Civil,"Surveying, Structural, Geotech",No
+3239,Karan M 46,9.2,Data Science,"Data Mining, Python, NLP",No
+3240,Meera R 43,8.1,Electronics,"Digital Logic, Embedded, Signals",No
+3241,Arjun T 42,9.2,Electrical,"EM Theory, Control, Power Systems",No
+3242,Arjun K 54,5.7,Information Tech.,"Networking, OS, Web Dev",Yes
+3243,Aisha S 36,9.9,Electronics,"Circuits, Signals, Embedded",No
+3244,Ankit S 51,6.1,Data Science,"ML, Data Mining, Stats",No
+3245,Rahul R 51,6.8,Computer Sci.,"Java, Python, DSA",No
+3246,Karan T 39,9.0,Data Science,"NLP, ML, Stats",No
+3247,Karan T 40,7.7,Electrical,"Power Systems, EM Theory, Machines",No
+3248,Rahul M 55,9.2,Civil,"Geotech, Surveying, Structural",No
+3249,Aisha M 46,8.2,Computer Sci.,"DSA, AI, CN",No
+3250,Arjun M 43,8.1,Information Tech.,"Security, Java, Networking",No
+3251,Priya T 58,9.1,Computer Sci.,"Python, DBMS, CN",No
+3252,Ravi S 45,9.5,Mechanical,"Fluid Mech, CAD, Dynamics",No
+3253,Arjun R 49,9.7,Data Science,"Data Mining, NLP, Stats",No
+3254,Ankit S 52,6.3,Civil,"Surveying, Concrete Tech, Geotech",No
+3255,Sneha S 41,9.5,Mechanical,"Dynamics, Mechatronics, CAD",No
+3256,Sneha M 29,8.3,AI & ML,"ML, RL, AI",No
+3257,Arjun T 43,5.1,Mechanical,"Fluid Mech, Dynamics, CAD",Yes
+3258,Rahul M 56,9.1,Computer Sci.,"DSA, Java, DBMS",No
+3259,Aisha K 47,9.4,Information Tech.,"OS, Security, Networking",No
+3260,Arjun S 62,5.0,Electronics,"Signals, Digital Logic, Circuits",Yes
+3261,Aisha S 37,9.6,Data Science,"ML, Python, Stats",No
+3262,Meera T 46,5.9,Data Science,"ML, Data Mining, Python",Yes
+3263,Rahul T 54,8.3,Information Tech.,"OS, Networking, Java",No
+3264,Ankit M 45,6.8,Electronics,"Circuits, Embedded, Digital Logic",No
+3265,Priya M 43,6.1,AI & ML,"RL, DL, ML",No
+3266,Rahul M 57,8.1,Civil,"Structural, Surveying, Geotech",No
+3267,Ravi T 49,7.0,Mechanical,"Mechatronics, Fluid Mech, Thermo",No
+3268,Sneha K 43,9.3,Electronics,"Digital Logic, Embedded, Signals",No
+3269,Divya R 45,9.2,Electrical,"EM Theory, Machines, Control",No
+3270,Meera S 43,9.2,AI & ML,"DL, ML, RL",No
+3271,Priya S 54,5.3,Electronics,"Embedded, Signals, Digital Logic",Yes
+3272,Ravi R 45,6.8,Information Tech.,"Security, Web Dev, Java",No
+3273,Ravi S 46,9.9,Civil,"Surveying, Structural, Concrete Tech",No
+3274,Karan M 47,5.1,Computer Sci.,"DSA, CN, Java",Yes
+3275,Aisha R 57,8.8,Information Tech.,"Web Dev, Networking, Security",No
+3276,Rahul T 55,5.5,Electronics,"Embedded, VLSI, Circuits",Yes
+3277,Meera K 35,6.7,Data Science,"Data Mining, Python, NLP",No
+3278,Meera T 47,8.0,Computer Sci.,"Python, OS, CN",No
+3279,Rahul S 41,8.1,Civil,"Structural, Geotech, Surveying",No
+3280,Divya M 49,9.7,AI & ML,"AI, DL, RL",No
+3281,Karan M 48,9.9,Computer Sci.,"Java, DSA, CN",No
+3282,Rahul R 52,5.8,Data Science,"Python, ML, NLP",Yes
+3283,Ankit T 48,9.5,Data Science,"Stats, ML, Data Mining",No
+3284,Meera K 36,8.9,Computer Sci.,"DBMS, CN, Python",No
+3285,Meera T 48,5.6,Electrical,"EM Theory, Power Systems, Control",Yes
+3286,Divya T 60,9.3,Electronics,"VLSI, Signals, Circuits",No
+3287,Ravi K 48,9.9,Information Tech.,"OS, Networking, Web Dev",No
+3288,Ankit K 53,7.0,Electrical,"Power Systems, EM Theory, Control",No
+3289,Priya K 47,6.1,AI & ML,"DL, ML, RL",No
+3290,Sneha K 44,10.0,Electrical,"Power Systems, Machines, Control",No
+3291,Divya K 34,7.6,AI & ML,"ML, NLP, DL",No
+3292,Ravi S 47,7.3,AI & ML,"AI, DL, NLP",No
+3293,Karan M 49,5.5,Electrical,"EM Theory, Control, Machines",Yes
+3294,Arjun K 55,7.6,Electrical,"EM Theory, Machines, Power Systems",No
+3295,Rahul R 53,9.9,Electronics,"Digital Logic, VLSI, Embedded",No
+3296,Priya M 44,5.2,Information Tech.,"Java, Networking, OS",Yes
+3297,Ravi M 45,6.8,Civil,"Structural, Geotech, Concrete Tech",No
+3298,Ravi R 46,7.4,AI & ML,"ML, AI, NLP",No
+3299,Karan M 50,7.3,Mechanical,"Fluid Mech, Mechatronics, Thermo",No
+3300,Aisha K 48,5.3,Information Tech.,"Web Dev, Java, Security",Yes
+3301,Priya K 48,5.9,Data Science,"NLP, Python, ML",Yes
+3302,Rahul T 56,10.0,Computer Sci.,"DSA, Java, OS",No
+3303,Sneha T 50,7.4,Mechanical,"Dynamics, Mechatronics, Thermo",No
+3304,Aisha T 36,6.8,AI & ML,"AI, RL, ML",No
+3305,Divya K 35,5.8,AI & ML,"DL, AI, RL",Yes
+3306,Divya T 61,8.0,Mechanical,"Mechatronics, Fluid Mech, Dynamics",No
+3307,Sneha M 30,8.8,Electronics,"Signals, Circuits, Digital Logic",No
+3308,Rahul T 57,10.0,Information Tech.,"Web Dev, OS, Networking",No
+3309,Rahul T 58,8.6,Electrical,"Power Systems, EM Theory, Control",No
+3310,Karan S 37,7.8,Computer Sci.,"AI, DSA, DBMS",No
+3311,Meera T 49,5.6,Civil,"Structural, Geotech, Surveying",Yes
+3312,Meera R 44,5.4,Electronics,"Digital Logic, Embedded, VLSI",Yes
+3313,Arjun R 50,6.9,Mechanical,"Dynamics, Mechatronics, Fluid Mech",No
+3314,Arjun S 63,6.6,AI & ML,"ML, RL, DL",No
+3315,Arjun M 44,5.0,Civil,"Concrete Tech, Structural, Surveying",Yes
+3316,Aisha T 37,6.3,Civil,"Concrete Tech, Geotech, Structural",No
+3317,Rahul S 42,5.3,Mechanical,"Thermo, Fluid Mech, Dynamics",Yes
+3318,Sneha S 42,7.3,Electronics,"Signals, VLSI, Circuits",No
+3319,Meera T 50,9.0,Civil,"Surveying, Concrete Tech, Structural",No
+3320,Sneha R 38,5.5,Computer Sci.,"Python, DBMS, OS",Yes
+3321,Ankit R 47,5.0,Computer Sci.,"AI, DSA, CN",Yes
+3322,Aisha R 58,9.6,Mechanical,"Fluid Mech, Thermo, Dynamics",No
+3323,Karan M 51,5.2,Information Tech.,"OS, Java, Security",Yes
+3324,Arjun S 64,6.8,AI & ML,"NLP, RL, DL",No
+3325,Priya M 45,8.8,Mechanical,"Dynamics, Mechatronics, CAD",No
+3326,Arjun K 56,7.1,Electrical,"Power Systems, Control, EM Theory",No
+3327,Aisha K 49,6.5,Electronics,"Embedded, Circuits, Digital Logic",No
+3328,Sneha S 43,8.8,Data Science,"Data Mining, Python, Stats",No
+3329,Arjun K 57,7.1,Electrical,"Control, EM Theory, Power Systems",No
+3330,Ankit K 54,8.5,Data Science,"NLP, Python, ML",No
+3331,Ravi T 50,9.6,Mechanical,"Mechatronics, Fluid Mech, Dynamics",No
+3332,Ankit S 53,9.2,Information Tech.,"OS, Networking, Java",No
+3333,Divya T 62,6.5,AI & ML,"NLP, ML, DL",No
+3334,Meera M 52,8.7,AI & ML,"RL, DL, ML",No
+3335,Ankit S 54,9.7,Computer Sci.,"CN, DSA, AI",No
+3336,Meera K 37,6.9,Data Science,"Python, Stats, ML",No
+3337,Rahul S 43,5.7,Civil,"Geotech, Surveying, Structural",Yes
+3338,Karan S 38,8.9,Electrical,"Control, Machines, EM Theory",No
+3339,Sneha T 51,6.4,Electrical,"Power Systems, Control, EM Theory",No
+3340,Meera T 51,7.8,Mechanical,"Fluid Mech, Mechatronics, Thermo",No
+3341,Meera T 52,5.9,Mechanical,"Mechatronics, CAD, Fluid Mech",Yes
+3342,Rahul T 59,8.3,AI & ML,"AI, ML, NLP",No
+3343,Divya S 39,6.6,Information Tech.,"Security, Java, Networking",No
+3344,Rahul M 58,9.4,Computer Sci.,"DSA, Python, AI",No
+3345,Rahul M 59,8.5,Information Tech.,"OS, Networking, Java",No
+3346,Ankit M 46,8.7,Electronics,"Circuits, Signals, VLSI",No
+3347,Divya T 63,8.0,Civil,"Geotech, Structural, Surveying",No
+3348,Rahul T 60,9.4,Civil,"Surveying, Structural, Geotech",No
+3349,Aisha T 38,5.1,Mechanical,"Dynamics, Mechatronics, CAD",Yes
+3350,Priya K 49,8.4,Data Science,"Python, NLP, ML",No
+3351,Ravi M 46,9.9,Information Tech.,"Web Dev, Java, Networking",No
+3352,Rahul M 60,10.0,Electronics,"Digital Logic, Signals, VLSI",No
+3353,Rahul M 61,6.8,Computer Sci.,"Java, OS, DSA",No
+3354,Arjun R 51,7.5,Electrical,"Machines, Control, Power Systems",No
+3355,Sneha K 45,9.2,Civil,"Structural, Surveying, Geotech",No
+3356,Rahul K 40,8.6,Civil,"Concrete Tech, Surveying, Geotech",No
+3357,Sneha T 52,6.1,Data Science,"NLP, Data Mining, Python",No
+3358,Priya M 46,9.9,Data Science,"Stats, Data Mining, NLP",No
+3359,Ankit M 47,5.7,Information Tech.,"Web Dev, Java, OS",Yes
+3360,Meera R 45,8.9,Data Science,"Data Mining, NLP, ML",No
+3361,Rahul M 62,8.1,Civil,"Structural, Concrete Tech, Geotech",No
+3362,Divya T 64,9.8,Electronics,"Digital Logic, VLSI, Signals",No
+3363,Ravi T 51,6.4,Electronics,"Signals, Embedded, Circuits",No
+3364,Ankit R 48,9.8,Electrical,"Power Systems, EM Theory, Machines",No
+3365,Ravi S 48,9.7,Civil,"Surveying, Concrete Tech, Geotech",No
+3366,Aisha S 38,6.2,Electronics,"Circuits, Signals, Embedded",No
+3367,Divya T 65,10.0,Electronics,"VLSI, Embedded, Signals",No
+3368,Priya T 59,9.1,Civil,"Geotech, Structural, Concrete Tech",No
+3369,Rahul S 44,7.2,Information Tech.,"Security, OS, Networking",No
+3370,Divya R 46,5.3,Mechanical,"Thermo, Fluid Mech, Dynamics",Yes
+3371,Aisha S 39,5.3,Information Tech.,"Java, Security, Networking",Yes
+3372,Arjun R 52,7.0,Computer Sci.,"OS, DSA, AI",No
+3373,Karan T 41,7.7,AI & ML,"NLP, RL, ML",No
+3374,Priya S 55,10.0,Information Tech.,"OS, Networking, Java",No
+3375,Arjun K 58,5.2,Data Science,"NLP, Data Mining, Stats",Yes
+3376,Sneha S 44,9.8,Information Tech.,"Networking, OS, Java",No
+3377,Ankit S 55,9.1,Information Tech.,"Security, Web Dev, Networking",No
+3378,Priya K 50,5.3,Electrical,"Control, Machines, Power Systems",Yes
+3379,Aisha M 47,7.2,Mechanical,"Fluid Mech, Mechatronics, Dynamics",No
+3380,Divya T 66,6.0,AI & ML,"ML, RL, AI",No
+3381,Arjun S 65,7.6,Mechanical,"Fluid Mech, Thermo, CAD",No
+3382,Aisha K 50,9.7,AI & ML,"DL, NLP, AI",No
+3383,Meera R 46,9.2,Computer Sci.,"DSA, CN, Java",No
+3384,Arjun R 53,6.0,Electrical,"Power Systems, EM Theory, Control",No
+3385,Aisha M 48,5.1,Computer Sci.,"AI, DBMS, CN",Yes
+3386,Priya T 60,9.9,Information Tech.,"OS, Java, Networking",No
+3387,Priya R 42,8.1,Computer Sci.,"OS, Java, CN",No
+3388,Ankit K 55,9.9,Electronics,"Circuits, Digital Logic, Embedded",No
+3389,Aisha T 39,8.6,Electrical,"Power Systems, Control, Machines",No
+3390,Aisha M 49,9.8,Data Science,"Stats, Data Mining, ML",No
+3391,Priya S 56,8.5,Electrical,"EM Theory, Machines, Power Systems",No
+3392,Ankit M 48,6.7,Electrical,"EM Theory, Control, Power Systems",No
+3393,Ravi T 52,5.8,AI & ML,"AI, DL, RL",Yes
+3394,Ankit K 56,7.0,Electronics,"VLSI, Signals, Embedded",No
+3395,Ankit K 57,8.4,Computer Sci.,"OS, Python, DBMS",No
+3396,Divya M 50,7.9,Mechanical,"Thermo, Dynamics, Fluid Mech",No
+3397,Karan R 38,7.4,Computer Sci.,"AI, Python, OS",No
+3398,Ankit R 49,6.7,Information Tech.,"Networking, Security, OS",No
+3399,Karan R 39,7.5,Electronics,"VLSI, Signals, Digital Logic",No
+3400,Ravi T 53,5.1,Electrical,"Machines, Power Systems, EM Theory",Yes
+3401,Karan K 48,7.7,Civil,"Surveying, Geotech, Structural",No
+3402,Meera S 44,7.0,Data Science,"NLP, Data Mining, ML",No
+3403,Ankit M 49,5.3,AI & ML,"ML, RL, NLP",Yes
+3404,Sneha S 45,5.3,Information Tech.,"Java, OS, Networking",Yes
+3405,Aisha R 59,9.6,Data Science,"ML, NLP, Stats",No
+3406,Karan M 52,6.8,Electronics,"Embedded, Circuits, VLSI",No
+3407,Meera K 38,7.7,Electronics,"Signals, Embedded, Circuits",No
+3408,Ankit R 50,5.2,Electrical,"Control, Machines, Power Systems",Yes
+3409,Divya M 51,7.9,Electrical,"Machines, Power Systems, EM Theory",No
+3410,Meera R 47,8.4,Computer Sci.,"DSA, DBMS, CN",No
+3411,Karan K 49,5.6,Computer Sci.,"CN, Java, DBMS",Yes
+3412,Ankit M 50,5.8,Civil,"Geotech, Structural, Concrete Tech",Yes
+3413,Aisha K 51,5.9,Computer Sci.,"Python, DBMS, AI",Yes
+3414,Divya K 36,9.3,Computer Sci.,"AI, Python, DBMS",No
+3415,Priya S 57,9.8,Data Science,"Python, Data Mining, ML",No
+3416,Rahul S 45,6.5,Information Tech.,"Networking, OS, Web Dev",No
+3417,Ravi M 47,8.6,Data Science,"ML, Python, NLP",No
+3418,Ravi R 47,6.8,Mechanical,"Thermo, Dynamics, Mechatronics",No
+3419,Aisha R 60,5.9,Electronics,"Embedded, VLSI, Digital Logic",Yes
+3420,Divya R 47,8.4,AI & ML,"AI, DL, ML",No
+3421,Meera T 53,7.8,Electrical,"EM Theory, Control, Machines",No
+3422,Divya K 37,9.5,Data Science,"Stats, ML, Data Mining",No
+3423,Rahul S 46,8.0,Mechanical,"Thermo, Fluid Mech, CAD",No
+3424,Rahul R 54,7.0,Data Science,"NLP, ML, Stats",No
+3425,Divya S 40,8.3,AI & ML,"NLP, ML, RL",No
+3426,Meera K 39,9.3,Civil,"Structural, Surveying, Concrete Tech",No
+3427,Arjun M 45,8.0,Computer Sci.,"AI, OS, CN",No
+3428,Meera T 54,6.5,Civil,"Geotech, Concrete Tech, Structural",No
+3429,Meera R 48,8.9,Electronics,"Signals, Embedded, Circuits",No
+3430,Priya K 51,6.0,AI & ML,"NLP, ML, RL",No
+3431,Meera T 55,9.9,Civil,"Surveying, Concrete Tech, Structural",No
+3432,Divya S 41,9.3,AI & ML,"ML, AI, DL",No
+3433,Arjun S 66,6.7,Mechanical,"Mechatronics, CAD, Dynamics",No
+3434,Rahul S 47,8.8,AI & ML,"DL, RL, NLP",No
+3435,Sneha K 46,9.2,Information Tech.,"Networking, Web Dev, Java",No
+3436,Priya M 47,8.8,Data Science,"ML, Python, Stats",No
+3437,Sneha S 46,6.1,Computer Sci.,"Python, AI, DBMS",No
+3438,Sneha M 31,9.5,Electronics,"Circuits, Embedded, Digital Logic",No
+3439,Meera M 53,9.4,Electronics,"Digital Logic, Signals, Embedded",No
+3440,Arjun M 46,6.2,Electrical,"Machines, Control, EM Theory",No
+3441,Aisha M 50,9.4,Electronics,"Embedded, Circuits, VLSI",No
+3442,Divya T 67,7.6,Data Science,"Stats, Python, Data Mining",No
+3443,Rahul T 61,7.8,Information Tech.,"Java, Security, Networking",No
+3444,Karan S 39,7.8,Mechanical,"Fluid Mech, Dynamics, CAD",No
+3445,Aisha M 51,9.8,Data Science,"Python, NLP, ML",No
+3446,Meera M 54,7.5,Electronics,"Digital Logic, Circuits, VLSI",No
+3447,Karan S 40,5.5,Information Tech.,"Networking, Security, OS",Yes
+3448,Aisha T 40,7.9,Computer Sci.,"CN, Java, DSA",No
+3449,Divya M 52,7.1,Civil,"Surveying, Structural, Geotech",No
+3450,Priya M 48,6.3,Information Tech.,"Security, Networking, OS",No
+3451,Ravi S 49,6.4,Data Science,"Stats, Python, NLP",No
+3452,Aisha K 52,7.6,Electrical,"Power Systems, Control, EM Theory",No
+3453,Sneha S 47,9.6,Electronics,"Embedded, Digital Logic, VLSI",No
+3454,Aisha M 52,6.9,Data Science,"Stats, NLP, Data Mining",No
+3455,Arjun K 59,6.7,Data Science,"ML, NLP, Data Mining",No
+3456,Karan R 40,6.2,AI & ML,"NLP, DL, ML",No
+3457,Rahul T 62,9.6,Electrical,"Control, Power Systems, Machines",No
+3458,Aisha M 53,9.6,Computer Sci.,"OS, Java, Python",No
+3459,Ankit K 58,7.6,Information Tech.,"Networking, OS, Java",No
+3460,Aisha R 61,6.3,Computer Sci.,"AI, DBMS, OS",No
+3461,Meera R 49,5.6,AI & ML,"RL, AI, NLP",Yes
+3462,Aisha M 54,5.9,Data Science,"ML, Stats, Data Mining",Yes
+3463,Ravi R 48,5.8,Information Tech.,"Web Dev, Java, Security",Yes
+3464,Priya T 61,7.6,Electrical,"Machines, Power Systems, EM Theory",No
+3465,Ankit K 59,6.0,Mechanical,"Thermo, Dynamics, Fluid Mech",No
+3466,Arjun M 47,8.0,Computer Sci.,"Java, DBMS, OS",No
+3467,Meera S 45,5.1,Electrical,"Machines, Power Systems, Control",Yes
+3468,Meera S 46,8.4,Civil,"Concrete Tech, Surveying, Geotech",No
+3469,Ravi T 54,7.0,AI & ML,"RL, DL, AI",No
+3470,Priya M 49,5.6,AI & ML,"AI, RL, NLP",Yes
+3471,Rahul K 41,9.6,Data Science,"Python, Stats, ML",No
+3472,Karan T 42,6.7,Electronics,"Circuits, Digital Logic, VLSI",No
+3473,Meera R 50,7.1,Information Tech.,"Security, Java, Networking",No
+3474,Arjun M 48,8.6,Civil,"Structural, Geotech, Surveying",No
+3475,Arjun M 49,8.3,Electronics,"Signals, Circuits, Embedded",No
+3476,Ankit K 60,5.6,AI & ML,"ML, AI, NLP",Yes
+3477,Priya M 50,7.3,Mechanical,"Dynamics, CAD, Fluid Mech",No
+3478,Divya R 48,5.3,Mechanical,"Thermo, Dynamics, Fluid Mech",Yes
+3479,Ankit R 51,10.0,Data Science,"Data Mining, ML, Stats",No
+3480,Meera R 51,7.9,Electrical,"Machines, Control, EM Theory",No
+3481,Divya M 53,6.8,Mechanical,"Dynamics, Thermo, Mechatronics",No
+3482,Arjun K 60,9.0,Computer Sci.,"AI, DBMS, OS",No
+3483,Ravi T 55,9.7,Electrical,"Machines, Control, Power Systems",No
+3484,Aisha K 53,8.2,AI & ML,"RL, DL, ML",No
+3485,Ravi M 48,8.8,Electrical,"Machines, Control, Power Systems",No
+3486,Karan S 41,8.8,Electrical,"Power Systems, EM Theory, Control",No
+3487,Priya S 58,8.8,Computer Sci.,"Java, Python, AI",No
+3488,Arjun S 67,8.1,Electrical,"Power Systems, Machines, Control",No
+3489,Aisha T 41,7.2,AI & ML,"RL, DL, ML",No
+3490,Sneha K 47,6.1,Information Tech.,"Web Dev, Java, Networking",No
+3491,Ravi T 56,5.6,AI & ML,"ML, AI, RL",Yes
+3492,Ankit T 49,5.6,Information Tech.,"Security, OS, Networking",Yes
+3493,Divya K 38,6.0,Civil,"Concrete Tech, Structural, Geotech",No
+3494,Sneha K 48,8.9,Information Tech.,"Java, Security, Web Dev",No
+3495,Rahul M 63,9.1,Mechanical,"CAD, Thermo, Fluid Mech",No
+3496,Priya K 52,5.9,Data Science,"Python, ML, Stats",Yes
+3497,Aisha S 40,6.7,Electrical,"Power Systems, Control, Machines",No
+3498,Meera M 55,6.8,Computer Sci.,"DSA, CN, Java",No
+3499,Ankit T 50,7.7,Mechanical,"Fluid Mech, Dynamics, Mechatronics",No
+3500,Priya K 53,8.8,Electrical,"EM Theory, Power Systems, Machines",No
+3501,Meera S 47,7.6,Electrical,"Control, Power Systems, Machines",No
+3502,Arjun T 44,9.6,Computer Sci.,"DBMS, Python, Java",No
+3503,Arjun T 45,9.2,Computer Sci.,"CN, OS, Python",No
+3504,Rahul T 63,9.0,Civil,"Concrete Tech, Surveying, Geotech",No
+3505,Rahul R 55,7.9,Electrical,"EM Theory, Control, Power Systems",No
+3506,Rahul K 42,7.4,Computer Sci.,"DBMS, DSA, Java",No
+3507,Arjun M 50,5.8,Electrical,"Control, Power Systems, Machines",Yes
+3508,Rahul R 56,6.8,Mechanical,"Mechatronics, Thermo, CAD",No
+3509,Aisha M 55,8.4,Information Tech.,"Networking, OS, Web Dev",No
+3510,Sneha R 39,6.2,AI & ML,"DL, RL, AI",No
+3511,Ravi T 57,5.8,Civil,"Structural, Surveying, Geotech",Yes
+3512,Karan M 53,7.9,Electronics,"Signals, Circuits, VLSI",No
+3513,Ankit R 52,6.5,Civil,"Structural, Geotech, Concrete Tech",No
+3514,Arjun K 61,7.3,Mechanical,"Mechatronics, Dynamics, CAD",No
+3515,Aisha S 41,9.1,Mechanical,"Thermo, CAD, Fluid Mech",No
+3516,Sneha S 48,5.8,Computer Sci.,"DBMS, AI, Java",Yes
+3517,Priya M 51,10.0,Computer Sci.,"AI, CN, OS",No
+3518,Sneha M 32,6.0,Mechanical,"Dynamics, CAD, Mechatronics",No
+3519,Priya S 59,9.7,Computer Sci.,"AI, DSA, CN",No
+3520,Ankit K 61,7.6,Electronics,"Digital Logic, Embedded, VLSI",No
+3521,Divya K 39,7.3,AI & ML,"NLP, RL, DL",No
+3522,Meera R 52,7.3,Civil,"Structural, Concrete Tech, Geotech",No
+3523,Divya R 49,5.1,Computer Sci.,"AI, Python, CN",Yes
+3524,Sneha S 49,9.2,Information Tech.,"Security, Java, Web Dev",No
+3525,Ravi K 49,6.0,Civil,"Surveying, Concrete Tech, Structural",No
+3526,Divya R 50,9.9,Electronics,"Signals, Embedded, Digital Logic",No
+3527,Sneha R 40,6.3,Mechanical,"CAD, Mechatronics, Dynamics",No
+3528,Karan K 50,5.2,Civil,"Surveying, Structural, Geotech",Yes
+3529,Ravi R 49,5.5,Electrical,"Power Systems, Control, Machines",Yes
+3530,Ankit K 62,6.9,Information Tech.,"Java, OS, Security",No
+3531,Meera T 56,9.3,Data Science,"Data Mining, NLP, Stats",No
+3532,Priya M 52,7.0,Information Tech.,"Networking, Web Dev, OS",No
+3533,Aisha M 56,8.4,Mechanical,"Mechatronics, Thermo, Dynamics",No
+3534,Aisha M 57,5.2,Electrical,"Machines, Control, Power Systems",Yes
+3535,Sneha S 50,6.9,Computer Sci.,"Python, OS, Java",No
+3536,Meera K 40,5.3,Electronics,"VLSI, Circuits, Digital Logic",Yes
+3537,Sneha T 53,7.0,Mechanical,"Fluid Mech, Dynamics, CAD",No
+3538,Ankit T 51,5.5,Computer Sci.,"AI, CN, DSA",Yes
+3539,Sneha R 41,8.2,Data Science,"ML, Stats, NLP",No
+3540,Rahul T 64,7.7,Computer Sci.,"Python, CN, DBMS",No
+3541,Ankit S 56,7.5,Mechanical,"CAD, Thermo, Fluid Mech",No
+3542,Divya M 54,7.1,Civil,"Geotech, Structural, Concrete Tech",No
+3543,Ravi M 49,9.8,Data Science,"Python, ML, Stats",No
+3544,Ravi T 58,9.5,Electronics,"Digital Logic, VLSI, Circuits",No
+3545,Divya M 55,6.7,Civil,"Geotech, Structural, Concrete Tech",No
+3546,Divya M 56,5.8,Civil,"Structural, Surveying, Geotech",Yes
+3547,Sneha K 49,6.5,Civil,"Structural, Surveying, Concrete Tech",No
+3548,Sneha T 54,9.1,Civil,"Geotech, Concrete Tech, Structural",No
+3549,Rahul R 57,6.3,Mechanical,"Fluid Mech, CAD, Mechatronics",No
+3550,Divya K 40,7.5,Computer Sci.,"DBMS, OS, Python",No
+3551,Ravi K 50,7.8,Electrical,"Power Systems, EM Theory, Control",No
+3552,Sneha K 50,8.8,Data Science,"Python, Data Mining, NLP",No
+3553,Aisha K 54,7.6,Computer Sci.,"Java, DSA, DBMS",No
+3554,Meera T 57,7.3,Civil,"Geotech, Concrete Tech, Structural",No
+3555,Ankit M 51,6.3,Electronics,"VLSI, Signals, Embedded",No
+3556,Meera R 53,5.2,Information Tech.,"OS, Security, Networking",Yes
+3557,Meera M 56,8.2,Computer Sci.,"OS, Java, CN",No
+3558,Meera R 54,6.8,Information Tech.,"Java, OS, Security",No
+3559,Sneha K 51,8.6,Electrical,"Machines, Power Systems, EM Theory",No
+3560,Ankit K 63,7.9,AI & ML,"DL, NLP, RL",No
+3561,Divya T 68,8.9,Mechanical,"Thermo, Mechatronics, CAD",No
+3562,Sneha T 55,7.3,Mechanical,"Mechatronics, Dynamics, Thermo",No
+3563,Arjun R 54,6.0,Information Tech.,"Java, Networking, OS",No
+3564,Rahul S 48,7.3,Information Tech.,"OS, Web Dev, Networking",No
+3565,Karan M 54,9.5,AI & ML,"AI, NLP, DL",No
+3566,Ravi K 51,6.2,Data Science,"ML, Python, NLP",No
+3567,Arjun S 68,7.1,Data Science,"ML, Python, NLP",No
+3568,Karan K 51,9.3,Information Tech.,"Networking, Java, Security",No
+3569,Sneha R 42,5.1,Mechanical,"CAD, Fluid Mech, Thermo",Yes
+3570,Rahul S 49,7.1,AI & ML,"DL, ML, NLP",No
+3571,Karan R 41,9.3,Electrical,"Machines, Power Systems, EM Theory",No
+3572,Karan S 42,7.8,Civil,"Surveying, Structural, Concrete Tech",No
+3573,Ankit R 53,6.0,AI & ML,"ML, RL, AI",No
+3574,Divya S 42,6.3,AI & ML,"NLP, RL, ML",No
+3575,Rahul K 43,8.5,Mechanical,"Dynamics, Thermo, CAD",No
+3576,Sneha K 52,7.8,Mechanical,"Thermo, CAD, Fluid Mech",No
+3577,Karan R 42,8.1,Data Science,"ML, Python, Stats",No
+3578,Arjun R 55,10.0,Information Tech.,"Java, Networking, OS",No
+3579,Rahul S 50,8.1,Civil,"Structural, Surveying, Geotech",No
+3580,Rahul K 44,9.2,Electronics,"Signals, VLSI, Embedded",No
+3581,Rahul T 65,8.2,Data Science,"ML, Stats, Python",No
+3582,Arjun R 56,7.0,Computer Sci.,"Python, AI, CN",No
+3583,Sneha T 56,7.9,Electrical,"Machines, EM Theory, Control",No
+3584,Karan T 43,9.3,Electronics,"VLSI, Circuits, Digital Logic",No
+3585,Ankit K 64,7.3,Data Science,"Data Mining, ML, Python",No
+3586,Rahul M 64,9.9,Information Tech.,"Java, Security, Web Dev",No
+3587,Aisha M 58,6.6,AI & ML,"AI, NLP, RL",No
+3588,Ravi S 50,8.8,AI & ML,"NLP, AI, ML",No
+3589,Divya T 69,5.9,Data Science,"Stats, Python, NLP",Yes
+3590,Meera M 57,9.1,Computer Sci.,"DSA, CN, DBMS",No
+3591,Sneha S 51,7.7,Civil,"Geotech, Concrete Tech, Surveying",No
+3592,Arjun S 69,8.6,AI & ML,"RL, AI, DL",No
+3593,Sneha M 33,6.6,AI & ML,"AI, ML, RL",No
+3594,Karan K 52,9.2,Civil,"Geotech, Surveying, Concrete Tech",No
+3595,Rahul K 45,5.9,Information Tech.,"OS, Web Dev, Java",Yes
+3596,Ankit M 52,9.9,Computer Sci.,"Python, AI, DSA",No
+3597,Meera T 58,6.2,Civil,"Structural, Geotech, Surveying",No
+3598,Arjun M 51,8.8,Electronics,"Circuits, VLSI, Digital Logic",No
+3599,Arjun T 46,7.0,Information Tech.,"Security, Networking, Java",No
+3600,Ankit K 65,6.8,Electrical,"Machines, Power Systems, EM Theory",No
+3601,Priya S 60,8.4,Electrical,"EM Theory, Machines, Control",No
+3602,Rahul R 58,8.5,Mechanical,"Thermo, Fluid Mech, Mechatronics",No
+3603,Ravi M 50,6.4,Electronics,"Embedded, Digital Logic, VLSI",No
+3604,Sneha M 34,9.5,Computer Sci.,"OS, Python, DSA",No
+3605,Sneha R 43,8.7,Mechanical,"Mechatronics, Thermo, CAD",No
+3606,Aisha M 59,5.8,Data Science,"Data Mining, Python, Stats",Yes
+3607,Ankit K 66,8.8,Data Science,"Data Mining, Stats, Python",No
+3608,Meera M 58,9.8,Information Tech.,"Networking, OS, Web Dev",No
+3609,Divya S 43,5.6,Computer Sci.,"DSA, CN, DBMS",Yes
+3610,Priya R 43,9.3,Information Tech.,"OS, Security, Web Dev",No
+3611,Divya S 44,6.3,Computer Sci.,"CN, Java, AI",No
+3612,Ravi R 50,7.8,Computer Sci.,"OS, Python, AI",No
+3613,Sneha K 53,10.0,Data Science,"Python, Stats, NLP",No
+3614,Ankit M 53,6.2,Data Science,"NLP, Python, Data Mining",No
+3615,Karan S 43,7.2,Data Science,"Stats, NLP, Data Mining",No
+3616,Aisha T 42,6.6,AI & ML,"NLP, AI, RL",No
+3617,Karan M 55,7.4,Information Tech.,"Security, Networking, OS",No
+3618,Priya T 62,9.9,Data Science,"Data Mining, Python, Stats",No
+3619,Sneha T 57,5.3,Information Tech.,"OS, Java, Networking",Yes
+3620,Priya T 63,8.1,Civil,"Surveying, Structural, Geotech",No
+3621,Karan S 44,6.7,Data Science,"Stats, Python, ML",No
+3622,Divya R 51,5.4,AI & ML,"NLP, DL, RL",Yes
+3623,Ravi M 51,9.6,Electrical,"Power Systems, Control, EM Theory",No
+3624,Meera K 41,5.3,Information Tech.,"Networking, Web Dev, Java",Yes
+3625,Ankit R 54,6.8,Mechanical,"Fluid Mech, Dynamics, Mechatronics",No
+3626,Sneha R 44,8.4,Civil,"Concrete Tech, Structural, Geotech",No
+3627,Ravi K 52,9.3,Information Tech.,"Web Dev, Security, Networking",No
+3628,Sneha R 45,6.6,AI & ML,"ML, RL, DL",No
+3629,Ankit K 67,5.5,Electronics,"Circuits, Embedded, Digital Logic",Yes
+3630,Ankit M 54,8.8,Computer Sci.,"Python, CN, DSA",No
+3631,Ravi R 51,7.7,Information Tech.,"Security, Java, Web Dev",No
+3632,Aisha R 62,8.1,Mechanical,"Dynamics, Mechatronics, CAD",No
+3633,Meera M 59,10.0,Information Tech.,"Java, Security, Networking",No
+3634,Meera T 59,8.9,Data Science,"Python, ML, NLP",No
+3635,Karan S 45,8.7,Electrical,"Control, Machines, Power Systems",No
+3636,Meera S 48,8.8,Mechanical,"Mechatronics, Dynamics, CAD",No
+3637,Arjun R 57,7.2,Computer Sci.,"Python, Java, AI",No
+3638,Divya M 57,6.3,Mechanical,"Dynamics, Mechatronics, CAD",No
+3639,Meera R 55,5.4,Electronics,"Signals, Embedded, Circuits",Yes
+3640,Ravi K 53,8.7,Civil,"Concrete Tech, Surveying, Geotech",No
+3641,Meera R 56,5.5,Information Tech.,"Java, Security, OS",Yes
+3642,Meera S 49,7.8,AI & ML,"ML, AI, DL",No
+3643,Priya S 61,5.3,Electronics,"Embedded, Signals, Circuits",Yes
+3644,Meera M 60,7.5,Data Science,"ML, Python, Stats",No
+3645,Rahul R 59,6.3,Electrical,"Power Systems, Control, Machines",No
+3646,Ankit S 57,9.2,Electronics,"Circuits, Digital Logic, Signals",No
+3647,Sneha K 54,5.5,Computer Sci.,"Java, AI, DBMS",Yes
+3648,Rahul S 51,9.3,Civil,"Structural, Concrete Tech, Surveying",No
+3649,Priya M 53,7.7,AI & ML,"AI, NLP, ML",No
+3650,Ravi M 52,9.3,AI & ML,"NLP, RL, ML",No
+3651,Arjun M 52,7.6,Computer Sci.,"DSA, AI, OS",No
+3652,Ankit M 55,9.5,Mechanical,"Dynamics, Mechatronics, Thermo",No
+3653,Karan R 43,5.3,Mechanical,"CAD, Thermo, Dynamics",Yes
+3654,Rahul M 65,5.8,AI & ML,"DL, ML, RL",Yes
+3655,Rahul T 66,6.1,Electrical,"Machines, EM Theory, Control",No
+3656,Ankit K 68,9.1,Information Tech.,"Web Dev, Java, Security",No
+3657,Sneha K 55,6.5,Information Tech.,"Security, OS, Networking",No
+3658,Ankit S 58,9.7,Mechanical,"Dynamics, CAD, Mechatronics",No
+3659,Karan M 56,6.0,Electrical,"Control, Power Systems, EM Theory",No
+3660,Meera M 61,9.3,Information Tech.,"Web Dev, Security, Networking",No
+3661,Priya S 62,7.0,Civil,"Concrete Tech, Structural, Geotech",No
+3662,Priya T 64,5.5,Data Science,"Stats, Data Mining, ML",Yes
+3663,Arjun M 53,7.9,Mechanical,"Dynamics, Mechatronics, CAD",No
+3664,Ankit T 52,7.7,Data Science,"Python, NLP, Data Mining",No
+3665,Aisha K 55,9.8,Data Science,"ML, Stats, Python",No
+3666,Meera T 60,7.9,AI & ML,"ML, NLP, DL",No
+3667,Karan T 44,5.5,Computer Sci.,"AI, CN, Python",Yes
+3668,Rahul R 60,8.8,Information Tech.,"OS, Java, Networking",No
+3669,Priya R 44,7.8,Electrical,"Machines, Power Systems, EM Theory",No
+3670,Rahul S 52,8.7,Computer Sci.,"DBMS, Python, DSA",No
+3671,Ravi R 52,5.2,Electrical,"EM Theory, Power Systems, Control",Yes
+3672,Ravi S 51,9.5,Civil,"Structural, Surveying, Concrete Tech",No
+3673,Priya S 63,6.1,Data Science,"Stats, Python, NLP",No
+3674,Meera R 57,9.2,Computer Sci.,"Java, Python, DBMS",No
+3675,Meera R 58,6.0,AI & ML,"DL, AI, RL",No
+3676,Karan R 44,8.6,Electronics,"Circuits, Digital Logic, VLSI",No
+3677,Aisha K 56,7.3,Electrical,"Power Systems, EM Theory, Machines",No
+3678,Sneha M 35,7.9,AI & ML,"RL, DL, AI",No
+3679,Aisha R 63,9.7,Information Tech.,"OS, Security, Networking",No
+3680,Ankit S 59,7.7,Civil,"Concrete Tech, Geotech, Surveying",No
+3681,Meera M 62,8.2,Civil,"Structural, Surveying, Concrete Tech",No
+3682,Divya M 58,7.2,Data Science,"NLP, Python, ML",No
+3683,Arjun K 62,5.4,Electrical,"EM Theory, Control, Power Systems",Yes
+3684,Ankit M 56,7.4,AI & ML,"NLP, RL, ML",No
+3685,Priya R 45,5.7,Electrical,"Control, Power Systems, EM Theory",Yes
+3686,Meera K 42,10.0,AI & ML,"NLP, AI, ML",No
+3687,Rahul S 53,9.2,Computer Sci.,"Java, Python, AI",No
+3688,Meera R 59,8.3,Civil,"Concrete Tech, Structural, Geotech",No
+3689,Sneha K 56,8.2,Civil,"Concrete Tech, Structural, Surveying",No
+3690,Karan R 45,5.6,Electrical,"Power Systems, EM Theory, Control",Yes
+3691,Arjun K 63,8.2,AI & ML,"ML, DL, RL",No
+3692,Rahul S 54,5.5,Data Science,"Data Mining, ML, Stats",Yes
+3693,Sneha M 36,5.9,Electrical,"Machines, Control, Power Systems",Yes
+3694,Aisha T 43,5.6,Mechanical,"Thermo, Fluid Mech, CAD",Yes
+3695,Aisha R 64,5.3,Data Science,"Python, ML, Stats",Yes
+3696,Sneha S 52,7.2,Computer Sci.,"DSA, Python, AI",No
+3697,Sneha K 57,9.3,Civil,"Geotech, Concrete Tech, Structural",No
+3698,Ankit K 69,10.0,Information Tech.,"Web Dev, Java, Security",No
+3699,Rahul K 46,9.8,AI & ML,"DL, RL, ML",No
+3700,Arjun T 47,9.1,Data Science,"Python, Data Mining, Stats",No
+3701,Arjun S 70,8.1,Computer Sci.,"DSA, DBMS, Python",No
+3702,Sneha T 58,8.9,Civil,"Concrete Tech, Surveying, Structural",No
+3703,Meera T 61,5.8,Computer Sci.,"Java, Python, DBMS",Yes
+3704,Rahul M 66,9.8,Electronics,"VLSI, Circuits, Digital Logic",No
+3705,Sneha M 37,7.8,Mechanical,"Dynamics, Thermo, CAD",No
+3706,Sneha T 59,5.3,Computer Sci.,"CN, Java, OS",Yes
+3707,Divya K 41,8.2,Electronics,"VLSI, Embedded, Circuits",No
+3708,Divya S 45,5.9,Data Science,"Python, Data Mining, NLP",Yes
+3709,Divya M 59,7.0,Mechanical,"Dynamics, Mechatronics, CAD",No
+3710,Divya T 70,7.2,Electronics,"Digital Logic, Circuits, Signals",No
+3711,Sneha T 60,5.7,Electrical,"Power Systems, Machines, EM Theory",Yes
+3712,Ravi M 53,9.9,Electronics,"Embedded, Circuits, VLSI",No
+3713,Rahul S 55,5.5,AI & ML,"DL, RL, NLP",Yes
+3714,Divya T 71,8.9,Information Tech.,"Security, OS, Java",No
+3715,Arjun R 58,9.6,Data Science,"NLP, Stats, Python",No
+3716,Ankit T 53,7.5,Electrical,"EM Theory, Control, Machines",No
+3717,Arjun M 54,5.5,Electronics,"Signals, Digital Logic, VLSI",Yes
+3718,Arjun T 48,5.5,Civil,"Structural, Geotech, Concrete Tech",Yes
+3719,Aisha M 60,5.7,Electronics,"Digital Logic, Embedded, Signals",Yes
+3720,Priya R 46,6.5,AI & ML,"NLP, ML, DL",No
+3721,Ankit S 60,7.6,Civil,"Concrete Tech, Geotech, Surveying",No
+3722,Ankit T 54,6.6,Electrical,"EM Theory, Control, Machines",No
+3723,Meera T 62,8.7,Electronics,"Digital Logic, Embedded, VLSI",No
+3724,Aisha K 57,7.6,Electronics,"VLSI, Digital Logic, Signals",No
+3725,Aisha T 44,7.4,Electrical,"Power Systems, Machines, EM Theory",No
+3726,Karan K 53,6.3,Electrical,"EM Theory, Power Systems, Control",No
+3727,Arjun R 59,7.5,Electronics,"Digital Logic, Embedded, Signals",No
+3728,Rahul S 56,6.0,Data Science,"ML, Stats, NLP",No
+3729,Rahul S 57,7.0,AI & ML,"NLP, AI, RL",No
+3730,Ravi S 52,7.7,AI & ML,"ML, DL, AI",No
+3731,Karan M 57,6.5,Data Science,"Stats, NLP, ML",No
+3732,Rahul R 61,9.8,Data Science,"Stats, NLP, ML",No
+3733,Rahul R 62,5.7,AI & ML,"NLP, RL, ML",Yes
+3734,Sneha T 61,8.5,Electrical,"Machines, Control, Power Systems",No
+3735,Priya K 54,5.6,Information Tech.,"Java, Security, Web Dev",Yes
+3736,Aisha S 42,5.5,Electrical,"Power Systems, EM Theory, Machines",Yes
+3737,Aisha R 65,8.5,Information Tech.,"OS, Web Dev, Networking",No
+3738,Aisha R 66,8.6,AI & ML,"RL, AI, NLP",No
+3739,Sneha M 38,9.3,Mechanical,"Thermo, Mechatronics, Fluid Mech",No
+3740,Divya T 72,8.1,AI & ML,"RL, AI, DL",No
+3741,Arjun R 60,8.3,Electrical,"EM Theory, Machines, Power Systems",No
+3742,Arjun M 55,8.6,AI & ML,"ML, RL, DL",No
+3743,Aisha M 61,6.2,Electrical,"EM Theory, Power Systems, Control",No
+3744,Ankit T 55,9.0,Electrical,"Control, EM Theory, Power Systems",No
+3745,Karan T 45,5.6,Information Tech.,"OS, Web Dev, Security",Yes
+3746,Divya M 60,6.7,Computer Sci.,"Python, OS, AI",No
+3747,Divya R 52,6.2,Electrical,"Control, Power Systems, Machines",No
+3748,Ankit S 61,6.6,Electronics,"Signals, Embedded, Digital Logic",No
+3749,Arjun K 64,7.8,AI & ML,"NLP, AI, ML",No
+3750,Rahul R 63,5.6,AI & ML,"NLP, RL, DL",Yes
+3751,Aisha M 62,9.7,Computer Sci.,"Python, OS, CN",No
+3752,Ankit M 57,5.9,Data Science,"Data Mining, Stats, ML",Yes
+3753,Sneha S 53,5.6,Information Tech.,"OS, Networking, Web Dev",Yes
+3754,Meera T 63,9.1,Information Tech.,"Networking, Security, Java",No
+3755,Sneha R 46,5.1,Data Science,"ML, Python, NLP",Yes
+3756,Aisha T 45,8.2,AI & ML,"DL, AI, ML",No
+3757,Divya S 46,9.8,Electrical,"Control, Machines, EM Theory",No
+3758,Ravi K 54,9.5,Electronics,"Signals, Digital Logic, Embedded",No
+3759,Meera S 50,8.6,Electronics,"VLSI, Signals, Circuits",No
+3760,Karan T 46,8.7,Electronics,"Circuits, VLSI, Digital Logic",No
+3761,Karan S 46,5.6,Civil,"Structural, Concrete Tech, Geotech",Yes
+3762,Sneha R 47,6.7,Computer Sci.,"Java, OS, CN",No
+3763,Rahul R 64,5.5,Mechanical,"CAD, Fluid Mech, Dynamics",Yes
+3764,Arjun R 61,7.3,Information Tech.,"OS, Security, Networking",No
+3765,Divya S 47,8.5,Information Tech.,"Security, Java, Web Dev",No
+3766,Divya T 73,6.9,Civil,"Geotech, Surveying, Structural",No
+3767,Karan M 58,8.4,Civil,"Geotech, Structural, Surveying",No
+3768,Rahul K 47,9.3,Information Tech.,"Networking, Security, Java",No
+3769,Rahul M 67,7.4,Electronics,"Signals, Embedded, VLSI",No
+3770,Meera M 63,6.3,Computer Sci.,"AI, Java, OS",No
+3771,Divya M 61,5.1,Electronics,"Signals, Circuits, Embedded",Yes
+3772,Ravi R 53,5.4,Electrical,"EM Theory, Machines, Control",Yes
+3773,Divya K 42,7.2,AI & ML,"NLP, ML, DL",No
+3774,Rahul S 58,7.1,Electrical,"Power Systems, Control, EM Theory",No
+3775,Sneha R 48,7.8,Mechanical,"CAD, Thermo, Mechatronics",No
+3776,Arjun T 49,5.7,AI & ML,"NLP, AI, ML",Yes
+3777,Divya K 43,5.9,Electronics,"Circuits, VLSI, Embedded",Yes
+3778,Divya T 74,8.2,Information Tech.,"Security, Java, Networking",No
+3779,Meera T 64,6.2,Electrical,"Power Systems, Control, EM Theory",No
+3780,Aisha K 58,9.5,AI & ML,"DL, RL, ML",No
+3781,Ravi R 54,6.7,Mechanical,"Fluid Mech, CAD, Dynamics",No
+3782,Meera S 51,9.7,Data Science,"Python, Stats, NLP",No
+3783,Meera T 65,6.3,Civil,"Geotech, Concrete Tech, Structural",No
+3784,Sneha R 49,5.1,Electrical,"Power Systems, EM Theory, Control",Yes
+3785,Ankit K 70,7.5,Electrical,"Machines, EM Theory, Control",No
+3786,Ankit S 62,8.0,Electronics,"Digital Logic, VLSI, Embedded",No
+3787,Arjun R 62,6.1,Data Science,"NLP, Python, ML",No
+3788,Arjun R 63,8.9,Electrical,"Machines, Power Systems, Control",No
+3789,Meera K 43,5.2,Civil,"Structural, Concrete Tech, Geotech",Yes
+3790,Karan M 59,9.9,AI & ML,"RL, NLP, AI",No
+3791,Sneha T 62,7.2,Civil,"Surveying, Structural, Concrete Tech",No
+3792,Arjun M 56,9.6,AI & ML,"AI, ML, NLP",No
+3793,Karan K 54,9.9,Mechanical,"Dynamics, Fluid Mech, Mechatronics",No
+3794,Rahul T 67,9.9,Electronics,"Circuits, Embedded, Signals",No
+3795,Meera T 66,8.0,Civil,"Structural, Geotech, Surveying",No
+3796,Ankit T 56,6.7,Data Science,"Data Mining, Stats, NLP",No
+3797,Divya T 75,8.0,Computer Sci.,"OS, Java, CN",No
+3798,Divya M 62,8.7,Data Science,"Stats, NLP, Data Mining",No
+3799,Aisha K 59,5.3,Electrical,"Control, Machines, EM Theory",Yes
+3800,Priya R 47,7.0,Information Tech.,"Networking, Web Dev, OS",No
+3801,Sneha S 54,8.3,Mechanical,"CAD, Dynamics, Thermo",No
+3802,Priya K 55,6.3,Electrical,"Control, Machines, Power Systems",No
+3803,Rahul T 68,7.2,Electrical,"Power Systems, EM Theory, Machines",No
+3804,Meera T 67,8.2,Mechanical,"CAD, Thermo, Mechatronics",No
+3805,Ankit R 55,5.1,Information Tech.,"Security, OS, Networking",Yes
+3806,Meera T 68,5.7,Electrical,"Power Systems, Machines, EM Theory",Yes
+3807,Sneha M 39,9.8,Computer Sci.,"CN, AI, DSA",No
+3808,Sneha S 55,6.8,Electrical,"Machines, EM Theory, Power Systems",No
+3809,Aisha T 46,6.7,Data Science,"NLP, ML, Data Mining",No
+3810,Divya K 44,6.7,AI & ML,"AI, ML, DL",No
+3811,Priya T 65,5.4,Data Science,"Data Mining, Python, NLP",Yes
+3812,Meera T 69,6.2,Information Tech.,"Networking, Security, OS",No
+3813,Sneha K 58,7.6,Civil,"Concrete Tech, Structural, Surveying",No
+3814,Sneha T 63,7.4,Mechanical,"Thermo, Dynamics, Fluid Mech",No
+3815,Rahul T 69,5.2,Mechanical,"CAD, Mechatronics, Thermo",Yes
+3816,Divya S 48,9.4,Data Science,"NLP, Python, ML",No
+3817,Ravi K 55,7.5,Mechanical,"Mechatronics, Thermo, Dynamics",No
+3818,Ankit K 71,8.0,Mechanical,"Fluid Mech, CAD, Thermo",No
+3819,Priya M 54,7.7,AI & ML,"ML, DL, AI",No
+3820,Rahul K 48,6.4,Data Science,"ML, Data Mining, NLP",No
+3821,Arjun S 71,6.6,Electrical,"Power Systems, EM Theory, Control",No
+3822,Rahul K 49,8.7,Computer Sci.,"DBMS, Python, Java",No
+3823,Divya T 76,6.9,Mechanical,"CAD, Mechatronics, Dynamics",No
+3824,Meera R 60,9.1,Electronics,"Embedded, Digital Logic, Signals",No
+3825,Rahul K 50,5.9,Mechanical,"CAD, Fluid Mech, Thermo",Yes
+3826,Meera T 70,7.4,Information Tech.,"Java, Networking, OS",No
+3827,Sneha M 40,7.5,Information Tech.,"Networking, Java, OS",No
+3828,Divya S 49,6.4,Civil,"Surveying, Concrete Tech, Geotech",No
+3829,Sneha R 50,7.9,AI & ML,"ML, RL, AI",No
+3830,Divya R 53,5.6,Mechanical,"Mechatronics, CAD, Fluid Mech",Yes
+3831,Ankit R 56,5.7,Computer Sci.,"AI, OS, Java",Yes
+3832,Ankit K 72,5.0,Data Science,"ML, NLP, Stats",Yes
+3833,Rahul M 68,9.7,Computer Sci.,"Python, DSA, OS",No
+3834,Sneha K 59,7.5,AI & ML,"AI, NLP, DL",No
+3835,Divya K 45,8.7,Electrical,"EM Theory, Control, Power Systems",No
+3836,Sneha S 56,6.3,Electronics,"Embedded, Signals, VLSI",No
+3837,Ankit K 73,7.9,Civil,"Surveying, Structural, Geotech",No
+3838,Rahul K 51,7.2,Civil,"Structural, Surveying, Geotech",No
+3839,Ravi R 55,8.5,Information Tech.,"Networking, Security, OS",No
+3840,Rahul K 52,6.5,Data Science,"Stats, Python, NLP",No
+3841,Ankit M 58,5.1,AI & ML,"RL, DL, AI",Yes
+3842,Karan M 60,6.3,Data Science,"NLP, ML, Data Mining",No
+3843,Ravi M 54,5.0,AI & ML,"ML, RL, NLP",Yes
+3844,Arjun M 57,7.5,Electrical,"Control, EM Theory, Power Systems",No
+3845,Divya R 54,6.0,Mechanical,"CAD, Thermo, Fluid Mech",No
+3846,Priya M 55,6.4,Civil,"Concrete Tech, Structural, Surveying",No
+3847,Divya M 63,6.6,Electrical,"Control, Power Systems, Machines",No
+3848,Ankit R 57,9.6,Civil,"Geotech, Surveying, Structural",No
+3849,Arjun M 58,5.1,Electronics,"Digital Logic, Circuits, Embedded",Yes
+3850,Sneha S 57,9.9,Civil,"Surveying, Geotech, Concrete Tech",No
+3851,Ankit S 63,7.2,AI & ML,"AI, RL, ML",No
+3852,Arjun M 59,5.6,Computer Sci.,"CN, OS, AI",Yes
+3853,Sneha K 60,5.8,Electronics,"VLSI, Signals, Embedded",Yes
+3854,Arjun M 60,9.7,Data Science,"ML, Stats, NLP",No
+3855,Meera M 64,6.6,Electrical,"Control, Machines, Power Systems",No
+3856,Aisha T 47,5.7,Electrical,"Control, Machines, Power Systems",Yes
+3857,Ravi K 56,8.7,Civil,"Concrete Tech, Surveying, Structural",No
+3858,Sneha M 41,9.5,Civil,"Structural, Geotech, Surveying",No
+3859,Sneha S 58,9.4,Civil,"Geotech, Concrete Tech, Structural",No
+3860,Ankit T 57,6.0,Data Science,"Data Mining, NLP, ML",No
+3861,Aisha R 67,5.3,Electrical,"EM Theory, Machines, Power Systems",Yes
+3862,Ankit T 58,6.4,AI & ML,"NLP, AI, RL",No
+3863,Aisha R 68,5.2,Civil,"Surveying, Structural, Geotech",Yes
+3864,Rahul K 53,5.5,AI & ML,"ML, NLP, DL",Yes
+3865,Sneha S 59,6.8,Computer Sci.,"OS, Java, AI",No
+3866,Ankit K 74,7.0,Electrical,"Machines, Control, Power Systems",No
+3867,Sneha M 42,7.7,Mechanical,"Mechatronics, CAD, Thermo",No
+3868,Meera T 71,7.0,Electrical,"EM Theory, Machines, Control",No
+3869,Karan S 47,7.9,Computer Sci.,"AI, OS, Java",No
+3870,Karan K 55,8.8,AI & ML,"ML, DL, AI",No
+3871,Meera T 72,5.1,Electrical,"Machines, Power Systems, EM Theory",Yes
+3872,Priya M 56,8.2,Electrical,"Control, Machines, Power Systems",No
+3873,Aisha M 63,5.5,Computer Sci.,"Python, CN, OS",Yes
+3874,Priya T 66,5.6,Electronics,"Circuits, Embedded, Signals",Yes
+3875,Arjun T 50,6.9,Electronics,"Signals, Digital Logic, Circuits",No
+3876,Meera R 61,7.1,Computer Sci.,"Java, CN, DSA",No
+3877,Aisha S 43,7.1,Electronics,"Signals, VLSI, Digital Logic",No
+3878,Divya S 50,8.4,Information Tech.,"Web Dev, Java, Networking",No
+3879,Rahul T 70,6.5,AI & ML,"RL, AI, DL",No
+3880,Rahul K 54,8.6,Mechanical,"Fluid Mech, Dynamics, CAD",No
+3881,Ravi S 53,6.9,Civil,"Geotech, Concrete Tech, Surveying",No
+3882,Priya S 64,7.4,Mechanical,"Thermo, Mechatronics, Dynamics",No
+3883,Sneha R 51,5.4,Computer Sci.,"AI, OS, Java",Yes
+3884,Ankit K 75,7.0,AI & ML,"AI, NLP, DL",No
+3885,Rahul K 55,9.5,Computer Sci.,"OS, DSA, AI",No
+3886,Ankit S 64,6.4,Electronics,"VLSI, Signals, Embedded",No
+3887,Divya R 55,7.1,Civil,"Geotech, Surveying, Structural",No
+3888,Meera R 62,9.4,Civil,"Surveying, Concrete Tech, Geotech",No
+3889,Priya K 56,5.0,Computer Sci.,"DBMS, Java, DSA",Yes
+3890,Meera K 44,6.1,Electrical,"Control, Machines, EM Theory",No
+3891,Rahul K 56,7.5,Mechanical,"Thermo, Fluid Mech, Dynamics",No
+3892,Divya K 46,8.2,Electronics,"VLSI, Circuits, Digital Logic",No
+3893,Aisha S 44,7.0,Computer Sci.,"Java, AI, OS",No
+3894,Ankit K 76,7.5,Electronics,"Circuits, VLSI, Signals",No
+3895,Rahul T 71,6.9,Electrical,"Control, Machines, Power Systems",No
+3896,Ankit T 59,8.0,Information Tech.,"Security, Networking, Java",No
+3897,Arjun M 61,9.1,Computer Sci.,"OS, DBMS, CN",No
+3898,Meera K 45,6.6,AI & ML,"ML, DL, RL",No
+3899,Karan K 56,7.1,Data Science,"Data Mining, NLP, Stats",No
+3900,Arjun M 62,6.2,Electronics,"Circuits, Digital Logic, VLSI",No
+3901,Karan R 46,9.1,Information Tech.,"Networking, Java, Web Dev",No
+3902,Ankit K 77,9.7,Mechanical,"Fluid Mech, Mechatronics, Thermo",No
+3903,Sneha R 52,7.9,Data Science,"Python, Data Mining, Stats",No
+3904,Rahul T 72,8.4,AI & ML,"NLP, DL, ML",No
+3905,Priya R 48,9.0,Information Tech.,"Networking, Java, OS",No
+3906,Sneha K 61,8.4,Data Science,"Data Mining, NLP, Python",No
+3907,Karan T 47,7.4,Electronics,"Signals, Digital Logic, Embedded",No
+3908,Divya S 51,6.7,Electronics,"Digital Logic, Circuits, VLSI",No
+3909,Divya M 64,7.5,Mechanical,"Mechatronics, CAD, Fluid Mech",No
+3910,Aisha T 48,5.8,Electrical,"Control, Machines, EM Theory",Yes
+3911,Meera R 63,5.6,Data Science,"ML, NLP, Data Mining",Yes
+3912,Karan M 61,7.7,Information Tech.,"Networking, Web Dev, Java",No
+3913,Ravi R 56,9.8,Data Science,"Python, Data Mining, ML",No
+3914,Ravi K 57,6.9,Mechanical,"Fluid Mech, Mechatronics, Thermo",No
+3915,Rahul K 57,6.5,Information Tech.,"Web Dev, OS, Networking",No
+3916,Ravi T 59,8.9,Computer Sci.,"Java, DSA, AI",No
+3917,Priya R 49,6.3,Electronics,"Embedded, Signals, Digital Logic",No
+3918,Ankit S 65,9.9,Computer Sci.,"Java, AI, OS",No
+3919,Divya M 65,5.9,Civil,"Concrete Tech, Geotech, Surveying",Yes
+3920,Arjun S 72,5.4,Electrical,"Power Systems, EM Theory, Control",Yes
+3921,Meera S 52,7.1,Data Science,"ML, Python, Stats",No
+3922,Meera S 53,7.5,Computer Sci.,"CN, DBMS, Java",No
+3923,Ravi R 57,9.7,Electronics,"Embedded, VLSI, Digital Logic",No
+3924,Ravi R 58,9.7,Civil,"Geotech, Structural, Concrete Tech",No
+3925,Aisha S 45,6.1,Data Science,"Stats, NLP, ML",No
+3926,Aisha M 64,6.6,Data Science,"NLP, Python, Stats",No
+3927,Divya R 56,9.4,Civil,"Concrete Tech, Surveying, Structural",No
+3928,Sneha T 64,5.4,Computer Sci.,"DSA, Java, OS",Yes
+3929,Ravi K 58,5.1,Mechanical,"Fluid Mech, Mechatronics, CAD",Yes
+3930,Ravi R 59,8.5,Civil,"Concrete Tech, Geotech, Structural",No
+3931,Sneha T 65,9.2,AI & ML,"DL, RL, ML",No
+3932,Meera R 64,8.5,Information Tech.,"Web Dev, OS, Java",No
+3933,Rahul R 65,7.6,Mechanical,"CAD, Fluid Mech, Thermo",No
+3934,Aisha M 65,8.1,Mechanical,"Dynamics, Fluid Mech, CAD",No
+3935,Sneha M 43,6.4,Data Science,"Stats, Data Mining, NLP",No
+3936,Aisha S 46,5.7,Civil,"Surveying, Structural, Geotech",Yes
+3937,Divya M 66,9.5,Civil,"Geotech, Structural, Concrete Tech",No
+3938,Ravi S 54,8.5,Electronics,"Signals, Embedded, VLSI",No
+3939,Priya K 57,8.5,Data Science,"NLP, Stats, Python",No
+3940,Ravi M 55,8.4,AI & ML,"ML, NLP, DL",No
+3941,Divya R 57,6.2,Mechanical,"Mechatronics, Thermo, CAD",No
+3942,Arjun R 64,7.3,Data Science,"ML, NLP, Data Mining",No
+3943,Karan K 57,6.4,Electrical,"Power Systems, Control, Machines",No
+3944,Meera R 65,5.1,Civil,"Geotech, Concrete Tech, Surveying",Yes
+3945,Divya M 67,5.8,Electronics,"Embedded, VLSI, Circuits",Yes
+3946,Ravi S 55,8.9,Data Science,"Data Mining, Python, Stats",No
+3947,Divya R 58,7.6,Mechanical,"Thermo, CAD, Dynamics",No
+3948,Sneha S 60,5.6,AI & ML,"ML, DL, NLP",Yes
+3949,Rahul K 58,9.8,Civil,"Geotech, Structural, Surveying",No
+3950,Arjun T 51,5.2,AI & ML,"RL, AI, NLP",Yes
+3951,Ravi S 56,8.9,Electrical,"EM Theory, Machines, Power Systems",No
+3952,Karan R 47,6.0,Civil,"Surveying, Geotech, Structural",No
+3953,Divya M 68,6.9,Mechanical,"Mechatronics, CAD, Thermo",No
+3954,Rahul K 59,9.8,Information Tech.,"Java, Security, Web Dev",No
+3955,Aisha S 47,9.0,Electronics,"Circuits, VLSI, Signals",No
+3956,Arjun S 73,7.2,Electronics,"Circuits, VLSI, Signals",No
+3957,Arjun M 63,9.3,Mechanical,"Dynamics, Thermo, CAD",No
+3958,Rahul T 73,6.3,Data Science,"Stats, ML, NLP",No
+3959,Sneha K 62,8.5,Mechanical,"Thermo, Fluid Mech, Mechatronics",No
+3960,Divya R 59,5.1,Electrical,"Control, EM Theory, Power Systems",Yes
+3961,Aisha K 60,5.8,Mechanical,"Dynamics, Mechatronics, Fluid Mech",Yes
+3962,Sneha M 44,5.8,Computer Sci.,"OS, Java, DSA",Yes
+3963,Karan M 62,5.3,AI & ML,"ML, NLP, AI",Yes
+3964,Ankit K 78,8.6,Mechanical,"Mechatronics, Dynamics, CAD",No
+3965,Priya M 57,6.1,Information Tech.,"Web Dev, Networking, Java",No
+3966,Ravi K 59,8.8,Information Tech.,"Java, Web Dev, OS",No
+3967,Ravi T 60,9.8,Data Science,"Python, ML, Stats",No
+3968,Ankit K 79,6.2,Data Science,"NLP, Data Mining, ML",No
+3969,Ankit R 58,8.7,Civil,"Geotech, Surveying, Concrete Tech",No
+3970,Karan R 48,7.1,Computer Sci.,"CN, Python, DBMS",No
+3971,Aisha S 48,9.0,AI & ML,"AI, NLP, DL",No
+3972,Priya T 67,9.8,Information Tech.,"OS, Java, Security",No
+3973,Ravi R 60,9.6,Computer Sci.,"DBMS, Java, AI",No
+3974,Ankit K 80,9.8,Civil,"Structural, Surveying, Concrete Tech",No
+3975,Priya T 68,6.7,AI & ML,"NLP, AI, DL",No
+3976,Sneha T 66,7.9,Computer Sci.,"Java, DSA, AI",No
+3977,Divya T 77,9.1,Electronics,"Digital Logic, Signals, Circuits",No
+3978,Meera R 66,7.5,Computer Sci.,"Java, DBMS, CN",No
+3979,Sneha T 67,9.4,Computer Sci.,"CN, OS, DBMS",No
+3980,Aisha R 69,8.1,Civil,"Structural, Surveying, Geotech",No
+3981,Rahul R 66,6.3,Computer Sci.,"AI, DBMS, Python",No
+3982,Ankit M 59,6.3,Mechanical,"CAD, Fluid Mech, Dynamics",No
+3983,Sneha S 61,8.3,Electrical,"Machines, Power Systems, Control",No
+3984,Meera M 65,7.9,Electrical,"Power Systems, EM Theory, Control",No
+3985,Rahul R 67,9.0,Computer Sci.,"AI, DSA, Python",No
+3986,Divya T 78,7.7,Data Science,"Stats, Data Mining, Python",No
+3987,Aisha T 49,9.9,Data Science,"ML, NLP, Stats",No
+3988,Divya M 69,9.6,Data Science,"NLP, Data Mining, ML",No
+3989,Arjun K 65,5.3,Information Tech.,"Security, Web Dev, OS",Yes
+3990,Priya T 69,7.8,Civil,"Concrete Tech, Surveying, Structural",No
+3991,Ankit S 66,7.1,Electrical,"EM Theory, Power Systems, Control",No
+3992,Ankit R 59,9.7,Electrical,"Control, EM Theory, Machines",No
+3993,Sneha K 63,6.0,Mechanical,"Dynamics, Mechatronics, Thermo",No
+3994,Arjun S 74,6.4,Mechanical,"Mechatronics, Dynamics, Thermo",No
+3995,Sneha M 45,7.0,Mechanical,"Thermo, Mechatronics, Dynamics",No
+3996,Karan T 48,8.5,Information Tech.,"Security, Networking, Java",No
+3997,Ankit S 67,7.1,Data Science,"NLP, ML, Data Mining",No
+3998,Rahul S 59,9.6,Computer Sci.,"Python, OS, AI",No
+3999,Priya S 65,6.7,AI & ML,"AI, RL, NLP",No
+4000,Ankit K 81,9.7,Data Science,"Python, Stats, NLP",No
